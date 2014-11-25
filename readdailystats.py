@@ -55,8 +55,8 @@ def toChartJS(dic, name):
       data.append({"label": 'misc'+' (' + '{:.2f}'.format(100-newtot) + '%)', "value": 100-newtot})
     # Save json for this day
     export.append({'fname': jsonname, 'totalTime': totalTime})
-    toJson(sorted(export, key=lambda x: x['fname']), 'loglist.json')
-    toJson(data, 'data/'+jsonname)
+    toJson(sorted(export, key=lambda x: x['fname']), '/tmp/loglist.json')
+    toJson(data, '/tmp/data/'+jsonname)
 
 
 if __name__ == '__main__':
