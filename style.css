@@ -96,8 +96,8 @@ h1 {
   font-size: 2rem;
   padding-top: 1rem;
   padding-bottom: 1rem;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 10rem;
+  padding-right: 10rem;
   color: #182636;
   cursor: pointer;
   /* make arrows unselectable, since they are text technically */
