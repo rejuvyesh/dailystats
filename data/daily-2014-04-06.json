@@ -1,0 +1,30 @@
+[
+    {
+        "label": "procrastination (40.67%)",
+        "value": 40.67
+    },
+    {
+        "label": "term (15.60%)",
+        "value": 15.6
+    },
+    {
+        "label": "read:pdf (10.40%)",
+        "value": 10.4
+    },
+    {
+        "label": "write (1.99%)",
+        "value": 1.99
+    },
+    {
+        "label": "mail (1.22%)",
+        "value": 1.22
+    },
+    {
+        "label": "code:matlab (1.07%)",
+        "value": 1.07
+    },
+    {
+        "label": "misc (29.05%)",
+        "value": 29.05000000000001
+    }
+]

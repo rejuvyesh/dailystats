@@ -1,0 +1,34 @@
+[
+    {
+        "label": "procrastination (77.19%)",
+        "value": 77.19
+    },
+    {
+        "label": "term (8.53%)",
+        "value": 8.53
+    },
+    {
+        "label": "read:pdf (4.38%)",
+        "value": 4.38
+    },
+    {
+        "label": "mail (3.00%)",
+        "value": 3.0
+    },
+    {
+        "label": "code:haskell (2.30%)",
+        "value": 2.3
+    },
+    {
+        "label": "irc (2.07%)",
+        "value": 2.07
+    },
+    {
+        "label": "read:rss (1.38%)",
+        "value": 1.38
+    },
+    {
+        "label": "misc (1.15%)",
+        "value": 1.15000000000002
+    }
+]
