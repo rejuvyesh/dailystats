@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Daily Usage</title>
+
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.3.13/d3.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="d3utils.js" charset="utf-8"></script>
+    <script type="text/javascript">
+     function ppDate(date) {
+       return ['Jan.', 'Feb.', 'Mar.', 
+               'Apr.', 'May.', 'Jun.',
+               'Jul.', 'Aug.', 'Sep.', 
+               'Oct.', 'Nov.', 'Dec.'][date.getMonth()] + " " + (function (d) { 
+                 var s = d.toString(), l = s[s.length-1];
+                 return s+(['st','nd','rd'][l-1] || 'th');
+               })(date.getDate()) + ", " + date.getFullYear() + " ";
+     }
+
+     
+     function createPieChart(stats) {
+       var chart_data = {}
+       chart_data.width = $(window).width();
+       chart_data.height = 500;
+       chart_data.data = stats;
+       d3utils.drawPieChart(d3.select('#piechart'), chart_data)
+     }
+
+     function writeTotalTime(tot) {
+       t = tot.split(":");
+       console.log(t)
+       $("#totaltime").text("Total Time: "+ t[0] + "hr "+ t[1]+ "min "+ t[2]+ "s")
+     }
+
+     function writeCarousel(daylog) {
+       dat =  daylog.fname.substring(6).split('.')[0];
+       var d = new Date(dat);
+       $("#car").html('<h2>' + ppDate(d) + '</h2>');
+     }
+     
+     function fetchAndLoadEvents(daylog) {
+       loaded = false;
+       // we do this random thing to defeat caching.
+       var json_path = "data/" + daylog.fname + "?sigh=" + Math.floor(10000*Math.random());
+       console.log(json_path)
+       $.getJSON(json_path, function(data){
+         loaded = true;
+         
+         // Save these as globals so that we can access them later
+         dailyData = data;
+         console.log("data: "+data.length);
+         createPieChart(dailyData);
+       });
+     }
+     var totalTime;
+     var dailyData;
+     var loglist = [];
+     var curLogId = -1;
+
+     function start() {
+       $.getJSON("loglist.json", function(data){
+         // Save in global var
+         loglist = data;
+         console.log("loglist" + loglist.length)
+           curLogId = loglist.length - 1;
+         
+         fetchAndLoadEvents(loglist[curLogId]);
+         writeTotalTime(loglist[curLogId].totalTime);
+         writeCarousel(loglist[curLogId]);
+
+         // setup arrow events
+         $("#leftarrow").click(function() {
+           curLogId--;
+           if(curLogId < 0) {
+             curLogId = 0;
+           } else {
+             fetchAndLoadEvents(loglist[curLogId]); // display latest
+             writeTotalTime(loglist[curLogId].totalTime);
+             writeCarousel(loglist[curLogId]);
+           }
+         });
+         $("#rightarrow").click(function() {
+           curLogId++;
+           if(curLogId >= loglist.length) {
+             curLogId = loglist.length - 1;
+           } else {
+             fetchAndLoadEvents(loglist[curLogId]); // display latest
+             writeTotalTime(loglist[curLogId].totalTime);
+             writeCarousel(loglist[curLogId]);
+           }
+         });
+
+       });
+       setInterval(redraw, 1000); // in case of window resize, we can redraw
+     }
+     // redraw if dirty (due to window resize event)
+     function redraw() {
+       if(!dirty) return;
+       dirty = false;
+     }
+
+     var dirty = false;
+     $(window).resize(function() {
+       dirty = true;
+     });
+
+    </script>
+  </head>
+  
+  <body onload="start()">
+    <h1 class="main-header">Daily Usage Stats!</h1>
+    <div>
+      <div id="leftarrow" class="arrow">&#8592;</div>
+      <div id="rightarrow" class="arrow">&#8594;</div>
+      <div id="car"></div>
+    </div>
+    <div>
+      <div id="totaltime"></div>
+      <div id="piechart"></div>
+    </div>
+
+    </script>
+  </body>
+</html>
