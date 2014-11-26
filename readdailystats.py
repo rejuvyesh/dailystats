@@ -3,7 +3,6 @@
 # File: readdailystats.py
 #
 # Created: Thursday, November 20 2014 by rejuvyesh <mail@rejuvyesh.com>
-# License: GNU GPL 3 <http://www.gnu.org/copyleft/gpl.html>
 #
 
 # arbtt-stats --for-each=day --output-format=CSV -x 'tday:night' -x 'tday:morning' -x 'tday:lunchtime' -x 'tday:afternoon' -x 'tday:evening' -x 'tday:late-evening' > cleanstats.csv
