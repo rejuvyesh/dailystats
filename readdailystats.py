@@ -49,7 +49,7 @@ def toChartJS(dic, name):
       # normalize (bummer)
       newtot = 0
       for i, thing in enumerate(data):
-        data[i]['value'] = data[i]['value']/tot
+        data[i]['value'] = (data[i]['value']/tot)*100
         newtot += data[i]['value']
       data.append({"label": 'misc'+' (' + '{:.2f}'.format(100-newtot) + '%)', "value": 100-newtot})
     # Save json for this day
