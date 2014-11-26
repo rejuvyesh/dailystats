@@ -1,4 +1,4 @@
-all: csv json
+all: git
 
 csv:
 	arbtt-stats --categorizefile=./categorize.cfg --for-each=day --output-format=CSV > /tmp/cleanstats.csv
@@ -16,3 +16,4 @@ git: json
 push: git
 	git commit -m "`date`: push logs"
 	git push origin gh-pages
+	git checkout master
