@@ -1,30 +1,30 @@
 [
     {
-        "label": "procrastination (59.32%)",
-        "value": 56.495238095238086
+        "label": "procrastination (54.77%)",
+        "value": 51.86061925953982
     },
     {
-        "label": "mail (16.82%)",
-        "value": 16.019047619047615
+        "label": "mail (19.25%)",
+        "value": 18.2274405832781
     },
     {
-        "label": "tv:local (10.45%)",
-        "value": 9.95238095238095
+        "label": "tv:local (13.83%)",
+        "value": 13.095350819051227
     },
     {
-        "label": "read:pdf (7.95%)",
-        "value": 7.57142857142857
+        "label": "read:pdf (9.16%)",
+        "value": 8.673421077549474
     },
     {
-        "label": "code:python (5.23%)",
-        "value": 4.98095238095238
+        "label": "code:python (4.30%)",
+        "value": 4.071584130290692
     },
     {
-        "label": "write (5.23%)",
-        "value": 4.98095238095238
+        "label": "write (4.30%)",
+        "value": 4.071584130290692
     },
     {
         "label": "misc (0.00%)",
-        "value": 2.842170943040401e-14
+        "value": 0.0
     }
 ]
