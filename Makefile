@@ -1,4 +1,4 @@
-all: git
+all: push
 
 csv:
 	arbtt-stats --categorizefile=./categorize.cfg --for-each=day --output-format=CSV > /tmp/cleanstats.csv
