@@ -1,16 +1,16 @@
 [
     {
-        "color": "#8c564b",
+        "color": "#c49c94",
         "label": "misc (28.03%)",
         "value": 28.03
     },
     {
-        "color": "#c49c94",
+        "color": "#aec7e8",
         "label": "read:pdf (64.49%)",
         "value": 64.49
     },
     {
-        "color": "#98df8a",
+        "color": "#ff9896",
         "label": "term (7.48%)",
         "value": 7.48
     }

@@ -1,31 +1,31 @@
 [
     {
-        "color": "#f7b6d2",
+        "color": "#c7c7c7",
         "label": "communities (3.69%)",
         "value": 3.4524700598802394
     },
     {
-        "color": "#dbdb8d",
+        "color": "#ffbb78",
         "label": "irc (5.54%)",
         "value": 5.1833832335329335
     },
     {
-        "color": "#ff7f0e",
+        "color": "#e377c2",
         "label": "mail (9.06%)",
         "value": 8.47679640718563
     },
     {
-        "color": "#c49c94",
+        "color": "#aec7e8",
         "label": "read:pdf (38.09%)",
         "value": 35.638098802395206
     },
     {
-        "color": "#c7c7c7",
+        "color": "#c5b0d5",
         "label": "social (46.31%)",
         "value": 43.32896706586826
     },
     {
-        "color": "#98df8a",
+        "color": "#ff9896",
         "label": "term (3.02%)",
         "value": 2.825598802395209
     },

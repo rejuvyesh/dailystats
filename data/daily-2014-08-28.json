@@ -1,56 +1,56 @@
 [
     {
-        "color": "#ff9896",
+        "color": "#8c564b",
         "label": "code:matlab (1.05%)",
         "value": 1.05
     },
     {
-        "color": "#aec7e8",
+        "color": "#1f77b4",
         "label": "code:web (1.05%)",
         "value": 1.05
     },
     {
-        "color": "#f7b6d2",
+        "color": "#c7c7c7",
         "label": "communities (2.51%)",
         "value": 2.51
     },
     {
-        "color": "#dbdb8d",
+        "color": "#ffbb78",
         "label": "irc (1.46%)",
         "value": 1.46
     },
     {
-        "color": "#ff7f0e",
+        "color": "#e377c2",
         "label": "mail (4.39%)",
         "value": 4.39
     },
     {
-        "color": "#8c564b",
+        "color": "#c49c94",
         "label": "misc (1.04%)",
         "value": 1.039999999999992
     },
     {
-        "color": "#c49c94",
+        "color": "#aec7e8",
         "label": "read:pdf (11.72%)",
         "value": 11.72
     },
     {
-        "color": "#c5b0d5",
+        "color": "#17becf",
         "label": "read:rss (2.93%)",
         "value": 2.93
     },
     {
-        "color": "#c7c7c7",
+        "color": "#c5b0d5",
         "label": "social (55.86%)",
         "value": 55.86
     },
     {
-        "color": "#98df8a",
+        "color": "#ff9896",
         "label": "term (15.48%)",
         "value": 15.48
     },
     {
-        "color": "#7f7f7f",
+        "color": "#2ca02c",
         "label": "write (2.51%)",
         "value": 2.51
     }

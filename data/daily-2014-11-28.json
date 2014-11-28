@@ -1,62 +1,62 @@
 [
     {
-        "color": "#e377c2",
-        "label": "code:python (8.23%)",
-        "value": 8.23
-    },
-    {
-        "color": "#aec7e8",
-        "label": "code:web (1.48%)",
-        "value": 1.48
-    },
-    {
-        "color": "#f7b6d2",
-        "label": "communities (1.05%)",
-        "value": 1.05
-    },
-    {
         "color": "#dbdb8d",
-        "label": "irc (1.05%)",
-        "value": 1.05
-    },
-    {
-        "color": "#ff7f0e",
-        "label": "mail (4.01%)",
-        "value": 4.01
-    },
-    {
-        "color": "#8c564b",
-        "label": "misc (12.46%)",
-        "value": 12.459999999999994
-    },
-    {
-        "color": "#c49c94",
-        "label": "read:pdf (1.05%)",
-        "value": 1.05
-    },
-    {
-        "color": "#c5b0d5",
-        "label": "read:rss (1.69%)",
-        "value": 1.69
-    },
-    {
-        "color": "#c7c7c7",
-        "label": "social (54.64%)",
-        "value": 54.64
+        "label": "code:python (8.06%)",
+        "value": 8.06
     },
     {
         "color": "#1f77b4",
-        "label": "tv:local (4.01%)",
-        "value": 4.01
+        "label": "code:web (1.45%)",
+        "value": 1.45
     },
     {
-        "color": "#9467bd",
-        "label": "tv:web (9.28%)",
-        "value": 9.28
+        "color": "#c7c7c7",
+        "label": "communities (1.45%)",
+        "value": 1.45
+    },
+    {
+        "color": "#ffbb78",
+        "label": "irc (1.03%)",
+        "value": 1.03
+    },
+    {
+        "color": "#e377c2",
+        "label": "mail (3.93%)",
+        "value": 3.93
+    },
+    {
+        "color": "#c49c94",
+        "label": "misc (12.60%)",
+        "value": 12.599999999999966
+    },
+    {
+        "color": "#aec7e8",
+        "label": "read:pdf (1.03%)",
+        "value": 1.03
+    },
+    {
+        "color": "#17becf",
+        "label": "read:rss (1.65%)",
+        "value": 1.65
+    },
+    {
+        "color": "#c5b0d5",
+        "label": "social (54.75%)",
+        "value": 54.75
     },
     {
         "color": "#7f7f7f",
-        "label": "write (1.05%)",
-        "value": 1.05
+        "label": "tv:local (3.93%)",
+        "value": 3.93
+    },
+    {
+        "color": "#9467bd",
+        "label": "tv:web (9.09%)",
+        "value": 9.09
+    },
+    {
+        "color": "#2ca02c",
+        "label": "write (1.03%)",
+        "value": 1.03
     }
 ]

@@ -1,16 +1,16 @@
 [
     {
-        "color": "#8c564b",
+        "color": "#c49c94",
         "label": "misc (0.00%)",
         "value": 0.0
     },
     {
-        "color": "#c7c7c7",
+        "color": "#c5b0d5",
         "label": "social (90.00%)",
         "value": 90.0
     },
     {
-        "color": "#98df8a",
+        "color": "#ff9896",
         "label": "term (10.00%)",
         "value": 10.0
     }

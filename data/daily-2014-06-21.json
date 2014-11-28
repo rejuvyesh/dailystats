@@ -1,11 +1,11 @@
 [
     {
-        "color": "#ff7f0e",
+        "color": "#e377c2",
         "label": "mail (12.50%)",
         "value": 11.11111111111111
     },
     {
-        "color": "#c7c7c7",
+        "color": "#c5b0d5",
         "label": "social (100.00%)",
         "value": 88.88888888888889
     }

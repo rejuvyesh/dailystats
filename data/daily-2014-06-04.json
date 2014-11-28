@@ -1,21 +1,21 @@
 [
     {
-        "color": "#f7b6d2",
+        "color": "#c7c7c7",
         "label": "communities (5.72%)",
         "value": 5.368875539703398
     },
     {
-        "color": "#ff7f0e",
+        "color": "#e377c2",
         "label": "mail (4.09%)",
         "value": 3.8389337338088985
     },
     {
-        "color": "#c7c7c7",
+        "color": "#c5b0d5",
         "label": "social (91.55%)",
         "value": 85.93016707339967
     },
     {
-        "color": "#98df8a",
+        "color": "#ff9896",
         "label": "term (5.18%)",
         "value": 4.862023653088042
     }

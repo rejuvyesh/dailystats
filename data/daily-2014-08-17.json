@@ -1,41 +1,41 @@
 [
     {
-        "color": "#ff9896",
+        "color": "#8c564b",
         "label": "code:matlab (2.21%)",
         "value": 2.1881188118811887
     },
     {
-        "color": "#f7b6d2",
+        "color": "#c7c7c7",
         "label": "communities (4.02%)",
         "value": 3.980198019801981
     },
     {
-        "color": "#dbdb8d",
+        "color": "#ffbb78",
         "label": "irc (3.21%)",
         "value": 3.178217821782179
     },
     {
-        "color": "#ff7f0e",
+        "color": "#e377c2",
         "label": "mail (14.86%)",
         "value": 14.712871287128717
     },
     {
-        "color": "#c49c94",
+        "color": "#aec7e8",
         "label": "read:pdf (7.83%)",
         "value": 7.752475247524755
     },
     {
-        "color": "#c5b0d5",
+        "color": "#17becf",
         "label": "read:rss (2.81%)",
         "value": 2.782178217821783
     },
     {
-        "color": "#c7c7c7",
+        "color": "#c5b0d5",
         "label": "social (62.65%)",
         "value": 62.02970297029704
     },
     {
-        "color": "#98df8a",
+        "color": "#ff9896",
         "label": "term (3.41%)",
         "value": 3.376237623762377
     }
