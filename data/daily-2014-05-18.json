@@ -1,21 +1,21 @@
 [
     {
-        "color": "#c5b0d5",
+        "color": "#e377c2",
         "label": "code:python (48.29%)",
         "value": 45.690226133030556
     },
     {
-        "color": "#dbdb8d",
+        "color": "#ff7f0e",
         "label": "mail (7.98%)",
         "value": 7.550383196139654
     },
     {
-        "color": "#ff9896",
+        "color": "#c7c7c7",
         "label": "social (41.44%)",
         "value": 39.20900747469013
     },
     {
-        "color": "#1f77b4",
+        "color": "#98df8a",
         "label": "term (7.98%)",
         "value": 7.550383196139654
     }

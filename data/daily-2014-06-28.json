@@ -1,51 +1,51 @@
 [
     {
-        "color": "#9467bd",
+        "color": "#bcbd22",
         "label": "code:haskell (3.49%)",
         "value": 3.28408770113861
     },
     {
-        "color": "#c49c94",
+        "color": "#aec7e8",
         "label": "code:web (5.58%)",
         "value": 5.250776324456574
     },
     {
-        "color": "#c7c7c7",
+        "color": "#f7b6d2",
         "label": "communities (3.66%)",
         "value": 3.444057589159688
     },
     {
-        "color": "#e377c2",
+        "color": "#dbdb8d",
         "label": "irc (2.44%)",
         "value": 2.2960383927731254
     },
     {
-        "color": "#dbdb8d",
+        "color": "#ff7f0e",
         "label": "mail (1.57%)",
         "value": 1.4773689658417242
     },
     {
-        "color": "#d62728",
+        "color": "#c49c94",
         "label": "read:pdf (3.84%)",
         "value": 3.613437470593771
     },
     {
-        "color": "#aec7e8",
+        "color": "#c5b0d5",
         "label": "read:rss (2.62%)",
         "value": 2.4654182742072086
     },
     {
-        "color": "#ff9896",
+        "color": "#c7c7c7",
         "label": "social (74.17%)",
         "value": 69.79392114425521
     },
     {
-        "color": "#1f77b4",
+        "color": "#98df8a",
         "label": "term (5.41%)",
         "value": 5.0908064364354955
     },
     {
-        "color": "#98df8a",
+        "color": "#7f7f7f",
         "label": "write (3.49%)",
         "value": 3.28408770113861
     }
