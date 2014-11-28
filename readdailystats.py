@@ -62,24 +62,25 @@ def toChartJS(dic, color, name):
     toJson(sorted(data, key=lambda x: x['label']), '/tmp/data/'+jsonname)
 
 
-def dailyUsage(csvfile):
+def dailyUsage(dailyfile, minutefile):
   """
 
   Arguments:
-  - `csvfile`:
+  - `dailyfile`:
+  - `minutefile`:
   """
   tags = set({'misc'})
-  date = {}
-  with open(csvfile, 'r') as f:
+  dailydata = {}
+  with open(dailyfile, 'r') as f:
     dailystats = csv.reader(f, delimiter=',')
     next(dailystats)   # Skip headers
     for row in dailystats:
-      if row[0] in date.keys():
+      if row[0] in dailydata.keys():
         # {'tag' : {'time', 'percent'}}
         tags.update({row[1]})
-        date[row[0]].append({row[1]: {'Time': row[2], 'Percent': row[3]}})
+        dailydata[row[0]].append({row[1]: {'Time': row[2], 'Percent': row[3]}})
       else:
-        date[row[0]] = [{row[1]: {'Time': row[2], 'Percent': row[3]}}]
+        dailydata[row[0]] = [{row[1]: {'Time': row[2], 'Percent': row[3]}}]
   col = {}
   category20 = [
     "#1f77b4", "#aec7e8",
@@ -106,3 +107,4 @@ if __name__ == '__main__':
   else:
     dailyfile = sys.argv[1]
     minutefile = sys.argv[2]
+    dailyUsage(dailyfile, minutefile)
