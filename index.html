@@ -108,6 +108,7 @@
      }
      var totalTime;
      var dailyData;
+     var minuteData;
      var loglist = [];
      var curLogId = -1;
 
@@ -150,6 +151,7 @@
      // redraw if dirty (due to window resize event)
      function redraw() {
        if(!dirty) return;
+       createBarcode(minuteData);
        dirty = false;
      }
 
