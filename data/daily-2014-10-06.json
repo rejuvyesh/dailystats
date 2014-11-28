@@ -1,27 +1,32 @@
 [
     {
-        "color": "#9467bd",
+        "color": "#d62728",
         "label": "mail (16.58%)",
-        "value": 15.015395761637384
+        "value": 15.015395761637382
     },
     {
-        "color": "#8c564b",
-        "label": "procrastination (74.06%)",
+        "color": "#2ca02c",
+        "label": "procrastination:social (74.06%)",
         "value": 67.07118275674698
     },
     {
-        "color": "#ffbb78",
+        "color": "#98df8a",
         "label": "read:pdf (1.60%)",
-        "value": 1.4490128599891328
+        "value": 1.4490128599891323
     },
     {
-        "color": "#bcbd22",
+        "color": "#dbdb8d",
         "label": "read:rss (3.74%)",
-        "value": 3.387067560224598
+        "value": 3.387067560224597
+    },
+    {
+        "color": "#ff7f0e",
+        "label": "tv:local (12.57%)",
+        "value": 11.383807281289622
     },
     {
         "color": "#c49c94",
-        "label": "tv:local (14.44%)",
-        "value": 13.07734106140192
+        "label": "tv:web (1.87%)",
+        "value": 1.6935337801122985
     }
 ]

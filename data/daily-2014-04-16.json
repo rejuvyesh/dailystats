@@ -1,31 +1,31 @@
 [
     {
-        "color": "#98df8a",
+        "color": "#1f77b4",
         "label": "irc (5.90%)",
         "value": 5.9
     },
     {
-        "color": "#9467bd",
+        "color": "#d62728",
         "label": "mail (3.14%)",
         "value": 3.14
     },
     {
-        "color": "#c5b0d5",
+        "color": "#aec7e8",
         "label": "misc (12.92%)",
         "value": 12.920000000000002
     },
     {
-        "color": "#8c564b",
-        "label": "procrastination (53.87%)",
+        "color": "#2ca02c",
+        "label": "procrastination:social (53.87%)",
         "value": 53.87
     },
     {
-        "color": "#ffbb78",
+        "color": "#98df8a",
         "label": "read:pdf (2.58%)",
         "value": 2.58
     },
     {
-        "color": "#ff9896",
+        "color": "#e377c2",
         "label": "term (21.59%)",
         "value": 21.59
     }

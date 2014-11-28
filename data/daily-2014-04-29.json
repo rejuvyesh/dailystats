@@ -1,22 +1,17 @@
 [
     {
-        "color": "#c5b0d5",
-        "label": "misc (7.47%)",
-        "value": 7.469999999999999
+        "color": "#aec7e8",
+        "label": "misc (28.03%)",
+        "value": 28.03
     },
     {
-        "color": "#ffbb78",
+        "color": "#98df8a",
         "label": "read:pdf (64.49%)",
         "value": 64.49
     },
     {
-        "color": "#ff9896",
+        "color": "#e377c2",
         "label": "term (7.48%)",
         "value": 7.48
-    },
-    {
-        "color": "#c49c94",
-        "label": "tv:local (20.56%)",
-        "value": 20.56
     }
 ]

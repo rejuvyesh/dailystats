@@ -1,37 +1,37 @@
 [
     {
-        "color": "#9467bd",
+        "color": "#d62728",
         "label": "mail (2.17%)",
         "value": 2.17
     },
     {
-        "color": "#c5b0d5",
-        "label": "misc (10.43%)",
-        "value": 10.429999999999993
+        "color": "#aec7e8",
+        "label": "misc (11.22%)",
+        "value": 11.219999999999999
     },
     {
-        "color": "#8c564b",
-        "label": "procrastination (59.45%)",
+        "color": "#2ca02c",
+        "label": "procrastination:social (59.45%)",
         "value": 59.45
     },
     {
-        "color": "#d62728",
+        "color": "#bcbd22",
         "label": "read:epub (2.36%)",
         "value": 2.36
     },
     {
-        "color": "#ffbb78",
+        "color": "#98df8a",
         "label": "read:pdf (19.29%)",
         "value": 19.29
     },
     {
-        "color": "#bcbd22",
+        "color": "#dbdb8d",
         "label": "read:rss (1.77%)",
         "value": 1.77
     },
     {
-        "color": "#c49c94",
-        "label": "tv:local (4.53%)",
-        "value": 4.53
+        "color": "#ff7f0e",
+        "label": "tv:local (3.74%)",
+        "value": 3.74
     }
 ]

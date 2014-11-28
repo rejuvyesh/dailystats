@@ -1,52 +1,57 @@
 [
     {
-        "color": "#dbdb8d",
-        "label": "code:python (8.20%)",
-        "value": 8.2
-    },
-    {
         "color": "#c7c7c7",
-        "label": "code:web (1.85%)",
-        "value": 1.85
-    },
-    {
-        "color": "#98df8a",
-        "label": "irc (1.32%)",
-        "value": 1.32
-    },
-    {
-        "color": "#9467bd",
-        "label": "mail (3.70%)",
-        "value": 3.7
+        "label": "code:python (7.08%)",
+        "value": 7.08
     },
     {
         "color": "#c5b0d5",
-        "label": "misc (8.21%)",
-        "value": 8.210000000000008
+        "label": "code:web (1.60%)",
+        "value": 1.6
     },
     {
-        "color": "#8c564b",
-        "label": "procrastination (55.29%)",
-        "value": 55.29
+        "color": "#1f77b4",
+        "label": "irc (1.14%)",
+        "value": 1.14
     },
     {
-        "color": "#ffbb78",
-        "label": "read:pdf (1.32%)",
-        "value": 1.32
-    },
-    {
-        "color": "#bcbd22",
-        "label": "read:rss (2.12%)",
-        "value": 2.12
-    },
-    {
-        "color": "#c49c94",
-        "label": "tv:local (16.67%)",
-        "value": 16.67
+        "color": "#d62728",
+        "label": "mail (4.34%)",
+        "value": 4.34
     },
     {
         "color": "#aec7e8",
-        "label": "write (1.32%)",
-        "value": 1.32
+        "label": "misc (10.26%)",
+        "value": 10.260000000000005
+    },
+    {
+        "color": "#2ca02c",
+        "label": "procrastination:social (57.08%)",
+        "value": 57.08
+    },
+    {
+        "color": "#98df8a",
+        "label": "read:pdf (1.14%)",
+        "value": 1.14
+    },
+    {
+        "color": "#dbdb8d",
+        "label": "read:rss (1.83%)",
+        "value": 1.83
+    },
+    {
+        "color": "#ff7f0e",
+        "label": "tv:local (4.34%)",
+        "value": 4.34
+    },
+    {
+        "color": "#c49c94",
+        "label": "tv:web (10.05%)",
+        "value": 10.05
+    },
+    {
+        "color": "#ffbb78",
+        "label": "write (1.14%)",
+        "value": 1.14
     }
 ]
