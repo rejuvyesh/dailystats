@@ -1,11 +1,11 @@
 [
     {
-        "color": "#98df8a",
+        "color": "#c5b0d5",
         "label": "mail (12.50%)",
         "value": 11.11111111111111
     },
     {
-        "color": "#8c564b",
+        "color": "#d62728",
         "label": "procrastination (100.00%)",
         "value": 88.88888888888889
     }

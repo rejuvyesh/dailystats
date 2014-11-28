@@ -1,26 +1,26 @@
 [
     {
-        "color": "#98df8a",
+        "color": "#c5b0d5",
         "label": "mail (57.95%)",
         "value": 36.57074340527578
     },
     {
-        "color": "#bcbd22",
+        "color": "#ff9896",
         "label": "read:pdf (29.74%)",
         "value": 18.768143380032814
     },
     {
-        "color": "#c5b0d5",
+        "color": "#aec7e8",
         "label": "term (9.23%)",
         "value": 5.824813833144011
     },
     {
-        "color": "#c7c7c7",
+        "color": "#8c564b",
         "label": "tv:local (60.51%)",
         "value": 38.18629307080651
     },
     {
-        "color": "#d62728",
+        "color": "#c49c94",
         "label": "write (1.03%)",
         "value": 0.650006310740881
     }

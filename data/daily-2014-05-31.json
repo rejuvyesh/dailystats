@@ -1,21 +1,21 @@
 [
     {
-        "color": "#98df8a",
+        "color": "#c5b0d5",
         "label": "mail (1.09%)",
         "value": 1.09
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c7c7c7",
         "label": "misc (1.09%)",
         "value": 1.0899999999999892
     },
     {
-        "color": "#8c564b",
+        "color": "#d62728",
         "label": "procrastination (95.65%)",
         "value": 95.65
     },
     {
-        "color": "#c5b0d5",
+        "color": "#aec7e8",
         "label": "term (2.17%)",
         "value": 2.17
     }

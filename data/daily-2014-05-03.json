@@ -1,16 +1,16 @@
 [
     {
-        "color": "#7f7f7f",
+        "color": "#c7c7c7",
         "label": "misc (0.00%)",
         "value": 0.0
     },
     {
-        "color": "#8c564b",
+        "color": "#d62728",
         "label": "procrastination (66.67%)",
         "value": 66.67
     },
     {
-        "color": "#c5b0d5",
+        "color": "#aec7e8",
         "label": "term (33.33%)",
         "value": 33.33
     }

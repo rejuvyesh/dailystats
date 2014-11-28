@@ -1,36 +1,36 @@
 [
     {
-        "color": "#e377c2",
+        "color": "#dbdb8d",
         "label": "code:matlab (1.35%)",
         "value": 1.35
     },
     {
-        "color": "#98df8a",
+        "color": "#c5b0d5",
         "label": "mail (2.54%)",
         "value": 2.54
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c7c7c7",
         "label": "misc (4.24%)",
         "value": 4.239999999999995
     },
     {
-        "color": "#8c564b",
+        "color": "#d62728",
         "label": "procrastination (60.74%)",
         "value": 60.74
     },
     {
-        "color": "#bcbd22",
+        "color": "#ff9896",
         "label": "read:pdf (3.72%)",
         "value": 3.72
     },
     {
-        "color": "#aec7e8",
+        "color": "#2ca02c",
         "label": "read:rss (1.86%)",
         "value": 1.86
     },
     {
-        "color": "#c7c7c7",
+        "color": "#8c564b",
         "label": "tv:local (25.55%)",
         "value": 25.55
     }
