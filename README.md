@@ -7,10 +7,12 @@ I like [arbtt](http://arbtt.nomeata.de/#what). The logs are a little safer and i
 
 There a few issues remaining that need to be resolved, otherwise this works fine. I guess the code can be simplified.  Any pull requests is welcome of course.
 
+**Requires yet unreleased `arbtt-stats` version 0.9. Since it now has `for-each=minute` for the barcode chart to work.**
+
 How to use?
 -----------
 
-1. Install [`arbtt`](http://arbtt.nomeata.de/). Run `arbtt-capture` at startup.
+1. Install [`arbtt`](http://arbtt.nomeata.de/#install). Run `arbtt-capture` at startup.
 2. Fork this project.
 3. Clone the project to your machine.
 4. Modify `categorize.cfg` as per your need.
