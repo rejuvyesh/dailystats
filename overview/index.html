@@ -25,7 +25,7 @@
          var dt = e.value * secs/100;
          var label = e.label.split(' ')[0];
          count[label] = dt;
-       
+       }
      }
      var tags = [];
      var colors = {};
@@ -81,7 +81,7 @@
        }
 
        var margin = {top: 10, right:10, bottom: 100, left: 40};
-       
+
        var fullwidth = loglist.length * 15;
        var fullheight = 800;
        var width = fullwidth - margin.left - margin.right;
@@ -142,7 +142,6 @@
           .attr('x2', function(d,i) { return margin.left + i * dsz; })
           .attr('y1', height + margin.top)
           .attr('y2', margin.top);
-
        // draw
        for(var k=0; k<N; k++) {
          var dtimes = [];
@@ -214,7 +213,7 @@
   <body onload="start()">
     <h1 class="main-header">Daily Usage Stats! - Overview</h1>
     <div id="wrap">
-      <h2>Total Time per Day</h2>
+      <h2>Total Amount of Time Spent per Day</h2>
       <div id="content">
       </div>
     </div>
