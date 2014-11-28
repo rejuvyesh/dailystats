@@ -1,32 +1,37 @@
 [
     {
-        "color": "#f7b6d2",
-        "label": "irc (2.47%)",
-        "value": 2.3412322274881525
-    },
-    {
-        "color": "#ff9896",
-        "label": "mail (2.66%)",
-        "value": 2.52132701421801
+        "color": "#c7c7c7",
+        "label": "communities (4.56%)",
+        "value": 4.1431946211157555
     },
     {
         "color": "#e377c2",
-        "label": "procrastination:social (87.45%)",
-        "value": 82.89099526066353
+        "label": "irc (2.47%)",
+        "value": 2.2442304197710343
+    },
+    {
+        "color": "#dbdb8d",
+        "label": "mail (2.66%)",
+        "value": 2.416863528984191
+    },
+    {
+        "color": "#d62728",
+        "label": "read:pdf (5.32%)",
+        "value": 4.833727057968382
     },
     {
         "color": "#aec7e8",
-        "label": "read:pdf (5.32%)",
-        "value": 5.04265402843602
-    },
-    {
-        "color": "#98df8a",
         "label": "read:rss (6.27%)",
-        "value": 5.943127962085309
+        "value": 5.696892604034163
     },
     {
-        "color": "#c49c94",
+        "color": "#ff9896",
+        "label": "social (87.45%)",
+        "value": 79.4566600036344
+    },
+    {
+        "color": "#1f77b4",
         "label": "term (1.33%)",
-        "value": 1.260663507109005
+        "value": 1.2084317644920954
     }
 ]

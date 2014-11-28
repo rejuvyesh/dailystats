@@ -1,42 +1,47 @@
 [
     {
-        "color": "#f7b6d2",
-        "label": "irc (1.78%)",
-        "value": 1.6082399710878208
-    },
-    {
-        "color": "#ff9896",
-        "label": "mail (2.37%)",
-        "value": 2.1413082761113116
+        "color": "#c7c7c7",
+        "label": "communities (7.11%)",
+        "value": 6.03616605823924
     },
     {
         "color": "#e377c2",
-        "label": "procrastination:social (81.23%)",
-        "value": 73.39176002891217
+        "label": "irc (1.78%)",
+        "value": 1.511163935817981
     },
     {
-        "color": "#7f7f7f",
+        "color": "#dbdb8d",
+        "label": "mail (2.37%)",
+        "value": 2.012055352746413
+    },
+    {
+        "color": "#f7b6d2",
         "label": "read:epub (3.75%)",
-        "value": 3.3881460065052402
+        "value": 3.1836318872569827
+    },
+    {
+        "color": "#d62728",
+        "label": "read:pdf (10.08%)",
+        "value": 8.557602512946769
     },
     {
         "color": "#aec7e8",
-        "label": "read:pdf (10.08%)",
-        "value": 9.107336465486085
+        "label": "read:rss (2.77%)",
+        "value": 2.3516427540538247
+    },
+    {
+        "color": "#ff9896",
+        "label": "social (81.23%)",
+        "value": 68.96171152050259
+    },
+    {
+        "color": "#1f77b4",
+        "label": "term (1.78%)",
+        "value": 1.511163935817981
     },
     {
         "color": "#98df8a",
-        "label": "read:rss (2.77%)",
-        "value": 2.5027105168052044
-    },
-    {
-        "color": "#c49c94",
-        "label": "term (1.78%)",
-        "value": 1.6082399710878208
-    },
-    {
-        "color": "#ff7f0e",
         "label": "write (6.92%)",
-        "value": 6.2522587640043366
+        "value": 5.8748620426182185
     }
 ]

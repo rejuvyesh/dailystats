@@ -1,21 +1,21 @@
 [
     {
-        "color": "#ff9896",
+        "color": "#dbdb8d",
         "label": "mail (46.48%)",
         "value": 37.08017550857598
     },
     {
-        "color": "#e377c2",
-        "label": "procrastination:social (64.79%)",
-        "value": 51.687275628240926
-    },
-    {
-        "color": "#aec7e8",
+        "color": "#d62728",
         "label": "read:pdf (8.45%)",
         "value": 6.741124850418827
     },
     {
-        "color": "#c49c94",
+        "color": "#ff9896",
+        "label": "social (64.79%)",
+        "value": 51.687275628240926
+    },
+    {
+        "color": "#1f77b4",
         "label": "term (5.63%)",
         "value": 4.49142401276426
     }

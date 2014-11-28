@@ -1,17 +1,22 @@
 [
     {
-        "color": "#ff9896",
+        "color": "#c7c7c7",
+        "label": "communities (8.48%)",
+        "value": 7.645838968533044
+    },
+    {
+        "color": "#dbdb8d",
         "label": "mail (2.73%)",
-        "value": 2.6652347944938004
+        "value": 2.461455233973492
     },
     {
-        "color": "#e377c2",
-        "label": "procrastination:social (96.06%)",
-        "value": 93.7811188128478
-    },
-    {
-        "color": "#aec7e8",
+        "color": "#d62728",
         "label": "read:pdf (3.64%)",
-        "value": 3.553646392658401
+        "value": 3.281940311964656
+    },
+    {
+        "color": "#ff9896",
+        "label": "social (96.06%)",
+        "value": 86.6107654855288
     }
 ]

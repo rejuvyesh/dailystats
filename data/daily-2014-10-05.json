@@ -1,12 +1,12 @@
 [
     {
-        "color": "#9467bd",
+        "color": "#bcbd22",
         "label": "misc (60.00%)",
         "value": 60.0
     },
     {
-        "color": "#e377c2",
-        "label": "procrastination:social (40.00%)",
+        "color": "#ff9896",
+        "label": "social (40.00%)",
         "value": 40.0
     }
 ]
