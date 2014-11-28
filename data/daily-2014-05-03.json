@@ -1,13 +1,16 @@
 [
     {
+        "color": "hsl(250, 55%, 45%)",
         "label": "misc (0.00%)",
         "value": 0.0
     },
     {
+        "color": "hsl(170, 55%, 45%)",
         "label": "procrastination (66.67%)",
         "value": 66.67
     },
     {
+        "color": "hsl(50, 55%, 45%)",
         "label": "term (33.33%)",
         "value": 33.33
     }

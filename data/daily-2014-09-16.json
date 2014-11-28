@@ -1,29 +1,36 @@
 [
     {
+        "color": "hsl(70, 55%, 45%)",
         "label": "irc (6.25%)",
         "value": 6.25
     },
     {
+        "color": "hsl(190, 55%, 45%)",
         "label": "mail (5.47%)",
         "value": 5.47
     },
     {
+        "color": "hsl(250, 55%, 45%)",
         "label": "misc (10.94%)",
         "value": 10.939999999999998
     },
     {
+        "color": "hsl(170, 55%, 45%)",
         "label": "procrastination (46.88%)",
         "value": 46.88
     },
     {
+        "color": "hsl(290, 55%, 45%)",
         "label": "read:pdf (7.81%)",
         "value": 7.81
     },
     {
+        "color": "hsl(50, 55%, 45%)",
         "label": "term (14.06%)",
         "value": 14.06
     },
     {
+        "color": "hsl(330, 55%, 45%)",
         "label": "tv:local (8.59%)",
         "value": 8.59
     }

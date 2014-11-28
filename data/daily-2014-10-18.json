@@ -1,29 +1,36 @@
 [
     {
+        "color": "hsl(210, 55%, 45%)",
         "label": "code:matlab (1.35%)",
         "value": 1.35
     },
     {
+        "color": "hsl(190, 55%, 45%)",
         "label": "mail (2.54%)",
         "value": 2.54
     },
     {
+        "color": "hsl(250, 55%, 45%)",
         "label": "misc (4.24%)",
         "value": 4.239999999999995
     },
     {
+        "color": "hsl(170, 55%, 45%)",
         "label": "procrastination (60.74%)",
         "value": 60.74
     },
     {
+        "color": "hsl(290, 55%, 45%)",
         "label": "read:pdf (3.72%)",
         "value": 3.72
     },
     {
+        "color": "hsl(130, 55%, 45%)",
         "label": "read:rss (1.86%)",
         "value": 1.86
     },
     {
+        "color": "hsl(330, 55%, 45%)",
         "label": "tv:local (25.55%)",
         "value": 25.55
     }

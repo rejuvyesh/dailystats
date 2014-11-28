@@ -1,17 +1,21 @@
 [
     {
+        "color": "hsl(350, 55%, 45%)",
         "label": "code:python (34.89%)",
         "value": 33.85735080058224
     },
     {
+        "color": "hsl(190, 55%, 45%)",
         "label": "mail (4.45%)",
         "value": 4.318292091217855
     },
     {
+        "color": "hsl(170, 55%, 45%)",
         "label": "procrastination (55.04%)",
         "value": 53.41096555070354
     },
     {
+        "color": "hsl(50, 55%, 45%)",
         "label": "term (8.67%)",
         "value": 8.41339155749636
     }

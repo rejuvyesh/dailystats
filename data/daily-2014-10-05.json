@@ -1,9 +1,11 @@
 [
     {
+        "color": "hsl(250, 55%, 45%)",
         "label": "misc (60.00%)",
         "value": 60.0
     },
     {
+        "color": "hsl(170, 55%, 45%)",
         "label": "procrastination (40.00%)",
         "value": 40.0
     }

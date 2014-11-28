@@ -1,30 +1,42 @@
 [
     {
-        "label": "code:web (1.92%)",
-        "value": 1.92
+        "color": "hsl(350, 55%, 45%)",
+        "label": "code:python (6.77%)",
+        "value": 6.77
     },
     {
-        "label": "irc (1.44%)",
-        "value": 1.44
+        "color": "hsl(229, 55%, 45%)",
+        "label": "code:web (1.59%)",
+        "value": 1.59
     },
     {
-        "label": "mail (1.92%)",
-        "value": 1.92
+        "color": "hsl(70, 55%, 45%)",
+        "label": "irc (1.20%)",
+        "value": 1.2
     },
     {
-        "label": "misc (6.25%)",
-        "value": 6.25
+        "color": "hsl(190, 55%, 45%)",
+        "label": "mail (1.59%)",
+        "value": 1.59
     },
     {
-        "label": "procrastination (54.33%)",
-        "value": 54.33
+        "color": "hsl(250, 55%, 45%)",
+        "label": "misc (7.17%)",
+        "value": 7.1699999999999875
     },
     {
-        "label": "read:rss (3.85%)",
-        "value": 3.85
+        "color": "hsl(170, 55%, 45%)",
+        "label": "procrastination (53.39%)",
+        "value": 53.39
     },
     {
-        "label": "tv:local (30.29%)",
-        "value": 30.29
+        "color": "hsl(130, 55%, 45%)",
+        "label": "read:rss (3.19%)",
+        "value": 3.19
+    },
+    {
+        "color": "hsl(330, 55%, 45%)",
+        "label": "tv:local (25.10%)",
+        "value": 25.1
     }
 ]

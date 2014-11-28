@@ -1,25 +1,31 @@
 [
     {
+        "color": "hsl(150, 55%, 45%)",
         "label": "code:haskell (4.90%)",
         "value": 4.9
     },
     {
+        "color": "hsl(70, 55%, 45%)",
         "label": "irc (1.10%)",
         "value": 1.1
     },
     {
+        "color": "hsl(190, 55%, 45%)",
         "label": "mail (1.84%)",
         "value": 1.84
     },
     {
+        "color": "hsl(250, 55%, 45%)",
         "label": "misc (28.06%)",
         "value": 28.060000000000002
     },
     {
+        "color": "hsl(170, 55%, 45%)",
         "label": "procrastination (61.40%)",
         "value": 61.4
     },
     {
+        "color": "hsl(130, 55%, 45%)",
         "label": "read:rss (2.70%)",
         "value": 2.7
     }

@@ -1,13 +1,16 @@
 [
     {
+        "color": "hsl(250, 55%, 45%)",
         "label": "misc (11.11%)",
         "value": 11.11
     },
     {
+        "color": "hsl(290, 55%, 45%)",
         "label": "read:pdf (50.00%)",
         "value": 50.0
     },
     {
+        "color": "hsl(50, 55%, 45%)",
         "label": "term (38.89%)",
         "value": 38.89
     }
