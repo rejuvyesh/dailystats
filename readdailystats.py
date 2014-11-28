@@ -36,7 +36,10 @@ def toChartJS(dic, mindic, color, name):
     jsonname = name + '-' + day + '.json'
     
     d = dic[day]
-    mind = mindic[day]
+    try:
+      mind = mindic[day]
+    except KeyError:
+      mind = {}
     data = []
     tot = 0
     for index, item in enumerate(d):
