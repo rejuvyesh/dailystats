@@ -62,39 +62,47 @@ def toChartJS(dic, color, name):
     toJson(sorted(data, key=lambda x: x['label']), '/tmp/data/'+jsonname)
 
 
+def dailyUsage(csvfile):
+  """
+
+  Arguments:
+  - `csvfile`:
+  """
+  tags = set({'misc'})
+  date = {}
+  with open(csvfile, 'r') as f:
+    dailystats = csv.reader(f, delimiter=',')
+    next(dailystats)   # Skip headers
+    for row in dailystats:
+      if row[0] in date.keys():
+        # {'tag' : {'time', 'percent'}}
+        tags.update({row[1]})
+        date[row[0]].append({row[1]: {'Time': row[2], 'Percent': row[3]}})
+      else:
+        date[row[0]] = [{row[1]: {'Time': row[2], 'Percent': row[3]}}]
+  col = {}
+  category20 = [
+    "#1f77b4", "#aec7e8",
+    "#ff7f0e", "#ffbb78",
+    "#2ca02c", "#98df8a",
+    "#d62728", "#ff9896",
+    "#9467bd", "#c5b0d5",
+    "#8c564b", "#c49c94",
+    "#e377c2", "#f7b6d2",
+    "#7f7f7f", "#c7c7c7",
+    "#bcbd22", "#dbdb8d",
+    "#17becf", "#9edae5"
+  ]
+  for i, t in enumerate(tags):
+    col[t] = category20[i % len(category20)]
+
+  toChartJS(date, col, 'daily')
+
+
 if __name__ == '__main__':
   if len(sys.argv) <= 1:
     printf("Error: no csv file")
     exit(-1)
   else:
     csvfile = sys.argv[1]
-
-  tags = set({'misc'})
-  date = {}
-  with open(csvfile, 'r') as f:
-      dailystats = csv.reader(f, delimiter=',')
-      next(dailystats)   # Skip headers
-      for row in dailystats:
-        if row[0] in date.keys():
-          # {'tag' : {'time', 'percent'}}
-          tags.update({row[1]})
-          date[row[0]].append({row[1]: {'Time': row[2], 'Percent': row[3]}})
-        else:
-          date[row[0]] = [{row[1]: {'Time': row[2], 'Percent': row[3]}}]
-  col = {}
-  category20 = [
-      "#1f77b4", "#aec7e8",
-      "#ff7f0e", "#ffbb78",
-      "#2ca02c", "#98df8a",
-      "#d62728", "#ff9896",
-      "#9467bd", "#c5b0d5",
-      "#8c564b", "#c49c94",
-      "#e377c2", "#f7b6d2",
-      "#7f7f7f", "#c7c7c7",
-      "#bcbd22", "#dbdb8d",
-      "#17becf", "#9edae5"
-  ]
-  for i, t in enumerate(tags):
-    col[t] = category20[i % len(category20)]
-
-  toChartJS(date, col, 'daily')
+    dailyUsage(csvfile)
