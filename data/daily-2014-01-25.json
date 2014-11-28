@@ -1,34 +1,34 @@
 {
     "piedata": [
         {
-            "color": "#aec7e8",
+            "color": "#bcbd22",
             "label": "code:haskell (4.74%)",
             "value": 4.207723035952064
         },
         {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "label": "communities (4.35%)",
             "value": 3.861517976031957
         },
         {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "label": "mail (13.44%)",
             "value": 11.93075898801598
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (66.80%)",
             "value": 59.298712827341326
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "term (23.32%)",
             "value": 20.701287172658677
         }
     ],
     "tagdata": {
         "code:haskell": {
-            "color": "#aec7e8",
+            "color": "#bcbd22",
             "minute": [
                 647,
                 648,
@@ -45,7 +45,7 @@
             ]
         },
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 580,
                 581,
@@ -67,7 +67,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 523,
                 526,
@@ -106,7 +106,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 0,
                 1,
@@ -280,7 +280,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 2,
                 14,
@@ -344,7 +344,7 @@
             ]
         },
         "write": {
-            "color": "#8c564b",
+            "color": "#98df8a",
             "minute": [
                 577
             ]

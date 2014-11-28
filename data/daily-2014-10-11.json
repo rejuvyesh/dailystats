@@ -1,12 +1,12 @@
 {
     "piedata": [
         {
-            "color": "#d62728",
+            "color": "#e377c2",
             "label": "code:matlab (1.24%)",
             "value": 1.24
         },
         {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "label": "communities (4.73%)",
             "value": 4.73
         },
@@ -16,22 +16,22 @@
             "value": 1.24
         },
         {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "label": "mail (6.47%)",
             "value": 6.47
         },
         {
-            "color": "#c7c7c7",
+            "color": "#aec7e8",
             "label": "misc (8.21%)",
             "value": 8.210000000000008
         },
         {
-            "color": "#1f77b4",
+            "color": "#c5b0d5",
             "label": "read:rss (1.24%)",
             "value": 1.24
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (72.14%)",
             "value": 72.14
         },
@@ -43,7 +43,7 @@
     ],
     "tagdata": {
         "code:matlab": {
-            "color": "#d62728",
+            "color": "#e377c2",
             "minute": [
                 798,
                 799,
@@ -53,7 +53,7 @@
             ]
         },
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 467,
                 468,
@@ -87,7 +87,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 860,
                 861,
@@ -118,19 +118,19 @@
             ]
         },
         "read:epub": {
-            "color": "#e377c2",
+            "color": "#ff9896",
             "minute": [
                 705
             ]
         },
         "read:pdf": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 883
             ]
         },
         "read:rss": {
-            "color": "#1f77b4",
+            "color": "#c5b0d5",
             "minute": [
                 1410,
                 1411,
@@ -140,7 +140,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 449,
                 450,
@@ -459,7 +459,7 @@
             ]
         },
         "write": {
-            "color": "#8c564b",
+            "color": "#98df8a",
             "minute": [
                 617,
                 618

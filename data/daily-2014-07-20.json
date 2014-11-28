@@ -1,31 +1,31 @@
 {
     "piedata": [
         {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "label": "communities (4.26%)",
             "value": 4.085938998657203
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (82.98%)",
             "value": 79.58948781891425
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "term (17.02%)",
             "value": 16.32457318242854
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 137,
                 173
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 59,
                 61,
@@ -69,7 +69,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 11,
                 12,

@@ -1,7 +1,7 @@
 {
     "piedata": [
         {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "label": "communities (5.24%)",
             "value": 5.24
         },
@@ -11,22 +11,22 @@
             "value": 1.67
         },
         {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "label": "mail (2.86%)",
             "value": 2.86
         },
         {
-            "color": "#c7c7c7",
+            "color": "#aec7e8",
             "label": "misc (32.61%)",
             "value": 32.61
         },
         {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "label": "read:pdf (2.86%)",
             "value": 2.86
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (53.57%)",
             "value": 53.57
         },
@@ -38,14 +38,14 @@
     ],
     "tagdata": {
         "code:matlab": {
-            "color": "#d62728",
+            "color": "#e377c2",
             "minute": [
                 470,
                 473
             ]
         },
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 716,
                 717,
@@ -84,7 +84,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 45,
                 46,
@@ -101,7 +101,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 510,
                 793,
@@ -118,7 +118,7 @@
             ]
         },
         "read:rss": {
-            "color": "#1f77b4",
+            "color": "#c5b0d5",
             "minute": [
                 917,
                 919,
@@ -127,7 +127,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 0,
                 1,

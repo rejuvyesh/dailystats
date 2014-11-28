@@ -1,12 +1,12 @@
 {
     "piedata": [
         {
-            "color": "#98df8a",
+            "color": "#17becf",
             "label": "code:python (1.45%)",
             "value": 1.3398632415450007
         },
         {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "label": "communities (6.76%)",
             "value": 6.24653483644428
         },
@@ -16,29 +16,29 @@
             "value": 3.12326741822214
         },
         {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "label": "mail (2.42%)",
             "value": 2.2361855479578634
         },
         {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "label": "read:pdf (4.83%)",
             "value": 4.463130659767141
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (80.68%)",
             "value": 74.55183884679356
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "term (8.70%)",
             "value": 8.039179449270003
         }
     ],
     "tagdata": {
         "code:python": {
-            "color": "#98df8a",
+            "color": "#17becf",
             "minute": [
                 32,
                 41,
@@ -46,7 +46,7 @@
             ]
         },
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 2,
                 3,
@@ -77,7 +77,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 70,
                 371,
@@ -87,7 +87,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 64,
                 67,
@@ -102,7 +102,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 0,
                 1,
@@ -274,7 +274,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 29,
                 31,

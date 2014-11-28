@@ -6,34 +6,34 @@
             "value": 2.09
         },
         {
-            "color": "#c7c7c7",
+            "color": "#aec7e8",
             "label": "misc (4.17%)",
             "value": 4.170000000000002
         },
         {
-            "color": "#9467bd",
+            "color": "#dbdb8d",
             "label": "read:djvu (11.04%)",
             "value": 11.04
         },
         {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "label": "read:pdf (2.99%)",
             "value": 2.99
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (46.87%)",
             "value": 46.87
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "term (32.84%)",
             "value": 32.84
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 3,
                 1330,
@@ -53,7 +53,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 1148,
                 1270,
@@ -61,7 +61,7 @@
             ]
         },
         "read:djvu": {
-            "color": "#9467bd",
+            "color": "#dbdb8d",
             "minute": [
                 1056,
                 1060,
@@ -103,7 +103,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 1249,
                 1250,
@@ -118,7 +118,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 2,
                 3,
@@ -280,7 +280,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 8,
                 9,

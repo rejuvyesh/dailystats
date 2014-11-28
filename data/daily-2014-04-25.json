@@ -6,40 +6,40 @@
             "value": 3.74
         },
         {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "label": "mail (46.36%)",
             "value": 46.36
         },
         {
-            "color": "#c7c7c7",
+            "color": "#aec7e8",
             "label": "misc (2.30%)",
             "value": 2.3000000000000114
         },
         {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "label": "read:pdf (11.43%)",
             "value": 11.43
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (29.31%)",
             "value": 29.31
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "term (6.86%)",
             "value": 6.86
         }
     ],
     "tagdata": {
         "code:haskell": {
-            "color": "#aec7e8",
+            "color": "#bcbd22",
             "minute": [
                 908
             ]
         },
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 760,
                 795,
@@ -70,7 +70,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 390,
                 391,
@@ -298,13 +298,13 @@
             ]
         },
         "read:epub": {
-            "color": "#e377c2",
+            "color": "#ff9896",
             "minute": [
                 975
             ]
         },
         "read:pdf": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 403,
                 404,
@@ -364,7 +364,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 389,
                 390,
@@ -510,7 +510,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 387,
                 388,

@@ -1,7 +1,7 @@
 {
     "piedata": [
         {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "label": "communities (1.90%)",
             "value": 1.7626867056313198
         },
@@ -11,29 +11,29 @@
             "value": 2.9965673995732436
         },
         {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "label": "mail (6.08%)",
             "value": 5.640597458020224
         },
         {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "label": "read:pdf (14.26%)",
             "value": 13.229427590685589
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (80.42%)",
             "value": 74.60803414045829
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "term (1.90%)",
             "value": 1.7626867056313198
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 161,
                 382,
@@ -70,7 +70,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 63,
                 64,
@@ -107,13 +107,13 @@
             ]
         },
         "read:mobi": {
-            "color": "#ff7f0e",
+            "color": "#7f7f7f",
             "minute": [
                 446
             ]
         },
         "read:pdf": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 67,
                 68,
@@ -193,7 +193,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 59,
                 60,
@@ -621,7 +621,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 111,
                 116,

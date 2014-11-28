@@ -1,7 +1,7 @@
 {
     "piedata": [
         {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "label": "communities (3.81%)",
             "value": 3.5232106528574065
         },
@@ -11,35 +11,35 @@
             "value": 6.251155909006842
         },
         {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "label": "mail (10.05%)",
             "value": 9.29350841501757
         },
         {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "label": "read:pdf (31.37%)",
             "value": 29.008692435731454
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (42.11%)",
             "value": 38.94026262252635
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "term (14.04%)",
             "value": 12.983169964860364
         }
     ],
     "tagdata": {
         "code:haskell": {
-            "color": "#aec7e8",
+            "color": "#bcbd22",
             "minute": [
                 1219
             ]
         },
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 604,
                 605,
@@ -110,7 +110,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 588,
                 591,
@@ -173,7 +173,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 311,
                 313,
@@ -359,7 +359,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 312,
                 586,
@@ -607,7 +607,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 297,
                 304,

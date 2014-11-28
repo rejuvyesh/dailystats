@@ -1,7 +1,7 @@
 {
     "piedata": [
         {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "label": "communities (1.63%)",
             "value": 1.63
         },
@@ -11,34 +11,34 @@
             "value": 2.45
         },
         {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "label": "mail (5.31%)",
             "value": 5.31
         },
         {
-            "color": "#c7c7c7",
+            "color": "#aec7e8",
             "label": "misc (7.75%)",
             "value": 7.75
         },
         {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "label": "read:pdf (2.86%)",
             "value": 2.86
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (72.65%)",
             "value": 72.65
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "term (7.35%)",
             "value": 7.35
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 938,
                 939,
@@ -58,7 +58,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 751,
                 752,
@@ -76,13 +76,13 @@
             ]
         },
         "read:mobi": {
-            "color": "#ff7f0e",
+            "color": "#7f7f7f",
             "minute": [
                 778
             ]
         },
         "read:pdf": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 949,
                 1034,
@@ -94,7 +94,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 749,
                 750,
@@ -277,7 +277,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 742,
                 745,

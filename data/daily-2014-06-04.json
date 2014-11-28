@@ -1,7 +1,7 @@
 {
     "piedata": [
         {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "label": "communities (1.47%)",
             "value": 1.4592019058963668
         },
@@ -11,29 +11,29 @@
             "value": 1.2705975779233671
         },
         {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "label": "mail (2.75%)",
             "value": 2.729799483819734
         },
         {
-            "color": "#e377c2",
+            "color": "#ff9896",
             "label": "read:epub (1.10%)",
             "value": 1.0919197935278937
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (87.91%)",
             "value": 87.26424459003374
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "term (6.23%)",
             "value": 6.184236648798889
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 585,
                 587,
@@ -58,7 +58,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 20,
                 23,
@@ -78,7 +78,7 @@
             ]
         },
         "read:epub": {
-            "color": "#e377c2",
+            "color": "#ff9896",
             "minute": [
                 314,
                 316,
@@ -89,13 +89,13 @@
             ]
         },
         "read:mobi": {
-            "color": "#ff7f0e",
+            "color": "#7f7f7f",
             "minute": [
                 1151
             ]
         },
         "read:pdf": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 69,
                 183,
@@ -105,7 +105,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 20,
                 21,
@@ -590,7 +590,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 252,
                 253,

@@ -6,34 +6,34 @@
             "value": 4.28
         },
         {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "label": "mail (22.68%)",
             "value": 22.68
         },
         {
-            "color": "#c7c7c7",
+            "color": "#aec7e8",
             "label": "misc (1.67%)",
             "value": 1.6700000000000017
         },
         {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "label": "read:pdf (11.52%)",
             "value": 11.52
         },
         {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "label": "social (49.26%)",
             "value": 49.26
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "term (10.59%)",
             "value": 10.59
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#7f7f7f",
+            "color": "#8c564b",
             "minute": [
                 894,
                 1015,
@@ -69,7 +69,7 @@
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ff7f0e",
             "minute": [
                 820,
                 823,
@@ -196,14 +196,14 @@
             ]
         },
         "read:mobi": {
-            "color": "#ff7f0e",
+            "color": "#7f7f7f",
             "minute": [
                 948,
                 1022
             ]
         },
         "read:pdf": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 636,
                 783,
@@ -270,7 +270,7 @@
             ]
         },
         "social": {
-            "color": "#c5b0d5",
+            "color": "#9467bd",
             "minute": [
                 610,
                 612,
@@ -540,7 +540,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 608,
                 611,
@@ -601,7 +601,7 @@
             ]
         },
         "write": {
-            "color": "#8c564b",
+            "color": "#98df8a",
             "minute": [
                 609
             ]
