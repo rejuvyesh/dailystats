@@ -51,9 +51,11 @@
          loaded = true;
          
          // Save these as globals so that we can access them later
-         dailyData = data;
+         dailyData = data['piedata'];
+         minuteData = data['tagdata'];
          console.log("data: "+data.length);
          createPieChart(dailyData);
+         createBarcode(minuteData);
        });
      }
      var totalTime;
