@@ -1,38 +1,38 @@
 [
     {
-        "label": "procrastination (30.94%)",
-        "value": 30.94
-    },
-    {
-        "label": "term (10.58%)",
-        "value": 10.58
-    },
-    {
-        "label": "read:pdf (9.56%)",
-        "value": 9.56
-    },
-    {
-        "label": "write (8.87%)",
-        "value": 8.87
-    },
-    {
-        "label": "read:djvu (5.46%)",
-        "value": 5.46
-    },
-    {
         "label": "code:ruby (3.07%)",
         "value": 3.07
-    },
-    {
-        "label": "mail (2.16%)",
-        "value": 2.16
     },
     {
         "label": "irc (1.25%)",
         "value": 1.25
     },
     {
+        "label": "mail (2.16%)",
+        "value": 2.16
+    },
+    {
         "label": "misc (28.11%)",
         "value": 28.110000000000014
+    },
+    {
+        "label": "procrastination (30.94%)",
+        "value": 30.94
+    },
+    {
+        "label": "read:djvu (5.46%)",
+        "value": 5.46
+    },
+    {
+        "label": "read:pdf (9.56%)",
+        "value": 9.56
+    },
+    {
+        "label": "term (10.58%)",
+        "value": 10.58
+    },
+    {
+        "label": "write (8.87%)",
+        "value": 8.87
     }
 ]

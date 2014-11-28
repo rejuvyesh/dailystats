@@ -1,5 +1,21 @@
 [
     {
+        "label": "code:matlab (1.18%)",
+        "value": 1.18
+    },
+    {
+        "label": "code:python (2.36%)",
+        "value": 2.36
+    },
+    {
+        "label": "mail (2.36%)",
+        "value": 2.36
+    },
+    {
+        "label": "misc (21.29%)",
+        "value": 21.289999999999992
+    },
+    {
         "label": "procrastination (48.74%)",
         "value": 48.74
     },
@@ -12,23 +28,7 @@
         "value": 6.2
     },
     {
-        "label": "code:python (2.36%)",
-        "value": 2.36
-    },
-    {
-        "label": "mail (2.36%)",
-        "value": 2.36
-    },
-    {
         "label": "write (1.77%)",
         "value": 1.77
-    },
-    {
-        "label": "code:matlab (1.18%)",
-        "value": 1.18
-    },
-    {
-        "label": "misc (21.29%)",
-        "value": 21.289999999999992
     }
 ]

@@ -1,13 +1,5 @@
 [
     {
-        "label": "procrastination (58.00%)",
-        "value": 58.0
-    },
-    {
-        "label": "term (20.88%)",
-        "value": 20.88
-    },
-    {
         "label": "code:haskell (17.63%)",
         "value": 17.63
     },
@@ -18,5 +10,13 @@
     {
         "label": "misc (1.40%)",
         "value": 1.4000000000000057
+    },
+    {
+        "label": "procrastination (58.00%)",
+        "value": 58.0
+    },
+    {
+        "label": "term (20.88%)",
+        "value": 20.88
     }
 ]

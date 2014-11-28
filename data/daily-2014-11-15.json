@@ -1,22 +1,22 @@
 [
     {
-        "label": "procrastination (27.63%)",
-        "value": 27.63
-    },
-    {
         "label": "code:python (17.53%)",
         "value": 17.53
     },
     {
-        "label": "tv:local (9.69%)",
-        "value": 9.69
+        "label": "misc (35.46%)",
+        "value": 35.46000000000001
+    },
+    {
+        "label": "procrastination (27.63%)",
+        "value": 27.63
     },
     {
         "label": "read:pdf (9.69%)",
         "value": 9.69
     },
     {
-        "label": "misc (35.46%)",
-        "value": 35.46000000000001
+        "label": "tv:local (9.69%)",
+        "value": 9.69
     }
 ]

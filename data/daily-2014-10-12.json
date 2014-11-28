@@ -1,38 +1,38 @@
 [
     {
-        "label": "procrastination (34.94%)",
-        "value": 34.94
-    },
-    {
-        "label": "tv:local (18.43%)",
-        "value": 18.43
-    },
-    {
-        "label": "mail (16.78%)",
-        "value": 16.78
-    },
-    {
-        "label": "read:pdf (8.80%)",
-        "value": 8.8
+        "label": "code:haskell (2.61%)",
+        "value": 2.61
     },
     {
         "label": "code:matlab (5.91%)",
         "value": 5.91
     },
     {
-        "label": "code:haskell (2.61%)",
-        "value": 2.61
-    },
-    {
         "label": "code:python (1.79%)",
         "value": 1.79
+    },
+    {
+        "label": "mail (16.78%)",
+        "value": 16.78
+    },
+    {
+        "label": "misc (9.64%)",
+        "value": 9.64
+    },
+    {
+        "label": "procrastination (34.94%)",
+        "value": 34.94
+    },
+    {
+        "label": "read:pdf (8.80%)",
+        "value": 8.8
     },
     {
         "label": "term (1.10%)",
         "value": 1.1
     },
     {
-        "label": "misc (9.64%)",
-        "value": 9.64
+        "label": "tv:local (18.43%)",
+        "value": 18.43
     }
 ]

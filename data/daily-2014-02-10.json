@@ -1,21 +1,5 @@
 [
     {
-        "label": "procrastination (43.29%)",
-        "value": 43.29
-    },
-    {
-        "label": "read:pdf (26.82%)",
-        "value": 26.82
-    },
-    {
-        "label": "tv:local (12.97%)",
-        "value": 12.97
-    },
-    {
-        "label": "term (5.39%)",
-        "value": 5.39
-    },
-    {
         "label": "irc (5.39%)",
         "value": 5.39
     },
@@ -26,5 +10,21 @@
     {
         "label": "misc (4.83%)",
         "value": 4.829999999999998
+    },
+    {
+        "label": "procrastination (43.29%)",
+        "value": 43.29
+    },
+    {
+        "label": "read:pdf (26.82%)",
+        "value": 26.82
+    },
+    {
+        "label": "term (5.39%)",
+        "value": 5.39
+    },
+    {
+        "label": "tv:local (12.97%)",
+        "value": 12.97
     }
 ]

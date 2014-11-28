@@ -1,22 +1,22 @@
 [
     {
-        "label": "procrastination (55.73%)",
-        "value": 52.03062272430211
-    },
-    {
         "label": "code:python (35.60%)",
         "value": 33.23685930351975
-    },
-    {
-        "label": "term (6.50%)",
-        "value": 6.068527681822426
     },
     {
         "label": "mail (5.26%)",
         "value": 4.910839324059378
     },
     {
+        "label": "procrastination (55.73%)",
+        "value": 52.03062272430211
+    },
+    {
         "label": "read:pdf (4.02%)",
         "value": 3.7531509662963307
+    },
+    {
+        "label": "term (6.50%)",
+        "value": 6.068527681822426
     }
 ]

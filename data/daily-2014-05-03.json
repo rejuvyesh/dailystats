@@ -1,14 +1,14 @@
 [
     {
+        "label": "misc (0.00%)",
+        "value": 0.0
+    },
+    {
         "label": "procrastination (66.67%)",
         "value": 66.67
     },
     {
         "label": "term (33.33%)",
         "value": 33.33
-    },
-    {
-        "label": "misc (0.00%)",
-        "value": 0.0
     }
 ]

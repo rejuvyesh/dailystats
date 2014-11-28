@@ -1,5 +1,17 @@
 [
     {
+        "label": "code:python (1.44%)",
+        "value": 1.44
+    },
+    {
+        "label": "mail (3.17%)",
+        "value": 3.17
+    },
+    {
+        "label": "misc (30.36%)",
+        "value": 30.36
+    },
+    {
         "label": "procrastination (46.19%)",
         "value": 46.19
     },
@@ -16,19 +28,7 @@
         "value": 4.89
     },
     {
-        "label": "mail (3.17%)",
-        "value": 3.17
-    },
-    {
         "label": "write (2.01%)",
         "value": 2.01
-    },
-    {
-        "label": "code:python (1.44%)",
-        "value": 1.44
-    },
-    {
-        "label": "misc (30.36%)",
-        "value": 30.36
     }
 ]

@@ -1,11 +1,11 @@
 [
     {
-        "label": "procrastination (92.83%)",
-        "value": 82.83215847238333
-    },
-    {
         "label": "mail (10.19%)",
         "value": 9.092531453555813
+    },
+    {
+        "label": "procrastination (92.83%)",
+        "value": 82.83215847238333
     },
     {
         "label": "read:pdf (5.28%)",

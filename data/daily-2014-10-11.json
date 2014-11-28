@@ -1,21 +1,5 @@
 [
     {
-        "label": "procrastination (72.14%)",
-        "value": 72.14
-    },
-    {
-        "label": "mail (6.47%)",
-        "value": 6.47
-    },
-    {
-        "label": "tv:local (4.73%)",
-        "value": 4.73
-    },
-    {
-        "label": "read:rss (1.24%)",
-        "value": 1.24
-    },
-    {
         "label": "code:matlab (1.24%)",
         "value": 1.24
     },
@@ -24,7 +8,23 @@
         "value": 1.24
     },
     {
+        "label": "mail (6.47%)",
+        "value": 6.47
+    },
+    {
         "label": "misc (12.94%)",
         "value": 12.940000000000012
+    },
+    {
+        "label": "procrastination (72.14%)",
+        "value": 72.14
+    },
+    {
+        "label": "read:rss (1.24%)",
+        "value": 1.24
+    },
+    {
+        "label": "tv:local (4.73%)",
+        "value": 4.73
     }
 ]

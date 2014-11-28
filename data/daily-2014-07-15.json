@@ -1,27 +1,27 @@
 [
     {
-        "label": "procrastination (85.92%)",
-        "value": 75.86754966887418
+        "label": "irc (6.21%)",
+        "value": 5.483443708609272
     },
     {
         "label": "mail (6.83%)",
         "value": 6.030905077262693
     },
     {
-        "label": "irc (6.21%)",
-        "value": 5.483443708609272
+        "label": "procrastination (85.92%)",
+        "value": 75.86754966887418
     },
     {
-        "label": "term (5.59%)",
-        "value": 4.935982339955849
+        "label": "read:pdf (3.52%)",
+        "value": 3.108167770419426
     },
     {
         "label": "read:rss (4.14%)",
         "value": 3.6556291390728477
     },
     {
-        "label": "read:pdf (3.52%)",
-        "value": 3.108167770419426
+        "label": "term (5.59%)",
+        "value": 4.935982339955849
     },
     {
         "label": "tv:local (1.04%)",

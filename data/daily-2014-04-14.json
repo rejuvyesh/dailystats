@@ -1,5 +1,21 @@
 [
     {
+        "label": "code:matlab (2.65%)",
+        "value": 2.65
+    },
+    {
+        "label": "irc (6.17%)",
+        "value": 6.17
+    },
+    {
+        "label": "mail (8.47%)",
+        "value": 8.47
+    },
+    {
+        "label": "misc (30.50%)",
+        "value": 30.5
+    },
+    {
         "label": "procrastination (29.81%)",
         "value": 29.81
     },
@@ -8,23 +24,7 @@
         "value": 14.11
     },
     {
-        "label": "mail (8.47%)",
-        "value": 8.47
-    },
-    {
         "label": "term (8.29%)",
         "value": 8.29
-    },
-    {
-        "label": "irc (6.17%)",
-        "value": 6.17
-    },
-    {
-        "label": "code:matlab (2.65%)",
-        "value": 2.65
-    },
-    {
-        "label": "misc (30.50%)",
-        "value": 30.5
     }
 ]

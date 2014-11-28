@@ -1,5 +1,21 @@
 [
     {
+        "label": "code:haskell (3.09%)",
+        "value": 3.09
+    },
+    {
+        "label": "irc (2.53%)",
+        "value": 2.53
+    },
+    {
+        "label": "mail (4.36%)",
+        "value": 4.36
+    },
+    {
+        "label": "misc (6.61%)",
+        "value": 6.609999999999999
+    },
+    {
         "label": "procrastination (56.40%)",
         "value": 56.4
     },
@@ -12,23 +28,7 @@
         "value": 4.5
     },
     {
-        "label": "mail (4.36%)",
-        "value": 4.36
-    },
-    {
-        "label": "code:haskell (3.09%)",
-        "value": 3.09
-    },
-    {
-        "label": "irc (2.53%)",
-        "value": 2.53
-    },
-    {
         "label": "tv:local (1.55%)",
         "value": 1.55
-    },
-    {
-        "label": "misc (6.61%)",
-        "value": 6.609999999999999
     }
 ]

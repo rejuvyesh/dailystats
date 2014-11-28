@@ -1,10 +1,10 @@
 [
     {
-        "label": "procrastination (100.00%)",
-        "value": 88.88888888888889
-    },
-    {
         "label": "mail (12.50%)",
         "value": 11.11111111111111
+    },
+    {
+        "label": "procrastination (100.00%)",
+        "value": 88.88888888888889
     }
 ]

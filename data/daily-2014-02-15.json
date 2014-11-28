@@ -1,5 +1,17 @@
 [
     {
+        "label": "irc (3.77%)",
+        "value": 3.77
+    },
+    {
+        "label": "mail (6.94%)",
+        "value": 6.94
+    },
+    {
+        "label": "misc (10.10%)",
+        "value": 10.100000000000009
+    },
+    {
         "label": "procrastination (47.51%)",
         "value": 47.51
     },
@@ -8,16 +20,8 @@
         "value": 21.12
     },
     {
-        "label": "mail (6.94%)",
-        "value": 6.94
-    },
-    {
         "label": "term (6.64%)",
         "value": 6.64
-    },
-    {
-        "label": "irc (3.77%)",
-        "value": 3.77
     },
     {
         "label": "tv:local (2.26%)",
@@ -26,9 +30,5 @@
     {
         "label": "write (1.66%)",
         "value": 1.66
-    },
-    {
-        "label": "misc (10.10%)",
-        "value": 10.100000000000009
     }
 ]

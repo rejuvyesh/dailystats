@@ -1,5 +1,17 @@
 [
     {
+        "label": "irc (1.89%)",
+        "value": 1.89
+    },
+    {
+        "label": "mail (1.89%)",
+        "value": 1.89
+    },
+    {
+        "label": "misc (39.20%)",
+        "value": 39.2
+    },
+    {
         "label": "procrastination (50.81%)",
         "value": 50.81
     },
@@ -8,23 +20,11 @@
         "value": 3.51
     },
     {
-        "label": "mail (1.89%)",
-        "value": 1.89
-    },
-    {
-        "label": "irc (1.89%)",
-        "value": 1.89
-    },
-    {
-        "label": "tv:local (1.62%)",
-        "value": 1.62
-    },
-    {
         "label": "read:rss (1.08%)",
         "value": 1.08
     },
     {
-        "label": "misc (39.20%)",
-        "value": 39.2
+        "label": "tv:local (1.62%)",
+        "value": 1.62
     }
 ]

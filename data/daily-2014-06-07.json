@@ -1,14 +1,14 @@
 [
     {
+        "label": "misc (0.00%)",
+        "value": 0.0
+    },
+    {
         "label": "procrastination (90.00%)",
         "value": 90.0
     },
     {
         "label": "term (10.00%)",
         "value": 10.0
-    },
-    {
-        "label": "misc (0.00%)",
-        "value": 0.0
     }
 ]

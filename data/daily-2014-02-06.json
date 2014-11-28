@@ -1,35 +1,35 @@
 [
     {
-        "label": "procrastination (42.35%)",
-        "value": 38.94969189736043
-    },
-    {
-        "label": "read:pdf (19.03%)",
-        "value": 17.502069346086635
-    },
-    {
-        "label": "mail (17.45%)",
-        "value": 16.048928538581805
-    },
-    {
-        "label": "tv:local (14.31%)",
-        "value": 13.16104111100892
-    },
-    {
-        "label": "term (6.29%)",
-        "value": 5.7849719488641576
+        "label": "code:matlab (1.86%)",
+        "value": 1.710659431619608
     },
     {
         "label": "irc (3.43%)",
         "value": 3.1546031454060515
     },
     {
+        "label": "mail (17.45%)",
+        "value": 16.048928538581805
+    },
+    {
+        "label": "procrastination (42.35%)",
+        "value": 38.94969189736043
+    },
+    {
         "label": "read:djvu (2.15%)",
         "value": 1.9773751494527723
     },
     {
-        "label": "code:matlab (1.86%)",
-        "value": 1.710659431619608
+        "label": "read:pdf (19.03%)",
+        "value": 17.502069346086635
+    },
+    {
+        "label": "term (6.29%)",
+        "value": 5.7849719488641576
+    },
+    {
+        "label": "tv:local (14.31%)",
+        "value": 13.16104111100892
     },
     {
         "label": "write (1.86%)",

@@ -1,5 +1,13 @@
 [
     {
+        "label": "mail (2.32%)",
+        "value": 2.32
+    },
+    {
+        "label": "misc (3.16%)",
+        "value": 3.160000000000011
+    },
+    {
         "label": "procrastination (71.73%)",
         "value": 71.73
     },
@@ -8,19 +16,11 @@
         "value": 14.98
     },
     {
-        "label": "tv:local (5.49%)",
-        "value": 5.49
-    },
-    {
         "label": "term (2.32%)",
         "value": 2.32
     },
     {
-        "label": "mail (2.32%)",
-        "value": 2.32
-    },
-    {
-        "label": "misc (3.16%)",
-        "value": 3.160000000000011
+        "label": "tv:local (5.49%)",
+        "value": 5.49
     }
 ]

@@ -1,26 +1,26 @@
 [
     {
-        "label": "procrastination (53.67%)",
-        "value": 53.67
-    },
-    {
-        "label": "write (20.18%)",
-        "value": 20.18
-    },
-    {
-        "label": "term (14.22%)",
-        "value": 14.22
-    },
-    {
         "label": "mail (6.88%)",
         "value": 6.88
+    },
+    {
+        "label": "misc (2.30%)",
+        "value": 2.3000000000000114
+    },
+    {
+        "label": "procrastination (53.67%)",
+        "value": 53.67
     },
     {
         "label": "read:pdf (2.75%)",
         "value": 2.75
     },
     {
-        "label": "misc (2.30%)",
-        "value": 2.3000000000000114
+        "label": "term (14.22%)",
+        "value": 14.22
+    },
+    {
+        "label": "write (20.18%)",
+        "value": 20.18
     }
 ]
