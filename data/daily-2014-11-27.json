@@ -1,11 +1,11 @@
 [
     {
-        "color": "#e377c2",
+        "color": "#98df8a",
         "label": "irc (3.15%)",
         "value": 3.15
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (2.29%)",
         "value": 2.29
     },
@@ -20,22 +20,22 @@
         "value": 68.19
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (1.72%)",
         "value": 1.72
     },
     {
-        "color": "#dbdb8d",
+        "color": "#bcbd22",
         "label": "read:rss (6.59%)",
         "value": 6.59
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c49c94",
         "label": "tv:local (5.73%)",
         "value": 5.73
     },
     {
-        "color": "#c7c7c7",
+        "color": "#aec7e8",
         "label": "write (2.58%)",
         "value": 2.58
     }

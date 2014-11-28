@@ -1,11 +1,11 @@
 [
     {
-        "color": "#ffbb78",
+        "color": "#1f77b4",
         "label": "code:haskell (17.63%)",
         "value": 17.63
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (2.09%)",
         "value": 2.09
     },
@@ -20,7 +20,7 @@
         "value": 58.0
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (20.88%)",
         "value": 20.88
     }

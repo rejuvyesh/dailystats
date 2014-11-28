@@ -1,16 +1,16 @@
 [
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (91.43%)",
         "value": 49.57705238043596
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (1.56%)",
         "value": 0.8458952391280772
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c49c94",
         "label": "tv:local (91.43%)",
         "value": 49.57705238043596
     }

@@ -5,12 +5,12 @@
         "value": 11.11
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (50.00%)",
         "value": 50.0
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (38.89%)",
         "value": 38.89
     }

@@ -1,16 +1,16 @@
 [
     {
-        "color": "#ffbb78",
+        "color": "#1f77b4",
         "label": "code:haskell (4.90%)",
         "value": 4.9
     },
     {
-        "color": "#e377c2",
+        "color": "#98df8a",
         "label": "irc (1.10%)",
         "value": 1.1
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (1.84%)",
         "value": 1.84
     },
@@ -25,7 +25,7 @@
         "value": 61.4
     },
     {
-        "color": "#dbdb8d",
+        "color": "#bcbd22",
         "label": "read:rss (2.70%)",
         "value": 2.7
     }

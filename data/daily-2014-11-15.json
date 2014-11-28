@@ -1,6 +1,6 @@
 [
     {
-        "color": "#2ca02c",
+        "color": "#dbdb8d",
         "label": "code:python (17.53%)",
         "value": 17.53
     },
@@ -15,12 +15,12 @@
         "value": 27.63
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (9.69%)",
         "value": 9.69
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c49c94",
         "label": "tv:local (9.69%)",
         "value": 9.69
     }

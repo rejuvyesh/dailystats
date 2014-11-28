@@ -1,16 +1,16 @@
 [
     {
-        "color": "#ff9896",
+        "color": "#7f7f7f",
         "label": "code:matlab (1.18%)",
         "value": 1.18
     },
     {
-        "color": "#2ca02c",
+        "color": "#dbdb8d",
         "label": "code:python (2.36%)",
         "value": 2.36
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (2.36%)",
         "value": 2.36
     },
@@ -25,17 +25,17 @@
         "value": 48.74
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (16.10%)",
         "value": 16.1
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c49c94",
         "label": "tv:local (6.20%)",
         "value": 6.2
     },
     {
-        "color": "#c7c7c7",
+        "color": "#aec7e8",
         "label": "write (1.77%)",
         "value": 1.77
     }

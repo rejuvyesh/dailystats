@@ -1,11 +1,11 @@
 [
     {
-        "color": "#e377c2",
+        "color": "#98df8a",
         "label": "irc (2.64%)",
         "value": 2.3527314856073436
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (3.47%)",
         "value": 3.092416005703592
     },
@@ -15,22 +15,22 @@
         "value": 48.329025933517514
     },
     {
-        "color": "#ff7f0e",
+        "color": "#f7b6d2",
         "label": "read:djvu (1.11%)",
         "value": 0.9892166473576331
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (18.17%)",
         "value": 16.1928526869263
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (5.96%)",
         "value": 5.311469565992336
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c49c94",
         "label": "tv:local (26.63%)",
         "value": 23.732287674895286
     }

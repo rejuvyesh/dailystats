@@ -1,11 +1,11 @@
 [
     {
-        "color": "#2ca02c",
+        "color": "#dbdb8d",
         "label": "code:python (1.44%)",
         "value": 1.44
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (3.17%)",
         "value": 3.17
     },
@@ -20,22 +20,22 @@
         "value": 46.19
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (6.33%)",
         "value": 6.33
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (5.61%)",
         "value": 5.61
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c49c94",
         "label": "tv:local (4.89%)",
         "value": 4.89
     },
     {
-        "color": "#c7c7c7",
+        "color": "#aec7e8",
         "label": "write (2.01%)",
         "value": 2.01
     }

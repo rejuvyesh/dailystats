@@ -1,6 +1,6 @@
 [
     {
-        "color": "#e377c2",
+        "color": "#98df8a",
         "label": "irc (2.15%)",
         "value": 2.15
     },
@@ -15,17 +15,17 @@
         "value": 46.32
     },
     {
-        "color": "#ff7f0e",
+        "color": "#f7b6d2",
         "label": "read:djvu (11.35%)",
         "value": 11.35
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (3.07%)",
         "value": 3.07
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (32.52%)",
         "value": 32.52
     }

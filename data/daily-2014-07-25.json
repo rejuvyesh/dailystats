@@ -1,6 +1,6 @@
 [
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (3.39%)",
         "value": 3.1371460299833434
     },
@@ -10,17 +10,17 @@
         "value": 62.74292059966685
     },
     {
-        "color": "#dbdb8d",
+        "color": "#bcbd22",
         "label": "read:rss (7.63%)",
         "value": 7.060892096983158
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (4.66%)",
         "value": 4.312419026466778
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c49c94",
         "label": "tv:local (24.58%)",
         "value": 22.74662224689987
     }

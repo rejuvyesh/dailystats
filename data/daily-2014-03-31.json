@@ -1,16 +1,16 @@
 [
     {
-        "color": "#ffbb78",
+        "color": "#1f77b4",
         "label": "code:haskell (2.25%)",
         "value": 2.200273811852142
     },
     {
-        "color": "#e377c2",
+        "color": "#98df8a",
         "label": "irc (7.21%)",
         "value": 7.050655192646197
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (5.26%)",
         "value": 5.14375122237434
     },
@@ -20,17 +20,17 @@
         "value": 68.27694113045179
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (4.35%)",
         "value": 4.253862702914141
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (5.86%)",
         "value": 5.730490905534912
     },
     {
-        "color": "#c7c7c7",
+        "color": "#aec7e8",
         "label": "write (7.51%)",
         "value": 7.344025034226482
     }

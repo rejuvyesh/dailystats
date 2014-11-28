@@ -1,11 +1,11 @@
 [
     {
-        "color": "#ffbb78",
+        "color": "#1f77b4",
         "label": "code:haskell (4.48%)",
         "value": 4.133985420319277
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (4.18%)",
         "value": 3.857156039494325
     },
@@ -15,17 +15,17 @@
         "value": 76.0265756205592
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (2.69%)",
         "value": 2.4822367813970656
     },
     {
-        "color": "#dbdb8d",
+        "color": "#bcbd22",
         "label": "read:rss (2.39%)",
         "value": 2.2054074005721143
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (12.24%)",
         "value": 11.294638737658024
     }

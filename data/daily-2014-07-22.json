@@ -1,11 +1,11 @@
 [
     {
-        "color": "#e377c2",
+        "color": "#98df8a",
         "label": "irc (1.20%)",
         "value": 1.1254924029262803
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (2.41%)",
         "value": 2.26036390921028
     },
@@ -15,22 +15,22 @@
         "value": 72.88501219283437
     },
     {
-        "color": "#aec7e8",
+        "color": "#d62728",
         "label": "read:epub (1.20%)",
         "value": 1.1254924029262803
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (3.01%)",
         "value": 2.8231101106734195
     },
     {
-        "color": "#dbdb8d",
+        "color": "#bcbd22",
         "label": "read:rss (12.05%)",
         "value": 11.3018195460514
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (9.04%)",
         "value": 8.478709435377977
     }

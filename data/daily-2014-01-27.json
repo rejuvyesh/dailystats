@@ -1,6 +1,6 @@
 [
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (6.88%)",
         "value": 6.88
     },
@@ -15,17 +15,17 @@
         "value": 53.67
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (2.75%)",
         "value": 2.75
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (14.22%)",
         "value": 14.22
     },
     {
-        "color": "#c7c7c7",
+        "color": "#aec7e8",
         "label": "write (20.18%)",
         "value": 20.18
     }

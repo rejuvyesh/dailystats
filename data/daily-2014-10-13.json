@@ -1,11 +1,11 @@
 [
     {
-        "color": "#ff9896",
+        "color": "#7f7f7f",
         "label": "code:matlab (2.76%)",
         "value": 2.76
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (2.76%)",
         "value": 2.76
     },
@@ -20,12 +20,12 @@
         "value": 83.41
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (4.15%)",
         "value": 4.15
     },
     {
-        "color": "#c7c7c7",
+        "color": "#aec7e8",
         "label": "write (5.07%)",
         "value": 5.07
     }

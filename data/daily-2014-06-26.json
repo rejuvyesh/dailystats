@@ -1,16 +1,16 @@
 [
     {
-        "color": "#ffbb78",
+        "color": "#1f77b4",
         "label": "code:haskell (20.43%)",
         "value": 20.43
     },
     {
-        "color": "#c49c94",
+        "color": "#c7c7c7",
         "label": "code:web (13.77%)",
         "value": 13.77
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (1.59%)",
         "value": 1.59
     },
@@ -25,22 +25,22 @@
         "value": 44.49
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (3.33%)",
         "value": 3.33
     },
     {
-        "color": "#dbdb8d",
+        "color": "#bcbd22",
         "label": "read:rss (3.48%)",
         "value": 3.48
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (11.45%)",
         "value": 11.45
     },
     {
-        "color": "#c7c7c7",
+        "color": "#aec7e8",
         "label": "write (1.45%)",
         "value": 1.45
     }

@@ -1,6 +1,6 @@
 [
     {
-        "color": "#e377c2",
+        "color": "#98df8a",
         "label": "irc (2.40%)",
         "value": 2.3575638506876224
     },
@@ -10,12 +10,12 @@
         "value": 82.93713163064834
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (12.97%)",
         "value": 12.74066797642436
     },
     {
-        "color": "#dbdb8d",
+        "color": "#bcbd22",
         "label": "read:rss (2.00%)",
         "value": 1.9646365422396856
     }

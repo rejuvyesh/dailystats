@@ -1,16 +1,16 @@
 [
     {
-        "color": "#ff9896",
+        "color": "#7f7f7f",
         "label": "code:matlab (2.90%)",
         "value": 2.9
     },
     {
-        "color": "#e377c2",
+        "color": "#98df8a",
         "label": "irc (3.29%)",
         "value": 3.29
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (4.06%)",
         "value": 4.06
     },
@@ -25,12 +25,12 @@
         "value": 56.87
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (5.03%)",
         "value": 5.03
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (8.32%)",
         "value": 8.32
     }

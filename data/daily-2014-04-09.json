@@ -1,16 +1,16 @@
 [
     {
-        "color": "#ffbb78",
+        "color": "#1f77b4",
         "label": "code:haskell (2.83%)",
         "value": 2.83
     },
     {
-        "color": "#e377c2",
+        "color": "#98df8a",
         "label": "irc (7.51%)",
         "value": 7.51
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (2.97%)",
         "value": 2.97
     },
@@ -25,17 +25,17 @@
         "value": 42.21
     },
     {
-        "color": "#ff7f0e",
+        "color": "#f7b6d2",
         "label": "read:djvu (11.47%)",
         "value": 11.47
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (9.07%)",
         "value": 9.07
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (9.92%)",
         "value": 9.92
     }

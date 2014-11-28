@@ -5,17 +5,17 @@
         "value": 7.469999999999999
     },
     {
-        "color": "#9467bd",
+        "color": "#ffbb78",
         "label": "read:pdf (64.49%)",
         "value": 64.49
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (7.48%)",
         "value": 7.48
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c49c94",
         "label": "tv:local (20.56%)",
         "value": 20.56
     }

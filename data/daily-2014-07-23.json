@@ -1,16 +1,16 @@
 [
     {
-        "color": "#2ca02c",
+        "color": "#dbdb8d",
         "label": "code:python (4.26%)",
         "value": 3.7978069002407056
     },
     {
-        "color": "#e377c2",
+        "color": "#98df8a",
         "label": "irc (1.22%)",
         "value": 1.0876348399750377
     },
     {
-        "color": "#1f77b4",
+        "color": "#9467bd",
         "label": "mail (20.67%)",
         "value": 18.42738700187216
     },
@@ -20,12 +20,12 @@
         "value": 47.69546224480699
     },
     {
-        "color": "#f7b6d2",
+        "color": "#ff9896",
         "label": "term (13.68%)",
         "value": 12.195774271195505
     },
     {
-        "color": "#7f7f7f",
+        "color": "#c49c94",
         "label": "tv:local (18.84%)",
         "value": 16.7959347419096
     }
