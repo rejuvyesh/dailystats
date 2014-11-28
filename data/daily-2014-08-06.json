@@ -1,11 +1,11 @@
 [
     {
-        "color": "#8c564b",
+        "color": "#c7c7c7",
         "label": "code:matlab (1.80%)",
         "value": 1.6827147798448165
     },
     {
-        "color": "#c7c7c7",
+        "color": "#7f7f7f",
         "label": "communities (4.27%)",
         "value": 3.991773394409648
     },
@@ -15,22 +15,22 @@
         "value": 2.3090586145648317
     },
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (10.79%)",
         "value": 10.086940263625316
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff7f0e",
         "label": "read:pdf (3.37%)",
         "value": 3.1504160044872402
     },
     {
-        "color": "#17becf",
+        "color": "#8c564b",
         "label": "read:rss (3.82%)",
         "value": 3.571094699448444
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (78.43%)",
         "value": 73.3196223240161
     },

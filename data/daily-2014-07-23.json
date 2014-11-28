@@ -1,11 +1,11 @@
 [
     {
-        "color": "#dbdb8d",
+        "color": "#bcbd22",
         "label": "code:python (4.26%)",
         "value": 4.26
     },
     {
-        "color": "#c7c7c7",
+        "color": "#7f7f7f",
         "label": "communities (3.65%)",
         "value": 3.65
     },
@@ -15,17 +15,17 @@
         "value": 1.22
     },
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (20.67%)",
         "value": 20.67
     },
     {
-        "color": "#c49c94",
+        "color": "#2ca02c",
         "label": "misc (3.02%)",
         "value": 3.019999999999996
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (53.50%)",
         "value": 53.5
     },

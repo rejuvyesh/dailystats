@@ -1,6 +1,6 @@
 [
     {
-        "color": "#dbdb8d",
+        "color": "#bcbd22",
         "label": "code:python (17.08%)",
         "value": 16.013500843802735
     },
@@ -10,17 +10,17 @@
         "value": 1.9501218826176638
     },
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (2.50%)",
         "value": 2.343896493530846
     },
     {
-        "color": "#17becf",
+        "color": "#8c564b",
         "label": "read:rss (5.83%)",
         "value": 5.465966622913932
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (71.67%)",
         "value": 67.19482467654228
     },
@@ -30,7 +30,7 @@
         "value": 6.056628539283706
     },
     {
-        "color": "#2ca02c",
+        "color": "#c5b0d5",
         "label": "write (1.04%)",
         "value": 0.9750609413088319
     }

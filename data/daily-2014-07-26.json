@@ -5,22 +5,22 @@
         "value": 1.54
     },
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (1.76%)",
         "value": 1.76
     },
     {
-        "color": "#c49c94",
+        "color": "#2ca02c",
         "label": "misc (25.48%)",
         "value": 25.47999999999999
     },
     {
-        "color": "#17becf",
+        "color": "#8c564b",
         "label": "read:rss (3.96%)",
         "value": 3.96
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (64.40%)",
         "value": 64.4
     },

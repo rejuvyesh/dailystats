@@ -1,62 +1,47 @@
 [
     {
-        "color": "#dbdb8d",
-        "label": "code:python (8.06%)",
-        "value": 8.06
+        "color": "#bcbd22",
+        "label": "code:python (12.76%)",
+        "value": 12.76
     },
     {
-        "color": "#1f77b4",
-        "label": "code:web (1.45%)",
-        "value": 1.45
-    },
-    {
-        "color": "#c7c7c7",
-        "label": "communities (1.45%)",
-        "value": 1.45
-    },
-    {
-        "color": "#ffbb78",
-        "label": "irc (1.03%)",
-        "value": 1.03
-    },
-    {
-        "color": "#e377c2",
-        "label": "mail (3.93%)",
-        "value": 3.93
-    },
-    {
-        "color": "#c49c94",
-        "label": "misc (12.60%)",
-        "value": 12.599999999999966
-    },
-    {
-        "color": "#aec7e8",
-        "label": "read:pdf (1.03%)",
-        "value": 1.03
-    },
-    {
-        "color": "#17becf",
-        "label": "read:rss (1.65%)",
-        "value": 1.65
-    },
-    {
-        "color": "#c5b0d5",
-        "label": "social (54.75%)",
-        "value": 54.75
+        "color": "#d62728",
+        "label": "code:web (2.44%)",
+        "value": 2.44
     },
     {
         "color": "#7f7f7f",
-        "label": "tv:local (3.93%)",
-        "value": 3.93
+        "label": "communities (1.69%)",
+        "value": 1.69
     },
     {
         "color": "#9467bd",
-        "label": "tv:web (9.09%)",
-        "value": 9.09
+        "label": "mail (3.56%)",
+        "value": 3.56
     },
     {
         "color": "#2ca02c",
-        "label": "write (1.03%)",
-        "value": 1.03
+        "label": "misc (15.57%)",
+        "value": 15.570000000000007
+    },
+    {
+        "color": "#8c564b",
+        "label": "read:rss (1.50%)",
+        "value": 1.5
+    },
+    {
+        "color": "#c49c94",
+        "label": "social (50.66%)",
+        "value": 50.66
+    },
+    {
+        "color": "#aec7e8",
+        "label": "tv:local (3.56%)",
+        "value": 3.56
+    },
+    {
+        "color": "#98df8a",
+        "label": "tv:web (8.26%)",
+        "value": 8.26
     }
 ]

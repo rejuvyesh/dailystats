@@ -5,22 +5,22 @@
         "value": 2.4
     },
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (36.38%)",
         "value": 36.38
     },
     {
-        "color": "#c49c94",
+        "color": "#2ca02c",
         "label": "misc (3.44%)",
         "value": 3.4399999999999693
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff7f0e",
         "label": "read:pdf (10.87%)",
         "value": 10.87
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (30.89%)",
         "value": 30.89
     },
@@ -30,7 +30,7 @@
         "value": 3.43
     },
     {
-        "color": "#2ca02c",
+        "color": "#c5b0d5",
         "label": "write (12.59%)",
         "value": 12.59
     }

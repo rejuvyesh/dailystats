@@ -1,6 +1,6 @@
 [
     {
-        "color": "#c7c7c7",
+        "color": "#7f7f7f",
         "label": "communities (3.35%)",
         "value": 3.0889810972798526
     },
@@ -10,17 +10,17 @@
         "value": 3.900414937759336
     },
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (8.64%)",
         "value": 7.966804979253113
     },
     {
-        "color": "#17becf",
+        "color": "#8c564b",
         "label": "read:rss (3.53%)",
         "value": 3.254956201014292
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (71.60%)",
         "value": 66.02120792992162
     },
@@ -30,12 +30,12 @@
         "value": 1.1341632088520055
     },
     {
-        "color": "#7f7f7f",
+        "color": "#aec7e8",
         "label": "tv:local (14.11%)",
         "value": 13.01060396496081
     },
     {
-        "color": "#9467bd",
+        "color": "#98df8a",
         "label": "tv:web (1.76%)",
         "value": 1.6228676809589675
     }

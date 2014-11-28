@@ -1,6 +1,6 @@
 [
     {
-        "color": "#8c564b",
+        "color": "#c7c7c7",
         "label": "code:matlab (2.65%)",
         "value": 2.65
     },
@@ -10,22 +10,22 @@
         "value": 6.17
     },
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (8.47%)",
         "value": 8.47
     },
     {
-        "color": "#c49c94",
+        "color": "#2ca02c",
         "label": "misc (30.50%)",
         "value": 30.5
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff7f0e",
         "label": "read:pdf (14.11%)",
         "value": 14.11
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (29.81%)",
         "value": 29.81
     },

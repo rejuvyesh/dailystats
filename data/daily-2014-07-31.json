@@ -1,11 +1,11 @@
 [
     {
-        "color": "#dbdb8d",
+        "color": "#bcbd22",
         "label": "code:python (2.76%)",
         "value": 2.602791399471897
     },
     {
-        "color": "#c7c7c7",
+        "color": "#7f7f7f",
         "label": "communities (1.38%)",
         "value": 1.3013956997359486
     },
@@ -15,22 +15,22 @@
         "value": 1.7917766880422479
     },
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (21.07%)",
         "value": 19.869860430026403
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff7f0e",
         "label": "read:pdf (2.59%)",
         "value": 2.4424745379102224
     },
     {
-        "color": "#17becf",
+        "color": "#8c564b",
         "label": "read:rss (5.53%)",
         "value": 5.2150132025650695
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (64.59%)",
         "value": 60.91097698981517
     },

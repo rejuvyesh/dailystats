@@ -1,16 +1,16 @@
 [
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (27.47%)",
         "value": 27.47
     },
     {
-        "color": "#c49c94",
+        "color": "#2ca02c",
         "label": "misc (5.15%)",
         "value": 5.1499999999999915
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (33.00%)",
         "value": 33.0
     },
@@ -20,7 +20,7 @@
         "value": 11.26
     },
     {
-        "color": "#2ca02c",
+        "color": "#c5b0d5",
         "label": "write (23.12%)",
         "value": 23.12
     }

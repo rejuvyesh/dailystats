@@ -1,21 +1,21 @@
 [
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (2.77%)",
         "value": 2.77
     },
     {
-        "color": "#c49c94",
+        "color": "#2ca02c",
         "label": "misc (10.16%)",
         "value": 10.159999999999997
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff7f0e",
         "label": "read:pdf (1.15%)",
         "value": 1.15
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (72.29%)",
         "value": 72.29
     },

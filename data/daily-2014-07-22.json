@@ -5,27 +5,27 @@
         "value": 1.1254924029262803
     },
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (2.41%)",
         "value": 2.26036390921028
     },
     {
-        "color": "#98df8a",
+        "color": "#17becf",
         "label": "read:epub (1.20%)",
         "value": 1.1254924029262803
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff7f0e",
         "label": "read:pdf (3.01%)",
         "value": 2.8231101106734195
     },
     {
-        "color": "#17becf",
+        "color": "#8c564b",
         "label": "read:rss (12.05%)",
         "value": 11.3018195460514
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (77.71%)",
         "value": 72.88501219283437
     },

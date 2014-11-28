@@ -1,11 +1,11 @@
 [
     {
-        "color": "#c49c94",
+        "color": "#2ca02c",
         "label": "misc (0.00%)",
         "value": 0.0
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (90.00%)",
         "value": 90.0
     },

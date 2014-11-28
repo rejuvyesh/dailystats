@@ -1,6 +1,6 @@
 [
     {
-        "color": "#c7c7c7",
+        "color": "#7f7f7f",
         "label": "communities (4.15%)",
         "value": 3.5594819452783257
     },
@@ -10,17 +10,17 @@
         "value": 5.763787631872372
     },
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (19.60%)",
         "value": 16.811047259627752
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff7f0e",
         "label": "read:pdf (14.59%)",
         "value": 12.513937730508617
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (65.95%)",
         "value": 56.56574320267603
     },

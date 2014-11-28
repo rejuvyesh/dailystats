@@ -1,16 +1,16 @@
 [
     {
-        "color": "#e377c2",
+        "color": "#9467bd",
         "label": "mail (1.69%)",
         "value": 1.6620771046420142
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff7f0e",
         "label": "read:pdf (1.69%)",
         "value": 1.6620771046420142
     },
     {
-        "color": "#c5b0d5",
+        "color": "#c49c94",
         "label": "social (96.61%)",
         "value": 95.01376868607396
     },
