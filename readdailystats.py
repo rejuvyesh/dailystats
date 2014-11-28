@@ -55,7 +55,7 @@ def toChartJS(dic, color, name):
       for i, thing in enumerate(data):
         data[i]['value'] = (data[i]['value']/tot)*100
         newtot += data[i]['value']
-      # data.append({"label": 'misc'+' (' + '{:.2f}'.format(100-newtot) + '%)', "value": 100-newtot})
+
     # Save json for this day
     export.append({'fname': jsonname, 'totalTime': totalTime})
     toJson(sorted(export, key=lambda x: x['fname']), '/tmp/loglist.json')
