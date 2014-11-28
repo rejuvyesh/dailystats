@@ -1,16 +1,16 @@
 [
     {
-        "color": "#ff9896",
+        "color": "#f7b6d2",
         "label": "code:matlab (1.53%)",
         "value": 1.53
     },
     {
-        "color": "#d62728",
+        "color": "#ff7f0e",
         "label": "mail (33.59%)",
         "value": 33.59
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff9896",
         "label": "misc (39.69%)",
         "value": 39.69
     },
@@ -20,7 +20,7 @@
         "value": 16.03
     },
     {
-        "color": "#e377c2",
+        "color": "#c5b0d5",
         "label": "term (9.16%)",
         "value": 9.16
     }

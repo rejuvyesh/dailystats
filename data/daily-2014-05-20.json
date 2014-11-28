@@ -1,21 +1,21 @@
 [
     {
-        "color": "#c7c7c7",
+        "color": "#7f7f7f",
         "label": "code:python (34.89%)",
         "value": 33.85735080058224
     },
     {
-        "color": "#d62728",
+        "color": "#ff7f0e",
         "label": "mail (4.45%)",
         "value": 4.318292091217855
     },
     {
-        "color": "#2ca02c",
+        "color": "#bcbd22",
         "label": "procrastination:social (55.04%)",
         "value": 53.41096555070354
     },
     {
-        "color": "#e377c2",
+        "color": "#c5b0d5",
         "label": "term (8.67%)",
         "value": 8.41339155749636
     }

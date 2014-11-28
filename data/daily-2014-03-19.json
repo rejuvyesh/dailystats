@@ -1,6 +1,6 @@
 [
     {
-        "color": "#aec7e8",
+        "color": "#ff9896",
         "label": "misc (11.11%)",
         "value": 11.11
     },
@@ -10,7 +10,7 @@
         "value": 50.0
     },
     {
-        "color": "#e377c2",
+        "color": "#c5b0d5",
         "label": "term (38.89%)",
         "value": 38.89
     }

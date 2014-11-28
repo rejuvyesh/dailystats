@@ -1,11 +1,11 @@
 [
     {
-        "color": "#d62728",
+        "color": "#ff7f0e",
         "label": "mail (89.47%)",
         "value": 89.47
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff9896",
         "label": "misc (0.00%)",
         "value": 0.0
     },
@@ -15,7 +15,7 @@
         "value": 1.32
     },
     {
-        "color": "#e377c2",
+        "color": "#c5b0d5",
         "label": "term (9.21%)",
         "value": 9.21
     }

@@ -1,16 +1,16 @@
 [
     {
-        "color": "#c7c7c7",
+        "color": "#7f7f7f",
         "label": "code:python (3.66%)",
         "value": 3.1103934732727123
     },
     {
-        "color": "#d62728",
+        "color": "#ff7f0e",
         "label": "mail (29.78%)",
         "value": 25.308064927339174
     },
     {
-        "color": "#2ca02c",
+        "color": "#bcbd22",
         "label": "procrastination:social (47.61%)",
         "value": 40.46061018101471
     },
@@ -20,7 +20,7 @@
         "value": 6.764680887226991
     },
     {
-        "color": "#ff7f0e",
+        "color": "#c49c94",
         "label": "tv:local (25.00%)",
         "value": 21.245857057873717
     },

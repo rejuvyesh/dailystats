@@ -1,31 +1,31 @@
 [
     {
-        "color": "#c7c7c7",
+        "color": "#7f7f7f",
         "label": "code:python (1.29%)",
         "value": 1.29
     },
     {
-        "color": "#c5b0d5",
+        "color": "#9467bd",
         "label": "code:web (3.23%)",
         "value": 3.23
     },
     {
-        "color": "#1f77b4",
+        "color": "#8c564b",
         "label": "irc (5.68%)",
         "value": 5.68
     },
     {
-        "color": "#d62728",
+        "color": "#ff7f0e",
         "label": "mail (4.65%)",
         "value": 4.65
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff9896",
         "label": "misc (4.63%)",
         "value": 4.6299999999999955
     },
     {
-        "color": "#2ca02c",
+        "color": "#bcbd22",
         "label": "procrastination:social (54.71%)",
         "value": 54.71
     },
@@ -35,7 +35,7 @@
         "value": 13.29
     },
     {
-        "color": "#e377c2",
+        "color": "#c5b0d5",
         "label": "term (12.52%)",
         "value": 12.52
     }

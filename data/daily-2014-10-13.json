@@ -1,21 +1,21 @@
 [
     {
-        "color": "#ff9896",
+        "color": "#f7b6d2",
         "label": "code:matlab (2.76%)",
         "value": 2.76
     },
     {
-        "color": "#d62728",
+        "color": "#ff7f0e",
         "label": "mail (2.76%)",
         "value": 2.76
     },
     {
-        "color": "#aec7e8",
+        "color": "#ff9896",
         "label": "misc (1.85%)",
         "value": 1.8499999999999943
     },
     {
-        "color": "#2ca02c",
+        "color": "#bcbd22",
         "label": "procrastination:social (83.41%)",
         "value": 83.41
     },
