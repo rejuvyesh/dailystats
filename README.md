@@ -13,7 +13,8 @@ How to use?
 1. Install [`arbtt`](http://arbtt.nomeata.de/). Run `arbtt-capture` at startup.
 2. Fork this project.
 3. Clone the project to your machine.
-4. `make`
+4. Modify `categorize.cfg` as per your need.
+4. `make` should do I guess. Please let me know if you have any problems.
 
 TODO
 ----
