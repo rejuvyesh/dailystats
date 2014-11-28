@@ -60,6 +60,7 @@
        filter_div.append("p").attr("class", "tt").attr("style", "color:"+col).text(filter);
 
        var W = $(window).width() - 40;
+       console.log(W);
        var svg = div.append("svg")
                     .attr("width", W)
                     .attr("height", 70);
@@ -170,11 +171,13 @@
       <div id="rightarrow" class="arrow">&#8594;</div>
       <div id="car"></div>
     </div>
-    <div>
+    <div id="wrap">
       <div id="totaltime"></div>
       <div id="piechart"></div>
+
+      <div id="barcode"></div>
     </div>
-    <div id="barcode"></div>
+    
 
     <!-- Google Analytics -->
     <script type="text/javascript">
