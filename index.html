@@ -41,6 +41,54 @@
        var d = new Date(dat);
        $("#car").html('<h2>' + ppDate(d) + '</h2>');
      }
+
+     function createBarcode(st) {
+       $("barcode").empty();
+       _.each(Object.keys(st), function(x) { visualizeMinutes(st, x); })
+     }
+
+     function visualizeMinutes(st, filter) {
+       console.log('<Minutes>');
+       d = st[filter];
+       var div = d3.select("#barcode").append("div");
+
+       var filters_div = div.append("div").attr("class", "fsdiv");
+       var filter_div = filters_div.append("div").attr("class", "fdiv");
+       var col = d['color'];
+       var minute = d['minute'];
+       console.log(minute);
+       filter_div.append("p").attr("class", "tt").attr("style", "color:"+col).text(filter);
+
+       var W = $(window).width() - 40;
+       var svg = div.append("svg")
+                    .attr("width", W)
+                    .attr("height", 70);
+
+       var x = d3.scale.linear()
+                       .domain([1, 1440])
+                       .range([0, W]);
+       console.log(x);
+       var g = svg.selectAll("e")
+                  .data(minute)
+                  .enter().append("g");
+       g.append("rect")
+        .attr("x", function(d) { return x(d); })
+        .attr("width", 1)
+        .attr("y", 0)
+        .attr("height", 50)
+        .attr("fill", col);
+
+       var t = 0;
+       while(t < 1440) {
+         svg.append("text")
+            .attr("transform", "translate(" + [t*W/1440, 70] + ")")
+            .attr("font-family", "'Lato', sans-serif")
+            .attr("font-size", '0.9rem')
+            .attr("fill", "#ccc")
+            .text(t/60);
+         t += 240;
+       }
+     }
      
      function fetchAndLoadEvents(daylog) {
        loaded = false;
@@ -51,13 +99,16 @@
          loaded = true;
          
          // Save these as globals so that we can access them later
-         dailyData = data;
+         dailyData = data['piedata'];
+         minuteData = data['tagdata'];
          console.log("data: "+data.length);
          createPieChart(dailyData);
+         createBarcode(minuteData);
        });
      }
      var totalTime;
      var dailyData;
+     var minuteData;
      var loglist = [];
      var curLogId = -1;
 
@@ -100,6 +151,7 @@
      // redraw if dirty (due to window resize event)
      function redraw() {
        if(!dirty) return;
+       createBarcode(minuteData);
        dirty = false;
      }
 
@@ -122,6 +174,7 @@
       <div id="totaltime"></div>
       <div id="piechart"></div>
     </div>
+    <div id="barcode"></div>
 
     <!-- Google Analytics -->
     <script type="text/javascript">
