@@ -1,41 +1,41 @@
 {
     "piedata": [
         {
-            "color": "#e377c2",
+            "color": "#1f77b4",
             "label": "code:matlab (1.53%)",
             "value": 1.53
         },
         {
-            "color": "#ff7f0e",
+            "color": "#c5b0d5",
             "label": "mail (33.59%)",
             "value": 33.59
         },
         {
-            "color": "#aec7e8",
+            "color": "#ff7f0e",
             "label": "misc (39.69%)",
             "value": 39.69
         },
         {
-            "color": "#c7c7c7",
+            "color": "#17becf",
             "label": "read:pdf (16.03%)",
             "value": 16.03
         },
         {
-            "color": "#d62728",
+            "color": "#f7b6d2",
             "label": "term (9.16%)",
             "value": 9.16
         }
     ],
     "tagdata": {
         "code:matlab": {
-            "color": "#e377c2",
+            "color": "#1f77b4",
             "minute": [
                 1274,
                 1275
             ]
         },
         "mail": {
-            "color": "#ff7f0e",
+            "color": "#c5b0d5",
             "minute": [
                 1363,
                 1364,
@@ -84,7 +84,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#c7c7c7",
+            "color": "#17becf",
             "minute": [
                 1276,
                 1279,
@@ -110,7 +110,7 @@
             ]
         },
         "term": {
-            "color": "#d62728",
+            "color": "#f7b6d2",
             "minute": [
                 1269,
                 1272,

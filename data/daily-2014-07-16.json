@@ -1,39 +1,39 @@
 {
     "piedata": [
         {
-            "color": "#ffbb78",
+            "color": "#7f7f7f",
             "label": "irc (6.92%)",
             "value": 6.011641039006167
         },
         {
-            "color": "#ff7f0e",
+            "color": "#c5b0d5",
             "label": "mail (6.29%)",
             "value": 5.4643384588654325
         },
         {
-            "color": "#c7c7c7",
+            "color": "#17becf",
             "label": "read:pdf (8.81%)",
             "value": 7.653548779428372
         },
         {
-            "color": "#c5b0d5",
+            "color": "#aec7e8",
             "label": "read:rss (1.89%)",
             "value": 1.6419077404222044
         },
         {
-            "color": "#9467bd",
+            "color": "#98df8a",
             "label": "social (78.62%)",
             "value": 68.29988706454695
         },
         {
-            "color": "#d62728",
+            "color": "#f7b6d2",
             "label": "term (12.58%)",
             "value": 10.928676917730865
         }
     ],
     "tagdata": {
         "irc": {
-            "color": "#ffbb78",
+            "color": "#7f7f7f",
             "minute": [
                 82,
                 141,
@@ -60,7 +60,7 @@
             ]
         },
         "mail": {
-            "color": "#ff7f0e",
+            "color": "#c5b0d5",
             "minute": [
                 137,
                 138,
@@ -85,7 +85,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#c7c7c7",
+            "color": "#17becf",
             "minute": [
                 81,
                 87,
@@ -118,7 +118,7 @@
             ]
         },
         "read:rss": {
-            "color": "#c5b0d5",
+            "color": "#aec7e8",
             "minute": [
                 103,
                 104,
@@ -129,7 +129,7 @@
             ]
         },
         "social": {
-            "color": "#9467bd",
+            "color": "#98df8a",
             "minute": [
                 83,
                 84,
@@ -384,7 +384,7 @@
             ]
         },
         "term": {
-            "color": "#d62728",
+            "color": "#f7b6d2",
             "minute": [
                 80,
                 195,

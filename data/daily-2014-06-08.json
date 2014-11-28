@@ -1,34 +1,34 @@
 {
     "piedata": [
         {
-            "color": "#ffbb78",
+            "color": "#7f7f7f",
             "label": "irc (1.87%)",
             "value": 1.7863966373710356
         },
         {
-            "color": "#ff7f0e",
+            "color": "#c5b0d5",
             "label": "mail (8.88%)",
             "value": 8.482995796713796
         },
         {
-            "color": "#c7c7c7",
+            "color": "#17becf",
             "label": "read:pdf (1.40%)",
             "value": 1.3374092472296524
         },
         {
-            "color": "#9467bd",
+            "color": "#98df8a",
             "label": "social (88.32%)",
             "value": 84.37141765380206
         },
         {
-            "color": "#d62728",
+            "color": "#f7b6d2",
             "label": "term (4.21%)",
             "value": 4.021780664883455
         }
     ],
     "tagdata": {
         "irc": {
-            "color": "#ffbb78",
+            "color": "#7f7f7f",
             "minute": [
                 1233,
                 1234,
@@ -37,7 +37,7 @@
             ]
         },
         "mail": {
-            "color": "#ff7f0e",
+            "color": "#c5b0d5",
             "minute": [
                 1010,
                 1055,
@@ -61,14 +61,14 @@
             ]
         },
         "read:mobi": {
-            "color": "#7f7f7f",
+            "color": "#c49c94",
             "minute": [
                 1253,
                 1254
             ]
         },
         "read:pdf": {
-            "color": "#c7c7c7",
+            "color": "#17becf",
             "minute": [
                 1326,
                 1337,
@@ -76,7 +76,7 @@
             ]
         },
         "social": {
-            "color": "#9467bd",
+            "color": "#98df8a",
             "minute": [
                 1009,
                 1010,
@@ -270,7 +270,7 @@
             ]
         },
         "term": {
-            "color": "#d62728",
+            "color": "#f7b6d2",
             "minute": [
                 1042,
                 1068,

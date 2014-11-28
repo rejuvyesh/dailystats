@@ -6,27 +6,27 @@
             "value": 4.75
         },
         {
-            "color": "#8c564b",
+            "color": "#d62728",
             "label": "communities (7.19%)",
             "value": 7.19
         },
         {
-            "color": "#ff7f0e",
+            "color": "#c5b0d5",
             "label": "mail (2.01%)",
             "value": 2.01
         },
         {
-            "color": "#aec7e8",
+            "color": "#ff7f0e",
             "label": "misc (19.57%)",
             "value": 19.569999999999993
         },
         {
-            "color": "#c5b0d5",
+            "color": "#aec7e8",
             "label": "read:rss (3.17%)",
             "value": 3.17
         },
         {
-            "color": "#9467bd",
+            "color": "#98df8a",
             "label": "social (63.31%)",
             "value": 63.31
         }
@@ -71,7 +71,7 @@
             ]
         },
         "communities": {
-            "color": "#8c564b",
+            "color": "#d62728",
             "minute": [
                 480,
                 481,
@@ -126,7 +126,7 @@
             ]
         },
         "irc": {
-            "color": "#ffbb78",
+            "color": "#7f7f7f",
             "minute": [
                 1,
                 865,
@@ -135,7 +135,7 @@
             ]
         },
         "mail": {
-            "color": "#ff7f0e",
+            "color": "#c5b0d5",
             "minute": [
                 473,
                 580,
@@ -154,14 +154,14 @@
             ]
         },
         "read:pdf": {
-            "color": "#c7c7c7",
+            "color": "#17becf",
             "minute": [
                 908,
                 939
             ]
         },
         "read:rss": {
-            "color": "#c5b0d5",
+            "color": "#aec7e8",
             "minute": [
                 563,
                 574,
@@ -188,7 +188,7 @@
             ]
         },
         "social": {
-            "color": "#9467bd",
+            "color": "#98df8a",
             "minute": [
                 0,
                 467,
@@ -633,7 +633,7 @@
             ]
         },
         "tv:web": {
-            "color": "#f7b6d2",
+            "color": "#2ca02c",
             "minute": [
                 790,
                 791

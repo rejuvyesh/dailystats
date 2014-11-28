@@ -6,27 +6,27 @@
             "value": 2.61
         },
         {
-            "color": "#8c564b",
+            "color": "#d62728",
             "label": "communities (6.54%)",
             "value": 6.54
         },
         {
-            "color": "#ff7f0e",
+            "color": "#c5b0d5",
             "label": "mail (1.31%)",
             "value": 1.31
         },
         {
-            "color": "#aec7e8",
+            "color": "#ff7f0e",
             "label": "misc (7.84%)",
             "value": 7.839999999999989
         },
         {
-            "color": "#9467bd",
+            "color": "#98df8a",
             "label": "social (58.82%)",
             "value": 58.82
         },
         {
-            "color": "#d62728",
+            "color": "#f7b6d2",
             "label": "term (22.88%)",
             "value": 22.88
         }
@@ -42,7 +42,7 @@
             ]
         },
         "communities": {
-            "color": "#8c564b",
+            "color": "#d62728",
             "minute": [
                 1183,
                 1184,
@@ -57,14 +57,14 @@
             ]
         },
         "mail": {
-            "color": "#ff7f0e",
+            "color": "#c5b0d5",
             "minute": [
                 1143,
                 1148
             ]
         },
         "social": {
-            "color": "#9467bd",
+            "color": "#98df8a",
             "minute": [
                 1111,
                 1112,
@@ -159,7 +159,7 @@
             ]
         },
         "term": {
-            "color": "#d62728",
+            "color": "#f7b6d2",
             "minute": [
                 1110,
                 1134,
