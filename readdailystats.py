@@ -22,7 +22,7 @@ def toJson(dic, jsonpath):
     json.dump(dic, f, sort_keys=True, indent=4)
 
 
-def toChartJS(dic, color, name):
+def toChartJS(dic, mindic, color, name):
   '''
   Convert to Chart.JS format
   Arguments:
@@ -36,7 +36,7 @@ def toChartJS(dic, color, name):
     jsonname = name + '-' + day + '.json'
     
     d = dic[day]
-    # print(d)
+    mind = mindic[day]
     data = []
     tot = 0
     for index, item in enumerate(d):
@@ -59,7 +59,7 @@ def toChartJS(dic, color, name):
     # Save json for this day
     export.append({'fname': jsonname, 'totalTime': totalTime})
     toJson(sorted(export, key=lambda x: x['fname']), '/tmp/loglist.json')
-    toJson(sorted(data, key=lambda x: x['label']), '/tmp/data/'+jsonname)
+    toJson({'piedata': sorted(data, key=lambda x: x['label']), 'tagdata': mind}, '/tmp/data/'+jsonname)
 
 
 def dailyUsage(dailyfile, minutefile):
@@ -114,6 +114,7 @@ def dailyUsage(dailyfile, minutefile):
           minutedata[day][tag] = [moment]
       else:
         minutedata[day] = {tag: [moment]}
+  toChartJS(dailydata, minutedata, col, 'daily')
 
 
 if __name__ == '__main__':
