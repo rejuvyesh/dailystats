@@ -93,8 +93,8 @@ if __name__ == '__main__':
       "#7f7f7f", "#c7c7c7",
       "#bcbd22", "#dbdb8d",
       "#17becf", "#9edae5"
-    ]
+  ]
   for i, t in enumerate(tags):
-    col[t] = category20[i]
+    col[t] = category20[i % len(category20)]
 
   toChartJS(date, col, 'daily')
