@@ -1,16 +1,16 @@
 [
     {
-        "color": "#8c564b",
+        "color": "#9467bd",
         "label": "misc (0.00%)",
         "value": 0.0
     },
     {
-        "color": "#9467bd",
+        "color": "#e377c2",
         "label": "procrastination:social (66.67%)",
         "value": 66.67
     },
     {
-        "color": "#ffbb78",
+        "color": "#c49c94",
         "label": "term (33.33%)",
         "value": 33.33
     }

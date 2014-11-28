@@ -1,26 +1,26 @@
 [
     {
-        "color": "#1f77b4",
+        "color": "#bcbd22",
         "label": "code:python (17.53%)",
         "value": 17.53
     },
     {
-        "color": "#8c564b",
+        "color": "#9467bd",
         "label": "misc (35.67%)",
         "value": 35.67
     },
     {
-        "color": "#9467bd",
+        "color": "#e377c2",
         "label": "procrastination:social (27.63%)",
         "value": 27.63
     },
     {
-        "color": "#dbdb8d",
+        "color": "#aec7e8",
         "label": "read:pdf (9.69%)",
         "value": 9.69
     },
     {
-        "color": "#98df8a",
+        "color": "#d62728",
         "label": "tv:local (9.48%)",
         "value": 9.48
     }

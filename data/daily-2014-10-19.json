@@ -1,36 +1,36 @@
 [
     {
-        "color": "#bcbd22",
+        "color": "#ffbb78",
         "label": "code:matlab (1.28%)",
         "value": 1.1058315334773219
     },
     {
-        "color": "#c5b0d5",
+        "color": "#f7b6d2",
         "label": "irc (2.55%)",
         "value": 2.2030237580993517
     },
     {
-        "color": "#c49c94",
+        "color": "#ff9896",
         "label": "mail (1.28%)",
         "value": 1.1058315334773219
     },
     {
-        "color": "#9467bd",
+        "color": "#e377c2",
         "label": "procrastination:social (85.53%)",
         "value": 73.89200863930886
     },
     {
-        "color": "#dbdb8d",
+        "color": "#aec7e8",
         "label": "read:pdf (16.60%)",
         "value": 14.341252699784018
     },
     {
-        "color": "#f7b6d2",
+        "color": "#98df8a",
         "label": "read:rss (4.68%)",
         "value": 4.043196544276458
     },
     {
-        "color": "#98df8a",
+        "color": "#d62728",
         "label": "tv:local (3.83%)",
         "value": 3.3088552915766742
     }

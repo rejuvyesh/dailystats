@@ -1,26 +1,26 @@
 [
     {
-        "color": "#c5b0d5",
+        "color": "#f7b6d2",
         "label": "irc (2.00%)",
         "value": 2.0
     },
     {
-        "color": "#8c564b",
+        "color": "#9467bd",
         "label": "misc (8.00%)",
         "value": 8.0
     },
     {
-        "color": "#9467bd",
+        "color": "#e377c2",
         "label": "procrastination:social (49.60%)",
         "value": 49.6
     },
     {
-        "color": "#ff9896",
+        "color": "#1f77b4",
         "label": "read:djvu (16.40%)",
         "value": 16.4
     },
     {
-        "color": "#ffbb78",
+        "color": "#c49c94",
         "label": "term (24.00%)",
         "value": 24.0
     }
