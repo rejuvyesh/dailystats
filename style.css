@@ -116,3 +116,13 @@ h1 {
   padding-top: 20px;
   font-weight: bold;
 }
+
+#barcode {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  border-top: 1px solid #bbb;
+}
+
+.fdiv {
+  display: inline-block;
+}
