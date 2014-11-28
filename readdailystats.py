@@ -8,6 +8,7 @@
 # arbtt-stats --for-each=day --output-format=CSV -x 'tday:night' -x 'tday:morning' -x 'tday:lunchtime' -x 'tday:afternoon' -x 'tday:evening' -x 'tday:late-evening' > cleanstats.csv
 
 import csv
+import math
 import json
 import sys
 
@@ -20,11 +21,12 @@ def toJson(dic, jsonpath):
     json.dump(dic, f, sort_keys=True, indent=4)
 
 
-def toChartJS(dic, name):
+def toChartJS(dic, color, name):
   '''
   Convert to Chart.JS format
   Arguments:
   - `dic`: Dictionary
+  - `color`: Color of each label
   - `jsonpath`: Path of json file
   '''
   export = []
@@ -42,9 +44,10 @@ def toChartJS(dic, name):
       else:
         tot += float(list(item.values())[0]['Percent'])
         per = float(list(item.values())[0]['Percent'])
-        data.append({"label": list(item.keys())[0] + ' (' + '{:.2f}'.format(per) + '%)', "value": per})
+        lab = list(item.keys())[0]
+        data.append({"label": lab + ' (' + '{:.2f}'.format(per) + '%)', "value": per, "color": color[lab]})
     if tot <= 100:
-      data.append({"label": 'misc'+' (' + '{:.2f}'.format(100-tot) + '%)', "value": 100-tot})
+      data.append({"label": 'misc'+' (' + '{:.2f}'.format(100-tot) + '%)', "value": 100-tot, "color": color['misc']})
     else:
       # normalize (bummer)
       newtot = 0
@@ -65,16 +68,20 @@ if __name__ == '__main__':
   else:
     csvfile = sys.argv[1]
 
+  tags = set({'misc'})
   date = {}
-  fields = ("Day", "Tag", "Time", "Percentage")
   with open(csvfile, 'r') as f:
       dailystats = csv.reader(f, delimiter=',')
       next(dailystats)   # Skip headers
       for row in dailystats:
         if row[0] in date.keys():
           # {'tag' : {'time', 'percent'}}
+          tags.update({row[1]})
           date[row[0]].append({row[1]: {'Time': row[2], 'Percent': row[3]}})
         else:
           date[row[0]] = [{row[1]: {'Time': row[2], 'Percent': row[3]}}]
-          
-  toChartJS(date, 'daily')
+  col = {}
+  for i, t in enumerate(tags):
+    col[t] = 'hsl(' + str(math.floor(((i+0.5)/len(tags)) * 360)) + ', 55%, 45%)'
+
+  toChartJS(date, col, 'daily')
