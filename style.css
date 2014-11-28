@@ -88,6 +88,19 @@ h1 {
   padding: 20px;
 }
 
+#overviewlink {
+  position: absolute;
+  font-size: 2rem;
+  top: 1.5rem;
+  right: 100px;
+  font-weight: normal;
+  font-family: 'Lato', sans-serif;
+}
+
+#overviewlink a {
+  color: #FFF;
+}
+
 #leftarrow {
   float: left;
 }
