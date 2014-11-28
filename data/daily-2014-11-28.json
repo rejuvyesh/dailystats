@@ -1,57 +1,57 @@
 [
     {
-        "color": "#2ca02c",
-        "label": "code:python (7.05%)",
-        "value": 7.05
+        "color": "#1f77b4",
+        "label": "code:python (7.01%)",
+        "value": 7.01
     },
     {
-        "color": "#f7b6d2",
-        "label": "code:web (1.59%)",
-        "value": 1.59
+        "color": "#7f7f7f",
+        "label": "code:web (1.58%)",
+        "value": 1.58
     },
     {
-        "color": "#aec7e8",
-        "label": "irc (1.14%)",
-        "value": 1.14
+        "color": "#c5b0d5",
+        "label": "irc (1.13%)",
+        "value": 1.13
     },
     {
-        "color": "#98df8a",
-        "label": "mail (4.32%)",
-        "value": 4.32
-    },
-    {
-        "color": "#dbdb8d",
-        "label": "misc (10.43%)",
-        "value": 10.430000000000021
-    },
-    {
-        "color": "#ffbb78",
-        "label": "procrastination:social (57.05%)",
-        "value": 57.05
+        "color": "#c49c94",
+        "label": "mail (4.30%)",
+        "value": 4.3
     },
     {
         "color": "#8c564b",
-        "label": "read:pdf (1.14%)",
-        "value": 1.14
-    },
-    {
-        "color": "#c7c7c7",
-        "label": "read:rss (1.82%)",
-        "value": 1.82
+        "label": "misc (10.65%)",
+        "value": 10.65000000000002
     },
     {
         "color": "#9467bd",
-        "label": "tv:local (4.32%)",
-        "value": 4.32
+        "label": "procrastination:social (57.01%)",
+        "value": 57.01
     },
     {
-        "color": "#d62728",
-        "label": "tv:web (10.00%)",
-        "value": 10.0
+        "color": "#dbdb8d",
+        "label": "read:pdf (1.13%)",
+        "value": 1.13
     },
     {
-        "color": "#1f77b4",
-        "label": "write (1.14%)",
-        "value": 1.14
+        "color": "#f7b6d2",
+        "label": "read:rss (1.81%)",
+        "value": 1.81
+    },
+    {
+        "color": "#98df8a",
+        "label": "tv:local (4.30%)",
+        "value": 4.3
+    },
+    {
+        "color": "#17becf",
+        "label": "tv:web (9.95%)",
+        "value": 9.95
+    },
+    {
+        "color": "#aec7e8",
+        "label": "write (1.13%)",
+        "value": 1.13
     }
 ]

@@ -1,11 +1,11 @@
 [
     {
-        "color": "#dbdb8d",
+        "color": "#8c564b",
         "label": "misc (50.00%)",
         "value": 50.0
     },
     {
-        "color": "#8c564b",
+        "color": "#dbdb8d",
         "label": "read:pdf (50.00%)",
         "value": 50.0
     }
