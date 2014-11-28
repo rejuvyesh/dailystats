@@ -97,7 +97,23 @@ def dailyUsage(dailyfile, minutefile):
   for i, t in enumerate(tags):
     col[t] = category20[i % len(category20)]
 
-  toChartJS(date, col, 'daily')
+  # Load data for every minute
+  minutedata = {}
+  with open(minutefile, 'r') as f:
+    next(f)
+    cont = f.readlines()
+    for row in cont:
+      day, value = row.split(' ')
+      time, tag, _, _ = value.split(',')
+      hour, minute = [int(x) for x in time.split(':')]
+      moment = hour*60 + minute
+      if day in minutedata.keys():
+        if tag in minutedata[day].keys():
+          minutedata[day][tag].append(moment)
+        else:
+          minutedata[day][tag] = [moment]
+      else:
+        minutedata[day] = {tag: [moment]}
 
 
 if __name__ == '__main__':
