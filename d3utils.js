@@ -49,10 +49,10 @@ var d3utils = {};
 
     g.append("path")
       .attr("d", arc)
-      .style("fill", function(d, i) { return d.color; });
+      .style("fill", function(d, i) { return d.data.color; });
 
     g.append("text")
-      .style("fill", function(d, i) { return d.color; })
+      .style("fill", function(d, i) { return d.data.color; })
       .attr("transform", function(d) {
         var c = arc.centroid(d);
         var x = c[0];
