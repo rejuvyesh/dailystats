@@ -1,21 +1,21 @@
 [
     {
-        "color": "#1f77b4",
+        "color": "#c49c94",
         "label": "code:haskell (2.61%)",
         "value": 2.61
     },
     {
-        "color": "#ff7f0e",
+        "color": "#98df8a",
         "label": "mail (1.31%)",
         "value": 1.31
     },
     {
-        "color": "#ff9896",
+        "color": "#dbdb8d",
         "label": "misc (14.38%)",
         "value": 14.379999999999995
     },
     {
-        "color": "#bcbd22",
+        "color": "#ffbb78",
         "label": "procrastination:social (58.82%)",
         "value": 58.82
     },

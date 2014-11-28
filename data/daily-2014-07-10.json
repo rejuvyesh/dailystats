@@ -1,21 +1,21 @@
 [
     {
-        "color": "#8c564b",
+        "color": "#aec7e8",
         "label": "irc (8.40%)",
         "value": 7.729824238520291
     },
     {
-        "color": "#ff7f0e",
+        "color": "#98df8a",
         "label": "mail (7.86%)",
         "value": 7.232906966043987
     },
     {
-        "color": "#bcbd22",
+        "color": "#ffbb78",
         "label": "procrastination:social (75.88%)",
         "value": 69.82607895463329
     },
     {
-        "color": "#aec7e8",
+        "color": "#c7c7c7",
         "label": "read:rss (2.17%)",
         "value": 1.9968712616177418
     },

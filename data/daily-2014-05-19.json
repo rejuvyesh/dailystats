@@ -1,21 +1,21 @@
 [
     {
-        "color": "#7f7f7f",
+        "color": "#2ca02c",
         "label": "code:python (35.60%)",
         "value": 33.23685930351975
     },
     {
-        "color": "#ff7f0e",
+        "color": "#98df8a",
         "label": "mail (5.26%)",
         "value": 4.910839324059378
     },
     {
-        "color": "#bcbd22",
+        "color": "#ffbb78",
         "label": "procrastination:social (55.73%)",
         "value": 52.03062272430211
     },
     {
-        "color": "#98df8a",
+        "color": "#8c564b",
         "label": "read:pdf (4.02%)",
         "value": 3.7531509662963307
     },

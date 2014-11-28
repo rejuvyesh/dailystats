@@ -1,16 +1,16 @@
 [
     {
-        "color": "#8c564b",
+        "color": "#aec7e8",
         "label": "irc (2.15%)",
         "value": 2.15
     },
     {
-        "color": "#ff9896",
+        "color": "#dbdb8d",
         "label": "misc (4.59%)",
         "value": 4.590000000000003
     },
     {
-        "color": "#bcbd22",
+        "color": "#ffbb78",
         "label": "procrastination:social (46.32%)",
         "value": 46.32
     },
@@ -20,7 +20,7 @@
         "value": 11.35
     },
     {
-        "color": "#98df8a",
+        "color": "#8c564b",
         "label": "read:pdf (3.07%)",
         "value": 3.07
     },
