@@ -100,9 +100,9 @@ def dailyUsage(csvfile):
 
 
 if __name__ == '__main__':
-  if len(sys.argv) <= 1:
-    printf("Error: no csv file")
+  if len(sys.argv) <= 2:
+    printf("Error: need two csv files")
     exit(-1)
   else:
-    csvfile = sys.argv[1]
-    dailyUsage(csvfile)
+    dailyfile = sys.argv[1]
+    minutefile = sys.argv[2]
