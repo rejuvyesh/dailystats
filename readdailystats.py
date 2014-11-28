@@ -5,9 +5,7 @@
 # Created: Thursday, November 20 2014 by rejuvyesh <mail@rejuvyesh.com>
 #
 
-from colour import Color
 import csv
-import math
 import json
 import sys
 
