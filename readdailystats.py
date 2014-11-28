@@ -109,11 +109,11 @@ def dailyUsage(dailyfile, minutefile):
       moment = hour*60 + minute
       if day in minutedata.keys():
         if tag in minutedata[day].keys():
-          minutedata[day][tag].append(moment)
+          minutedata[day][tag]['minute'].append(moment)
         else:
-          minutedata[day][tag] = [moment]
+          minutedata[day][tag] = {'minute': [moment], 'color': col[tag]}
       else:
-        minutedata[day] = {tag: [moment]}
+        minutedata[day] = {tag: {'minute': [moment], 'color': col[tag]}}
   toChartJS(dailydata, minutedata, col, 'daily')
 
 
