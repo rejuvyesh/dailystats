@@ -1,21 +1,21 @@
 [
     {
-        "color": "hsl(190, 55%, 45%)",
+        "color": "#98df8a",
         "label": "mail (3.51%)",
         "value": 3.3909767172253886
     },
     {
-        "color": "hsl(170, 55%, 45%)",
+        "color": "#8c564b",
         "label": "procrastination (89.04%)",
         "value": 86.02067433098252
     },
     {
-        "color": "hsl(290, 55%, 45%)",
+        "color": "#bcbd22",
         "label": "read:pdf (7.89%)",
         "value": 7.622451937010916
     },
     {
-        "color": "hsl(50, 55%, 45%)",
+        "color": "#c5b0d5",
         "label": "term (3.07%)",
         "value": 2.9658970147811803
     }

@@ -1,11 +1,11 @@
 [
     {
-        "color": "hsl(250, 55%, 45%)",
+        "color": "#7f7f7f",
         "label": "misc (50.00%)",
         "value": 50.0
     },
     {
-        "color": "hsl(290, 55%, 45%)",
+        "color": "#bcbd22",
         "label": "read:pdf (50.00%)",
         "value": 50.0
     }

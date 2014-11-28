@@ -1,31 +1,31 @@
 [
     {
-        "color": "hsl(70, 55%, 45%)",
+        "color": "#2ca02c",
         "label": "irc (2.15%)",
         "value": 2.15
     },
     {
-        "color": "hsl(250, 55%, 45%)",
+        "color": "#7f7f7f",
         "label": "misc (4.59%)",
         "value": 4.590000000000003
     },
     {
-        "color": "hsl(170, 55%, 45%)",
+        "color": "#8c564b",
         "label": "procrastination (46.32%)",
         "value": 46.32
     },
     {
-        "color": "hsl(10, 55%, 45%)",
+        "color": "#1f77b4",
         "label": "read:djvu (11.35%)",
         "value": 11.35
     },
     {
-        "color": "hsl(290, 55%, 45%)",
+        "color": "#bcbd22",
         "label": "read:pdf (3.07%)",
         "value": 3.07
     },
     {
-        "color": "hsl(50, 55%, 45%)",
+        "color": "#c5b0d5",
         "label": "term (32.52%)",
         "value": 32.52
     }

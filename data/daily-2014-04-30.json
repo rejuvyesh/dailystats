@@ -1,21 +1,21 @@
 [
     {
-        "color": "hsl(190, 55%, 45%)",
+        "color": "#98df8a",
         "label": "mail (89.47%)",
         "value": 47.22119596769937
     },
     {
-        "color": "hsl(290, 55%, 45%)",
+        "color": "#bcbd22",
         "label": "read:pdf (1.32%)",
         "value": 0.6966802132263683
     },
     {
-        "color": "hsl(50, 55%, 45%)",
+        "color": "#c5b0d5",
         "label": "term (9.21%)",
         "value": 4.860927851374888
     },
     {
-        "color": "hsl(330, 55%, 45%)",
+        "color": "#c7c7c7",
         "label": "tv:local (89.47%)",
         "value": 47.22119596769937
     }

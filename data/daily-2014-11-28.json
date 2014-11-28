@@ -1,42 +1,47 @@
 [
     {
-        "color": "hsl(350, 55%, 45%)",
-        "label": "code:python (6.77%)",
-        "value": 6.77
+        "color": "#f7b6d2",
+        "label": "code:python (7.77%)",
+        "value": 7.77
     },
     {
-        "color": "hsl(229, 55%, 45%)",
-        "label": "code:web (1.59%)",
-        "value": 1.59
+        "color": "#9467bd",
+        "label": "code:web (2.03%)",
+        "value": 2.03
     },
     {
-        "color": "hsl(70, 55%, 45%)",
-        "label": "irc (1.20%)",
-        "value": 1.2
+        "color": "#2ca02c",
+        "label": "irc (1.69%)",
+        "value": 1.69
     },
     {
-        "color": "hsl(190, 55%, 45%)",
-        "label": "mail (1.59%)",
-        "value": 1.59
+        "color": "#98df8a",
+        "label": "mail (1.35%)",
+        "value": 1.35
     },
     {
-        "color": "hsl(250, 55%, 45%)",
-        "label": "misc (7.17%)",
-        "value": 7.1699999999999875
+        "color": "#7f7f7f",
+        "label": "misc (6.42%)",
+        "value": 6.420000000000016
     },
     {
-        "color": "hsl(170, 55%, 45%)",
-        "label": "procrastination (53.39%)",
-        "value": 53.39
+        "color": "#8c564b",
+        "label": "procrastination (55.07%)",
+        "value": 55.07
     },
     {
-        "color": "hsl(130, 55%, 45%)",
-        "label": "read:rss (3.19%)",
-        "value": 3.19
+        "color": "#bcbd22",
+        "label": "read:pdf (1.69%)",
+        "value": 1.69
     },
     {
-        "color": "hsl(330, 55%, 45%)",
-        "label": "tv:local (25.10%)",
-        "value": 25.1
+        "color": "#aec7e8",
+        "label": "read:rss (2.70%)",
+        "value": 2.7
+    },
+    {
+        "color": "#c7c7c7",
+        "label": "tv:local (21.28%)",
+        "value": 21.28
     }
 ]
