@@ -5,8 +5,6 @@
 # Created: Thursday, November 20 2014 by rejuvyesh <mail@rejuvyesh.com>
 #
 
-# arbtt-stats --for-each=day --output-format=CSV -x 'tday:night' -x 'tday:morning' -x 'tday:lunchtime' -x 'tday:afternoon' -x 'tday:evening' -x 'tday:late-evening' > cleanstats.csv
-
 from colour import Color
 import csv
 import math
