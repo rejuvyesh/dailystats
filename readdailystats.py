@@ -7,6 +7,7 @@
 
 # arbtt-stats --for-each=day --output-format=CSV -x 'tday:night' -x 'tday:morning' -x 'tday:lunchtime' -x 'tday:afternoon' -x 'tday:evening' -x 'tday:late-evening' > cleanstats.csv
 
+from colour import Color
 import csv
 import math
 import json
@@ -81,7 +82,19 @@ if __name__ == '__main__':
         else:
           date[row[0]] = [{row[1]: {'Time': row[2], 'Percent': row[3]}}]
   col = {}
+  category20 = [
+      "#1f77b4", "#aec7e8",
+      "#ff7f0e", "#ffbb78",
+      "#2ca02c", "#98df8a",
+      "#d62728", "#ff9896",
+      "#9467bd", "#c5b0d5",
+      "#8c564b", "#c49c94",
+      "#e377c2", "#f7b6d2",
+      "#7f7f7f", "#c7c7c7",
+      "#bcbd22", "#dbdb8d",
+      "#17becf", "#9edae5"
+    ]
   for i, t in enumerate(tags):
-    col[t] = 'hsl(' + str(math.floor(((i+0.5)/len(tags)) * 360)) + ', 55%, 45%)'
+    col[t] = category20[i]
 
   toChartJS(date, col, 'daily')
