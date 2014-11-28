@@ -12,8 +12,8 @@ git: json
 	/usr/bin/cp -r /tmp/data .
 	/usr/bin/cp /tmp/loglist.json .
 	git add .
+	git commit -m "`date`: push logs"
 
 push: git
-	git commit -m "`date`: push logs"
 	git push origin gh-pages
 	git checkout master
