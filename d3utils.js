@@ -26,7 +26,7 @@ var d3utils = {};
       div.append('p').attr('class', 'pietitle').text(title);
     }
 
-    var color = d3.scale.category20();
+    // var color = d3.scale.category20();
 
     var arc = d3.svg.arc()
           .outerRadius(r)
@@ -49,10 +49,10 @@ var d3utils = {};
 
     g.append("path")
       .attr("d", arc)
-      .style("fill", function(d, i) { return color(i); });
+      .style("fill", function(d, i) { return d.color; });
 
     g.append("text")
-      .style("fill", function(d, i) { return color(i); })
+      .style("fill", function(d, i) { return d.color; })
       .attr("transform", function(d) {
         var c = arc.centroid(d);
         var x = c[0];
