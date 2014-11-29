@@ -1,31 +1,31 @@
 {
     "piedata": [
         {
-            "color": "#c7c7c7",
+            "color": "#ffbb78",
             "label": "misc (0.00%)",
             "value": 0.0
         },
         {
-            "color": "#17becf",
+            "color": "#8c564b",
             "label": "social (66.67%)",
             "value": 66.67
         },
         {
-            "color": "#2ca02c",
+            "color": "#c49c94",
             "label": "term (33.33%)",
             "value": 33.33
         }
     ],
     "tagdata": {
         "social": {
-            "color": "#17becf",
+            "color": "#8c564b",
             "minute": [
                 1164,
                 1165
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#c49c94",
             "minute": [
                 1163
             ]

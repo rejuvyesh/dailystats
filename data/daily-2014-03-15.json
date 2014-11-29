@@ -1,19 +1,19 @@
 {
     "piedata": [
         {
-            "color": "#dbdb8d",
+            "color": "#ff9896",
             "label": "mail (100.00%)",
             "value": 100.0
         },
         {
-            "color": "#c7c7c7",
+            "color": "#ffbb78",
             "label": "misc (0.00%)",
             "value": 0.0
         }
     ],
     "tagdata": {
         "mail": {
-            "color": "#dbdb8d",
+            "color": "#ff9896",
             "minute": [
                 0,
                 1,

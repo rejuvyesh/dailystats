@@ -1,51 +1,51 @@
 {
     "piedata": [
         {
-            "color": "#bcbd22",
+            "color": "#e377c2",
             "label": "communities (4.00%)",
             "value": 3.82262996941896
         },
         {
-            "color": "#e377c2",
+            "color": "#bcbd22",
             "label": "irc (7.37%)",
             "value": 7.043195718654434
         },
         {
-            "color": "#dbdb8d",
+            "color": "#ff9896",
             "label": "mail (28.63%)",
             "value": 27.36047400611621
         },
         {
-            "color": "#8c564b",
+            "color": "#d62728",
             "label": "read:djvu (2.11%)",
             "value": 2.0164373088685013
         },
         {
-            "color": "#d62728",
+            "color": "#2ca02c",
             "label": "read:pdf (2.95%)",
             "value": 2.8191896024464835
         },
         {
-            "color": "#17becf",
+            "color": "#8c564b",
             "label": "social (50.11%)",
             "value": 47.88799694189602
         },
         {
-            "color": "#2ca02c",
+            "color": "#c49c94",
             "label": "term (9.47%)",
             "value": 9.050076452599388
         }
     ],
     "tagdata": {
         "code:haskell": {
-            "color": "#98df8a",
+            "color": "#c7c7c7",
             "minute": [
                 1307,
                 1309
             ]
         },
         "communities": {
-            "color": "#bcbd22",
+            "color": "#e377c2",
             "minute": [
                 515,
                 516,
@@ -69,7 +69,7 @@
             ]
         },
         "irc": {
-            "color": "#e377c2",
+            "color": "#bcbd22",
             "minute": [
                 17,
                 820,
@@ -109,7 +109,7 @@
             ]
         },
         "mail": {
-            "color": "#dbdb8d",
+            "color": "#ff9896",
             "minute": [
                 0,
                 1,
@@ -250,7 +250,7 @@
             ]
         },
         "read:djvu": {
-            "color": "#8c564b",
+            "color": "#d62728",
             "minute": [
                 462,
                 469,
@@ -265,7 +265,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#d62728",
+            "color": "#2ca02c",
             "minute": [
                 790,
                 791,
@@ -284,7 +284,7 @@
             ]
         },
         "social": {
-            "color": "#17becf",
+            "color": "#8c564b",
             "minute": [
                 13,
                 14,
@@ -527,7 +527,7 @@
             ]
         },
         "term": {
-            "color": "#2ca02c",
+            "color": "#c49c94",
             "minute": [
                 11,
                 12,
