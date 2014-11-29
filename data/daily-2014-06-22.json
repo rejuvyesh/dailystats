@@ -1,17 +1,17 @@
 {
     "piedata": [
         {
-            "color": "#e377c2",
+            "color": "#ffbb78",
             "label": "communities (5.88%)",
             "value": 4.792566631347299
         },
         {
-            "color": "#bcbd22",
+            "color": "#aec7e8",
             "label": "irc (3.36%)",
             "value": 2.738609503627028
         },
         {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "label": "mail (2.52%)",
             "value": 2.053957127720271
         },
@@ -21,14 +21,14 @@
             "value": 12.331893389844325
         },
         {
-            "color": "#8c564b",
+            "color": "#98df8a",
             "label": "social (95.80%)",
             "value": 78.08297334746109
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#e377c2",
+            "color": "#ffbb78",
             "minute": [
                 1282,
                 1283,
@@ -40,7 +40,7 @@
             ]
         },
         "irc": {
-            "color": "#bcbd22",
+            "color": "#aec7e8",
             "minute": [
                 1403,
                 1405,
@@ -49,7 +49,7 @@
             ]
         },
         "mail": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 1266,
                 1267,
@@ -80,7 +80,7 @@
             ]
         },
         "social": {
-            "color": "#8c564b",
+            "color": "#98df8a",
             "minute": [
                 1262,
                 1263,
@@ -199,7 +199,7 @@
             ]
         },
         "term": {
-            "color": "#c49c94",
+            "color": "#c5b0d5",
             "minute": [
                 1261
             ]

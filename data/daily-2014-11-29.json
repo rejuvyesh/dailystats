@@ -1,54 +1,54 @@
 {
     "piedata": [
         {
-            "color": "#f7b6d2",
-            "label": "code:web (16.58%)",
-            "value": 16.58
-        },
-        {
-            "color": "#e377c2",
-            "label": "communities (1.57%)",
-            "value": 1.57
-        },
-        {
-            "color": "#bcbd22",
-            "label": "irc (1.22%)",
-            "value": 1.22
-        },
-        {
-            "color": "#ff9896",
-            "label": "mail (4.89%)",
-            "value": 4.89
+            "color": "#ff7f0e",
+            "label": "code:web (15.01%)",
+            "value": 15.01
         },
         {
             "color": "#ffbb78",
-            "label": "misc (7.85%)",
-            "value": 7.849999999999994
+            "label": "communities (1.42%)",
+            "value": 1.42
         },
         {
-            "color": "#2ca02c",
-            "label": "read:pdf (1.22%)",
-            "value": 1.22
+            "color": "#aec7e8",
+            "label": "irc (1.11%)",
+            "value": 1.11
+        },
+        {
+            "color": "#c7c7c7",
+            "label": "mail (4.58%)",
+            "value": 4.58
+        },
+        {
+            "color": "#7f7f7f",
+            "label": "misc (8.53%)",
+            "value": 8.529999999999987
+        },
+        {
+            "color": "#d62728",
+            "label": "read:pdf (1.11%)",
+            "value": 1.11
         },
         {
             "color": "#9467bd",
-            "label": "read:rss (2.62%)",
-            "value": 2.62
+            "label": "read:rss (2.37%)",
+            "value": 2.37
+        },
+        {
+            "color": "#98df8a",
+            "label": "social (54.50%)",
+            "value": 54.5
         },
         {
             "color": "#8c564b",
-            "label": "social (55.32%)",
-            "value": 55.32
-        },
-        {
-            "color": "#ff7f0e",
-            "label": "write (8.73%)",
-            "value": 8.73
+            "label": "write (11.37%)",
+            "value": 11.37
         }
     ],
     "tagdata": {
         "code:python": {
-            "color": "#dbdb8d",
+            "color": "#bcbd22",
             "minute": [
                 160,
                 872,
@@ -57,7 +57,7 @@
             ]
         },
         "code:web": {
-            "color": "#f7b6d2",
+            "color": "#ff7f0e",
             "minute": [
                 0,
                 1,
@@ -157,7 +157,7 @@
             ]
         },
         "communities": {
-            "color": "#e377c2",
+            "color": "#ffbb78",
             "minute": [
                 205,
                 648,
@@ -171,7 +171,7 @@
             ]
         },
         "irc": {
-            "color": "#bcbd22",
+            "color": "#aec7e8",
             "minute": [
                 151,
                 217,
@@ -183,7 +183,7 @@
             ]
         },
         "mail": {
-            "color": "#ff9896",
+            "color": "#c7c7c7",
             "minute": [
                 148,
                 159,
@@ -212,11 +212,12 @@
                 1029,
                 1030,
                 1031,
-                1046
+                1046,
+                1133
             ]
         },
         "read:pdf": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 667,
                 737,
@@ -248,7 +249,7 @@
             ]
         },
         "social": {
-            "color": "#8c564b",
+            "color": "#98df8a",
             "minute": [
                 15,
                 22,
@@ -566,11 +567,39 @@
                 1074,
                 1075,
                 1078,
-                1079
+                1079,
+                1083,
+                1086,
+                1087,
+                1088,
+                1089,
+                1091,
+                1093,
+                1094,
+                1095,
+                1097,
+                1102,
+                1105,
+                1106,
+                1107,
+                1109,
+                1116,
+                1117,
+                1120,
+                1121,
+                1129,
+                1132,
+                1133,
+                1134,
+                1135,
+                1136,
+                1137,
+                1138,
+                1139
             ]
         },
         "write": {
-            "color": "#ff7f0e",
+            "color": "#8c564b",
             "minute": [
                 944,
                 945,
@@ -621,7 +650,29 @@
                 1066,
                 1067,
                 1071,
-                1072
+                1072,
+                1082,
+                1084,
+                1085,
+                1090,
+                1092,
+                1096,
+                1098,
+                1099,
+                1100,
+                1101,
+                1104,
+                1108,
+                1110,
+                1111,
+                1112,
+                1113,
+                1114,
+                1115,
+                1118,
+                1119,
+                1128,
+                1130
             ]
         }
     }

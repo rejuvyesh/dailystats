@@ -1,19 +1,19 @@
 {
     "piedata": [
         {
-            "color": "#ffbb78",
+            "color": "#7f7f7f",
             "label": "misc (50.00%)",
             "value": 50.0
         },
         {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "label": "read:pdf (50.00%)",
             "value": 50.0
         }
     ],
     "tagdata": {
         "read:pdf": {
-            "color": "#2ca02c",
+            "color": "#d62728",
             "minute": [
                 634,
                 636
