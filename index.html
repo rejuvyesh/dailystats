@@ -10,6 +10,7 @@
     <script src="http://cdnjs.cloudflare.com/ajax/libs/d3/3.3.13/d3.js"></script>
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
     <script src="d3utils.js" charset="utf-8"></script>
+    <script src="common.js" charset="utf-8"></script>
     <script type="text/javascript">
      function ppDate(date) {
        return ['Jan.', 'Feb.', 'Mar.', 
@@ -56,11 +57,11 @@
        var filter_div = filters_div.append("div").attr("class", "fdiv");
        var col = d['color'];
        var minute = d['minute'];
-       console.log(minute);
+
        filter_div.append("p").attr("class", "tt").attr("style", "color:"+col).text(filter);
 
        var W = $(window).width() - 40;
-       console.log(W);
+
        var svg = div.append("svg")
                     .attr("width", W)
                     .attr("height", 70);
@@ -68,7 +69,7 @@
        var x = d3.scale.linear()
                        .domain([1, 1440])
                        .range([0, W]);
-       console.log(x);
+
        var g = svg.selectAll("e")
                   .data(minute)
                   .enter().append("g");
@@ -119,6 +120,7 @@
          loglist = data;
          console.log("loglist" + loglist.length);
          curLogId = loglist.length - 1;
+         if('gotoday' in QueryString) { curLogId = parseInt(QueryString.gotoday); }
          
          fetchAndLoadEvents(loglist[curLogId]);
          writeTotalTime(loglist[curLogId].totalTime);
