@@ -1,45 +1,45 @@
 {
     "piedata": [
         {
-            "color": "#dbdb8d",
-            "label": "code:web (33.86%)",
-            "value": 33.86
+            "color": "#c7c7c7",
+            "label": "code:web (28.21%)",
+            "value": 28.21
         },
         {
             "color": "#ffbb78",
-            "label": "communities (1.20%)",
-            "value": 1.2
+            "label": "mail (3.76%)",
+            "value": 3.76
         },
         {
-            "color": "#17becf",
-            "label": "mail (3.59%)",
-            "value": 3.59
+            "color": "#dbdb8d",
+            "label": "misc (12.23%)",
+            "value": 12.22999999999999
         },
         {
-            "color": "#bcbd22",
-            "label": "misc (3.18%)",
-            "value": 3.1799999999999926
+            "color": "#aec7e8",
+            "label": "read:pdf (1.57%)",
+            "value": 1.57
         },
         {
-            "color": "#d62728",
-            "label": "read:rss (5.98%)",
-            "value": 5.98
+            "color": "#ff9896",
+            "label": "read:rss (4.70%)",
+            "value": 4.7
         },
         {
-            "color": "#f7b6d2",
-            "label": "social (52.19%)",
-            "value": 52.19
+            "color": "#7f7f7f",
+            "label": "social (49.53%)",
+            "value": 49.53
         }
     ],
     "tagdata": {
         "code:python": {
-            "color": "#2ca02c",
+            "color": "#8c564b",
             "minute": [
                 160
             ]
         },
         "code:web": {
-            "color": "#dbdb8d",
+            "color": "#c7c7c7",
             "minute": [
                 0,
                 1,
@@ -125,11 +125,16 @@
                 155,
                 156,
                 157,
-                158
+                158,
+                797,
+                798,
+                799,
+                800,
+                804
             ]
         },
         "communities": {
-            "color": "#ffbb78",
+            "color": "#d62728",
             "minute": [
                 205,
                 648,
@@ -137,14 +142,14 @@
             ]
         },
         "irc": {
-            "color": "#e377c2",
+            "color": "#ff7f0e",
             "minute": [
                 151,
                 217
             ]
         },
         "mail": {
-            "color": "#17becf",
+            "color": "#ffbb78",
             "minute": [
                 148,
                 159,
@@ -154,17 +159,24 @@
                 608,
                 618,
                 619,
-                654
+                654,
+                734,
+                748,
+                778
             ]
         },
         "read:pdf": {
-            "color": "#c5b0d5",
+            "color": "#aec7e8",
             "minute": [
-                667
+                667,
+                737,
+                746,
+                756,
+                775
             ]
         },
         "read:rss": {
-            "color": "#d62728",
+            "color": "#ff9896",
             "minute": [
                 206,
                 596,
@@ -184,7 +196,7 @@
             ]
         },
         "social": {
-            "color": "#f7b6d2",
+            "color": "#7f7f7f",
             "minute": [
                 15,
                 22,
@@ -316,7 +328,34 @@
                 651,
                 652,
                 653,
-                666
+                666,
+                730,
+                733,
+                734,
+                737,
+                747,
+                748,
+                750,
+                752,
+                753,
+                754,
+                755,
+                775,
+                776,
+                777,
+                778,
+                779,
+                780,
+                782,
+                785,
+                786,
+                787,
+                788,
+                792,
+                793,
+                795,
+                802,
+                803
             ]
         }
     }

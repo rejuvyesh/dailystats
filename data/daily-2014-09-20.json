@@ -1,19 +1,19 @@
 {
     "piedata": [
         {
-            "color": "#bcbd22",
+            "color": "#dbdb8d",
             "label": "misc (0.00%)",
             "value": 0.0
         },
         {
-            "color": "#f7b6d2",
+            "color": "#7f7f7f",
             "label": "social (100.00%)",
             "value": 100.0
         }
     ],
     "tagdata": {
         "social": {
-            "color": "#f7b6d2",
+            "color": "#7f7f7f",
             "minute": [
                 0,
                 1,
