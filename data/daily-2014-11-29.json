@@ -1,45 +1,50 @@
 {
     "piedata": [
         {
-            "color": "#c7c7c7",
-            "label": "code:web (28.21%)",
-            "value": 28.21
+            "color": "#ff9896",
+            "label": "code:web (26.87%)",
+            "value": 26.87
         },
         {
-            "color": "#ffbb78",
-            "label": "mail (3.76%)",
-            "value": 3.76
+            "color": "#bcbd22",
+            "label": "communities (2.09%)",
+            "value": 2.09
         },
         {
-            "color": "#dbdb8d",
-            "label": "misc (12.23%)",
-            "value": 12.22999999999999
+            "color": "#c49c94",
+            "label": "mail (3.88%)",
+            "value": 3.88
         },
         {
             "color": "#aec7e8",
-            "label": "read:pdf (1.57%)",
-            "value": 1.57
+            "label": "misc (10.44%)",
+            "value": 10.439999999999998
         },
         {
-            "color": "#ff9896",
-            "label": "read:rss (4.70%)",
-            "value": 4.7
+            "color": "#ffbb78",
+            "label": "read:pdf (1.49%)",
+            "value": 1.49
         },
         {
-            "color": "#7f7f7f",
-            "label": "social (49.53%)",
-            "value": 49.53
+            "color": "#d62728",
+            "label": "read:rss (4.48%)",
+            "value": 4.48
+        },
+        {
+            "color": "#c7c7c7",
+            "label": "social (50.75%)",
+            "value": 50.75
         }
     ],
     "tagdata": {
         "code:python": {
-            "color": "#8c564b",
+            "color": "#9467bd",
             "minute": [
                 160
             ]
         },
         "code:web": {
-            "color": "#c7c7c7",
+            "color": "#ff9896",
             "minute": [
                 0,
                 1,
@@ -134,22 +139,26 @@
             ]
         },
         "communities": {
-            "color": "#d62728",
+            "color": "#bcbd22",
             "minute": [
                 205,
                 648,
-                649
+                649,
+                830,
+                832,
+                834,
+                835
             ]
         },
         "irc": {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "minute": [
                 151,
                 217
             ]
         },
         "mail": {
-            "color": "#ffbb78",
+            "color": "#c49c94",
             "minute": [
                 148,
                 159,
@@ -162,11 +171,12 @@
                 654,
                 734,
                 748,
-                778
+                778,
+                806
             ]
         },
         "read:pdf": {
-            "color": "#aec7e8",
+            "color": "#ffbb78",
             "minute": [
                 667,
                 737,
@@ -176,7 +186,7 @@
             ]
         },
         "read:rss": {
-            "color": "#ff9896",
+            "color": "#d62728",
             "minute": [
                 206,
                 596,
@@ -196,7 +206,7 @@
             ]
         },
         "social": {
-            "color": "#7f7f7f",
+            "color": "#c7c7c7",
             "minute": [
                 15,
                 22,
@@ -355,7 +365,19 @@
                 793,
                 795,
                 802,
-                803
+                803,
+                806,
+                807,
+                808,
+                827,
+                828,
+                829,
+                830,
+                831,
+                832,
+                833,
+                834,
+                835
             ]
         }
     }

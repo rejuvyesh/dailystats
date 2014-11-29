@@ -1,39 +1,39 @@
 {
     "piedata": [
         {
-            "color": "#d62728",
+            "color": "#bcbd22",
             "label": "communities (3.26%)",
             "value": 3.067080628469282
         },
         {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "label": "irc (2.80%)",
             "value": 2.634302380280365
         },
         {
-            "color": "#ffbb78",
+            "color": "#c49c94",
             "label": "mail (3.73%)",
             "value": 3.5092670994449153
         },
         {
-            "color": "#ff9896",
+            "color": "#d62728",
             "label": "read:rss (2.10%)",
             "value": 1.975726785210274
         },
         {
-            "color": "#7f7f7f",
+            "color": "#c7c7c7",
             "label": "social (86.71%)",
             "value": 81.57869978361087
         },
         {
-            "color": "#98df8a",
+            "color": "#ff7f0e",
             "label": "term (7.69%)",
             "value": 7.234923322984289
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#d62728",
+            "color": "#bcbd22",
             "minute": [
                 1240,
                 1241,
@@ -52,7 +52,7 @@
             ]
         },
         "irc": {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "minute": [
                 13,
                 14,
@@ -69,7 +69,7 @@
             ]
         },
         "mail": {
-            "color": "#ffbb78",
+            "color": "#c49c94",
             "minute": [
                 86,
                 177,
@@ -90,7 +90,7 @@
             ]
         },
         "read:rss": {
-            "color": "#ff9896",
+            "color": "#d62728",
             "minute": [
                 8,
                 518,
@@ -104,7 +104,7 @@
             ]
         },
         "social": {
-            "color": "#7f7f7f",
+            "color": "#c7c7c7",
             "minute": [
                 0,
                 1,
@@ -481,7 +481,7 @@
             ]
         },
         "term": {
-            "color": "#98df8a",
+            "color": "#ff7f0e",
             "minute": [
                 12,
                 22,

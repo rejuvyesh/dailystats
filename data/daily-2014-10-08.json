@@ -1,39 +1,39 @@
 {
     "piedata": [
         {
-            "color": "#d62728",
+            "color": "#bcbd22",
             "label": "communities (2.92%)",
             "value": 2.602959529327866
         },
         {
-            "color": "#ffbb78",
+            "color": "#c49c94",
             "label": "mail (10.95%)",
             "value": 9.761098234979496
         },
         {
-            "color": "#aec7e8",
+            "color": "#ffbb78",
             "label": "read:pdf (3.41%)",
             "value": 3.039757532536994
         },
         {
-            "color": "#ff9896",
+            "color": "#d62728",
             "label": "read:rss (1.95%)",
             "value": 1.7382777678730608
         },
         {
-            "color": "#7f7f7f",
+            "color": "#c7c7c7",
             "label": "social (66.67%)",
             "value": 59.43127117133179
         },
         {
-            "color": "#17becf",
+            "color": "#e377c2",
             "label": "tv:local (26.28%)",
             "value": 23.42663576395079
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#d62728",
+            "color": "#bcbd22",
             "minute": [
                 779,
                 780,
@@ -50,7 +50,7 @@
             ]
         },
         "mail": {
-            "color": "#ffbb78",
+            "color": "#c49c94",
             "minute": [
                 799,
                 892,
@@ -100,7 +100,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#aec7e8",
+            "color": "#ffbb78",
             "minute": [
                 801,
                 802,
@@ -119,7 +119,7 @@
             ]
         },
         "read:rss": {
-            "color": "#ff9896",
+            "color": "#d62728",
             "minute": [
                 913,
                 919,
@@ -132,7 +132,7 @@
             ]
         },
         "social": {
-            "color": "#7f7f7f",
+            "color": "#c7c7c7",
             "minute": [
                 730,
                 731,
@@ -411,7 +411,7 @@
             ]
         },
         "tv:local": {
-            "color": "#17becf",
+            "color": "#e377c2",
             "minute": [
                 803,
                 804,

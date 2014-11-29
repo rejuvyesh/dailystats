@@ -1,34 +1,34 @@
 {
     "piedata": [
         {
-            "color": "#d62728",
+            "color": "#bcbd22",
             "label": "communities (6.14%)",
             "value": 5.476763892605478
         },
         {
-            "color": "#ffbb78",
+            "color": "#c49c94",
             "label": "mail (10.18%)",
             "value": 9.080367496209082
         },
         {
-            "color": "#aec7e8",
+            "color": "#ffbb78",
             "label": "read:pdf (21.16%)",
             "value": 18.874319864418876
         },
         {
-            "color": "#7f7f7f",
+            "color": "#c7c7c7",
             "label": "social (70.27%)",
             "value": 62.67951119436268
         },
         {
-            "color": "#98df8a",
+            "color": "#ff7f0e",
             "label": "term (4.36%)",
             "value": 3.88903755240389
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#d62728",
+            "color": "#bcbd22",
             "minute": [
                 556,
                 557,
@@ -71,7 +71,7 @@
             ]
         },
         "mail": {
-            "color": "#ffbb78",
+            "color": "#c49c94",
             "minute": [
                 578,
                 579,
@@ -139,13 +139,13 @@
             ]
         },
         "read:djvu": {
-            "color": "#f7b6d2",
+            "color": "#c5b0d5",
             "minute": [
                 946
             ]
         },
         "read:pdf": {
-            "color": "#aec7e8",
+            "color": "#ffbb78",
             "minute": [
                 576,
                 577,
@@ -281,7 +281,7 @@
             ]
         },
         "social": {
-            "color": "#7f7f7f",
+            "color": "#c7c7c7",
             "minute": [
                 546,
                 547,
@@ -721,7 +721,7 @@
             ]
         },
         "term": {
-            "color": "#98df8a",
+            "color": "#ff7f0e",
             "minute": [
                 545,
                 575,
@@ -753,7 +753,7 @@
             ]
         },
         "write": {
-            "color": "#c5b0d5",
+            "color": "#7f7f7f",
             "minute": [
                 1398,
                 1403,

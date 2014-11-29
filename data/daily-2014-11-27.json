@@ -1,61 +1,61 @@
 {
     "piedata": [
         {
-            "color": "#d62728",
+            "color": "#bcbd22",
             "label": "communities (5.72%)",
             "value": 4.647006255585344
         },
         {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "label": "irc (2.12%)",
             "value": 1.7223170038183442
         },
         {
-            "color": "#ffbb78",
+            "color": "#c49c94",
             "label": "mail (25.42%)",
             "value": 20.651555772199202
         },
         {
-            "color": "#aec7e8",
+            "color": "#ffbb78",
             "label": "read:pdf (4.03%)",
             "value": 3.274027134616947
         },
         {
-            "color": "#ff9896",
+            "color": "#d62728",
             "label": "read:rss (4.87%)",
             "value": 3.9564546266959133
         },
         {
-            "color": "#7f7f7f",
+            "color": "#c7c7c7",
             "label": "social (52.33%)",
             "value": 42.51360792915753
         },
         {
-            "color": "#17becf",
+            "color": "#e377c2",
             "label": "tv:local (27.33%)",
             "value": 22.203265902997803
         },
         {
-            "color": "#c5b0d5",
+            "color": "#7f7f7f",
             "label": "write (1.27%)",
             "value": 1.0317653749289137
         }
     ],
     "tagdata": {
         "code:python": {
-            "color": "#8c564b",
+            "color": "#9467bd",
             "minute": [
                 1434
             ]
         },
         "code:web": {
-            "color": "#c7c7c7",
+            "color": "#ff9896",
             "minute": [
                 151
             ]
         },
         "communities": {
-            "color": "#d62728",
+            "color": "#bcbd22",
             "minute": [
                 0,
                 1,
@@ -87,7 +87,7 @@
             ]
         },
         "irc": {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "minute": [
                 698,
                 903,
@@ -102,7 +102,7 @@
             ]
         },
         "mail": {
-            "color": "#ffbb78",
+            "color": "#c49c94",
             "minute": [
                 31,
                 32,
@@ -227,7 +227,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#aec7e8",
+            "color": "#ffbb78",
             "minute": [
                 6,
                 7,
@@ -251,7 +251,7 @@
             ]
         },
         "read:rss": {
-            "color": "#ff9896",
+            "color": "#d62728",
             "minute": [
                 884,
                 913,
@@ -279,7 +279,7 @@
             ]
         },
         "social": {
-            "color": "#7f7f7f",
+            "color": "#c7c7c7",
             "minute": [
                 0,
                 1,
@@ -531,7 +531,7 @@
             ]
         },
         "tv:local": {
-            "color": "#17becf",
+            "color": "#e377c2",
             "minute": [
                 31,
                 32,
@@ -665,7 +665,7 @@
             ]
         },
         "write": {
-            "color": "#c5b0d5",
+            "color": "#7f7f7f",
             "minute": [
                 707,
                 889,
