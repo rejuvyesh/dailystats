@@ -6,26 +6,26 @@
             "value": 0.0
         },
         {
-            "color": "#bcbd22",
+            "color": "#7f7f7f",
             "label": "social (66.67%)",
             "value": 66.67
         },
         {
-            "color": "#98df8a",
+            "color": "#dbdb8d",
             "label": "term (33.33%)",
             "value": 33.33
         }
     ],
     "tagdata": {
         "social": {
-            "color": "#bcbd22",
+            "color": "#7f7f7f",
             "minute": [
                 1164,
                 1165
             ]
         },
         "term": {
-            "color": "#98df8a",
+            "color": "#dbdb8d",
             "minute": [
                 1163
             ]

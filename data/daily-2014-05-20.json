@@ -6,17 +6,17 @@
             "value": 35.9533073929961
         },
         {
-            "color": "#c49c94",
+            "color": "#aec7e8",
             "label": "mail (3.42%)",
             "value": 3.3268482490272366
         },
         {
-            "color": "#bcbd22",
+            "color": "#7f7f7f",
             "label": "social (55.28%)",
             "value": 53.77431906614786
         },
         {
-            "color": "#98df8a",
+            "color": "#dbdb8d",
             "label": "term (7.14%)",
             "value": 6.945525291828793
         }
@@ -147,7 +147,7 @@
             ]
         },
         "communities": {
-            "color": "#e377c2",
+            "color": "#f7b6d2",
             "minute": [
                 536,
                 538,
@@ -155,7 +155,7 @@
             ]
         },
         "mail": {
-            "color": "#c49c94",
+            "color": "#aec7e8",
             "minute": [
                 83,
                 211,
@@ -171,7 +171,7 @@
             ]
         },
         "social": {
-            "color": "#bcbd22",
+            "color": "#7f7f7f",
             "minute": [
                 5,
                 6,
@@ -354,7 +354,7 @@
             ]
         },
         "term": {
-            "color": "#98df8a",
+            "color": "#dbdb8d",
             "minute": [
                 40,
                 80,

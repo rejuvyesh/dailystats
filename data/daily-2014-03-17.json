@@ -1,7 +1,7 @@
 {
     "piedata": [
         {
-            "color": "#c49c94",
+            "color": "#aec7e8",
             "label": "mail (90.15%)",
             "value": 90.15
         },
@@ -11,14 +11,14 @@
             "value": 8.309999999999988
         },
         {
-            "color": "#98df8a",
+            "color": "#dbdb8d",
             "label": "term (1.54%)",
             "value": 1.54
         }
     ],
     "tagdata": {
         "mail": {
-            "color": "#c49c94",
+            "color": "#aec7e8",
             "minute": [
                 1005,
                 1006,
@@ -316,7 +316,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#2ca02c",
+            "color": "#17becf",
             "minute": [
                 966,
                 1021,
@@ -324,7 +324,7 @@
             ]
         },
         "term": {
-            "color": "#98df8a",
+            "color": "#dbdb8d",
             "minute": [
                 965,
                 967,

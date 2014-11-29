@@ -1,29 +1,29 @@
 {
     "piedata": [
         {
-            "color": "#d62728",
+            "color": "#9467bd",
             "label": "code:haskell (24.80%)",
             "value": 24.356707915930077
         },
         {
-            "color": "#c49c94",
+            "color": "#aec7e8",
             "label": "mail (3.39%)",
             "value": 3.3294048320565706
         },
         {
-            "color": "#bcbd22",
+            "color": "#7f7f7f",
             "label": "social (56.14%)",
             "value": 55.13651541936751
         },
         {
-            "color": "#98df8a",
+            "color": "#dbdb8d",
             "label": "term (17.49%)",
             "value": 17.177371832645846
         }
     ],
     "tagdata": {
         "code:haskell": {
-            "color": "#d62728",
+            "color": "#9467bd",
             "minute": [
                 57,
                 58,
@@ -123,14 +123,14 @@
             ]
         },
         "irc": {
-            "color": "#dbdb8d",
+            "color": "#8c564b",
             "minute": [
                 24,
                 241
             ]
         },
         "mail": {
-            "color": "#c49c94",
+            "color": "#aec7e8",
             "minute": [
                 192,
                 203,
@@ -148,13 +148,13 @@
             ]
         },
         "read:pdf": {
-            "color": "#2ca02c",
+            "color": "#17becf",
             "minute": [
                 143
             ]
         },
         "social": {
-            "color": "#bcbd22",
+            "color": "#7f7f7f",
             "minute": [
                 0,
                 1,
@@ -374,7 +374,7 @@
             ]
         },
         "term": {
-            "color": "#98df8a",
+            "color": "#dbdb8d",
             "minute": [
                 22,
                 23,

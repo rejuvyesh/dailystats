@@ -6,19 +6,19 @@
             "value": 11.11
         },
         {
-            "color": "#2ca02c",
+            "color": "#17becf",
             "label": "read:pdf (50.00%)",
             "value": 50.0
         },
         {
-            "color": "#98df8a",
+            "color": "#dbdb8d",
             "label": "term (38.89%)",
             "value": 38.89
         }
     ],
     "tagdata": {
         "read:pdf": {
-            "color": "#2ca02c",
+            "color": "#17becf",
             "minute": [
                 1274,
                 1275,
@@ -32,7 +32,7 @@
             ]
         },
         "term": {
-            "color": "#98df8a",
+            "color": "#dbdb8d",
             "minute": [
                 577,
                 580,
