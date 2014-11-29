@@ -1,29 +1,29 @@
 {
     "piedata": [
         {
-            "color": "#e377c2",
+            "color": "#ffbb78",
             "label": "code:python (36.96%)",
             "value": 35.9533073929961
         },
         {
-            "color": "#dbdb8d",
+            "color": "#c49c94",
             "label": "mail (3.42%)",
             "value": 3.3268482490272366
         },
         {
-            "color": "#ff7f0e",
+            "color": "#bcbd22",
             "label": "social (55.28%)",
             "value": 53.77431906614786
         },
         {
-            "color": "#c7c7c7",
+            "color": "#98df8a",
             "label": "term (7.14%)",
             "value": 6.945525291828793
         }
     ],
     "tagdata": {
         "code:python": {
-            "color": "#e377c2",
+            "color": "#ffbb78",
             "minute": [
                 3,
                 4,
@@ -147,7 +147,7 @@
             ]
         },
         "communities": {
-            "color": "#bcbd22",
+            "color": "#e377c2",
             "minute": [
                 536,
                 538,
@@ -155,7 +155,7 @@
             ]
         },
         "mail": {
-            "color": "#dbdb8d",
+            "color": "#c49c94",
             "minute": [
                 83,
                 211,
@@ -171,7 +171,7 @@
             ]
         },
         "social": {
-            "color": "#ff7f0e",
+            "color": "#bcbd22",
             "minute": [
                 5,
                 6,
@@ -354,7 +354,7 @@
             ]
         },
         "term": {
-            "color": "#c7c7c7",
+            "color": "#98df8a",
             "minute": [
                 40,
                 80,
