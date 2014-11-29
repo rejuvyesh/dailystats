@@ -1,34 +1,34 @@
 {
     "piedata": [
         {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "label": "communities (8.07%)",
             "value": 7.236370157819226
         },
         {
-            "color": "#8c564b",
+            "color": "#e377c2",
             "label": "irc (2.88%)",
             "value": 2.582496413199426
         },
         {
-            "color": "#aec7e8",
+            "color": "#17becf",
             "label": "mail (2.88%)",
             "value": 2.582496413199426
         },
         {
-            "color": "#17becf",
+            "color": "#c5b0d5",
             "label": "read:pdf (3.17%)",
             "value": 2.842539454806313
         },
         {
-            "color": "#7f7f7f",
+            "color": "#f7b6d2",
             "label": "social (94.52%)",
             "value": 84.7560975609756
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "minute": [
                 30,
                 1227,
@@ -61,7 +61,7 @@
             ]
         },
         "irc": {
-            "color": "#8c564b",
+            "color": "#e377c2",
             "minute": [
                 32,
                 33,
@@ -76,7 +76,7 @@
             ]
         },
         "mail": {
-            "color": "#aec7e8",
+            "color": "#17becf",
             "minute": [
                 193,
                 194,
@@ -91,7 +91,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#c5b0d5",
             "minute": [
                 41,
                 42,
@@ -107,7 +107,7 @@
             ]
         },
         "social": {
-            "color": "#7f7f7f",
+            "color": "#f7b6d2",
             "minute": [
                 18,
                 19,
@@ -440,7 +440,7 @@
             ]
         },
         "term": {
-            "color": "#dbdb8d",
+            "color": "#1f77b4",
             "minute": [
                 1162,
                 1365

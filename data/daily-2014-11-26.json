@@ -1,64 +1,64 @@
 {
     "piedata": [
         {
-            "color": "#ffbb78",
+            "color": "#2ca02c",
             "label": "code:python (6.34%)",
             "value": 6.34
         },
         {
-            "color": "#c49c94",
+            "color": "#dbdb8d",
             "label": "code:web (13.04%)",
             "value": 13.04
         },
         {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "label": "communities (2.36%)",
             "value": 2.36
         },
         {
-            "color": "#8c564b",
+            "color": "#e377c2",
             "label": "irc (1.61%)",
             "value": 1.61
         },
         {
-            "color": "#aec7e8",
+            "color": "#17becf",
             "label": "mail (9.32%)",
             "value": 9.32
         },
         {
-            "color": "#c7c7c7",
+            "color": "#bcbd22",
             "label": "misc (0.63%)",
             "value": 0.6300000000000097
         },
         {
-            "color": "#17becf",
+            "color": "#c5b0d5",
             "label": "read:pdf (4.47%)",
             "value": 4.47
         },
         {
-            "color": "#e377c2",
+            "color": "#d62728",
             "label": "read:rss (2.11%)",
             "value": 2.11
         },
         {
-            "color": "#7f7f7f",
+            "color": "#f7b6d2",
             "label": "social (50.56%)",
             "value": 50.56
         },
         {
-            "color": "#ff9896",
+            "color": "#7f7f7f",
             "label": "tv:local (5.71%)",
             "value": 5.71
         },
         {
-            "color": "#bcbd22",
+            "color": "#c49c94",
             "label": "write (3.85%)",
             "value": 3.85
         }
     ],
     "tagdata": {
         "code:python": {
-            "color": "#ffbb78",
+            "color": "#2ca02c",
             "minute": [
                 33,
                 36,
@@ -114,7 +114,7 @@
             ]
         },
         "code:web": {
-            "color": "#c49c94",
+            "color": "#dbdb8d",
             "minute": [
                 44,
                 59,
@@ -224,7 +224,7 @@
             ]
         },
         "communities": {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "minute": [
                 340,
                 1012,
@@ -248,7 +248,7 @@
             ]
         },
         "irc": {
-            "color": "#8c564b",
+            "color": "#e377c2",
             "minute": [
                 164,
                 166,
@@ -266,7 +266,7 @@
             ]
         },
         "mail": {
-            "color": "#aec7e8",
+            "color": "#17becf",
             "minute": [
                 368,
                 369,
@@ -346,19 +346,19 @@
             ]
         },
         "read:epub": {
-            "color": "#c5b0d5",
+            "color": "#aec7e8",
             "minute": [
                 1094
             ]
         },
         "read:mobi": {
-            "color": "#1f77b4",
+            "color": "#c7c7c7",
             "minute": [
                 868
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#c5b0d5",
             "minute": [
                 157,
                 342,
@@ -399,7 +399,7 @@
             ]
         },
         "read:rss": {
-            "color": "#e377c2",
+            "color": "#d62728",
             "minute": [
                 6,
                 7,
@@ -421,7 +421,7 @@
             ]
         },
         "social": {
-            "color": "#7f7f7f",
+            "color": "#f7b6d2",
             "minute": [
                 0,
                 1,
@@ -833,7 +833,7 @@
             ]
         },
         "tv:local": {
-            "color": "#ff9896",
+            "color": "#7f7f7f",
             "minute": [
                 368,
                 369,
@@ -884,7 +884,7 @@
             ]
         },
         "write": {
-            "color": "#bcbd22",
+            "color": "#c49c94",
             "minute": [
                 312,
                 313,

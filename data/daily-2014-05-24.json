@@ -1,34 +1,34 @@
 {
     "piedata": [
         {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "label": "communities (4.60%)",
             "value": 4.36225699383594
         },
         {
-            "color": "#aec7e8",
+            "color": "#17becf",
             "label": "mail (1.26%)",
             "value": 1.1948790896159316
         },
         {
-            "color": "#17becf",
+            "color": "#c5b0d5",
             "label": "read:pdf (1.26%)",
             "value": 1.1948790896159316
         },
         {
-            "color": "#7f7f7f",
+            "color": "#f7b6d2",
             "label": "social (87.87%)",
             "value": 83.32859174964437
         },
         {
-            "color": "#dbdb8d",
+            "color": "#1f77b4",
             "label": "term (10.46%)",
             "value": 9.919393077287813
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "minute": [
                 59,
                 90,
@@ -44,7 +44,7 @@
             ]
         },
         "mail": {
-            "color": "#aec7e8",
+            "color": "#17becf",
             "minute": [
                 236,
                 500,
@@ -52,7 +52,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#c5b0d5",
             "minute": [
                 193,
                 276,
@@ -60,7 +60,7 @@
             ]
         },
         "social": {
-            "color": "#7f7f7f",
+            "color": "#f7b6d2",
             "minute": [
                 12,
                 13,
@@ -275,7 +275,7 @@
             ]
         },
         "term": {
-            "color": "#dbdb8d",
+            "color": "#1f77b4",
             "minute": [
                 80,
                 104,
@@ -305,7 +305,7 @@
             ]
         },
         "tv:web": {
-            "color": "#d62728",
+            "color": "#8c564b",
             "minute": [
                 630,
                 639

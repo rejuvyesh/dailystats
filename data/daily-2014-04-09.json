@@ -1,59 +1,59 @@
 {
     "piedata": [
         {
-            "color": "#9467bd",
+            "color": "#ff9896",
             "label": "code:haskell (1.95%)",
             "value": 1.95
         },
         {
-            "color": "#2ca02c",
+            "color": "#98df8a",
             "label": "code:ruby (4.02%)",
             "value": 4.02
         },
         {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "label": "communities (1.22%)",
             "value": 1.22
         },
         {
-            "color": "#8c564b",
+            "color": "#e377c2",
             "label": "irc (6.95%)",
             "value": 6.95
         },
         {
-            "color": "#aec7e8",
+            "color": "#17becf",
             "label": "mail (2.56%)",
             "value": 2.56
         },
         {
-            "color": "#c7c7c7",
+            "color": "#bcbd22",
             "label": "misc (18.79%)",
             "value": 18.790000000000006
         },
         {
-            "color": "#98df8a",
+            "color": "#ff7f0e",
             "label": "read:djvu (15.00%)",
             "value": 15.0
         },
         {
-            "color": "#17becf",
+            "color": "#c5b0d5",
             "label": "read:pdf (3.17%)",
             "value": 3.17
         },
         {
-            "color": "#7f7f7f",
+            "color": "#f7b6d2",
             "label": "social (33.90%)",
             "value": 33.9
         },
         {
-            "color": "#dbdb8d",
+            "color": "#1f77b4",
             "label": "term (12.44%)",
             "value": 12.44
         }
     ],
     "tagdata": {
         "code:haskell": {
-            "color": "#9467bd",
+            "color": "#ff9896",
             "minute": [
                 715,
                 985,
@@ -74,7 +74,7 @@
             ]
         },
         "code:ruby": {
-            "color": "#2ca02c",
+            "color": "#98df8a",
             "minute": [
                 98,
                 99,
@@ -112,7 +112,7 @@
             ]
         },
         "communities": {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "minute": [
                 1367,
                 1369,
@@ -127,7 +127,7 @@
             ]
         },
         "irc": {
-            "color": "#8c564b",
+            "color": "#e377c2",
             "minute": [
                 27,
                 71,
@@ -189,7 +189,7 @@
             ]
         },
         "mail": {
-            "color": "#aec7e8",
+            "color": "#17becf",
             "minute": [
                 482,
                 511,
@@ -215,7 +215,7 @@
             ]
         },
         "read:djvu": {
-            "color": "#98df8a",
+            "color": "#ff7f0e",
             "minute": [
                 35,
                 36,
@@ -343,7 +343,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#c5b0d5",
             "minute": [
                 26,
                 32,
@@ -374,7 +374,7 @@
             ]
         },
         "social": {
-            "color": "#7f7f7f",
+            "color": "#f7b6d2",
             "minute": [
                 23,
                 24,
@@ -657,7 +657,7 @@
             ]
         },
         "term": {
-            "color": "#dbdb8d",
+            "color": "#1f77b4",
             "minute": [
                 7,
                 8,

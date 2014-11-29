@@ -1,34 +1,34 @@
 {
     "piedata": [
         {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "label": "communities (1.18%)",
             "value": 1.173078834874242
         },
         {
-            "color": "#aec7e8",
+            "color": "#17becf",
             "label": "mail (2.65%)",
             "value": 2.634456705437916
         },
         {
-            "color": "#17becf",
+            "color": "#c5b0d5",
             "label": "read:pdf (18.82%)",
             "value": 18.709613281638333
         },
         {
-            "color": "#7f7f7f",
+            "color": "#f7b6d2",
             "label": "social (75.88%)",
             "value": 75.43493389004871
         },
         {
-            "color": "#dbdb8d",
+            "color": "#1f77b4",
             "label": "term (2.06%)",
             "value": 2.047917288000795
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "minute": [
                 292,
                 295,
@@ -37,7 +37,7 @@
             ]
         },
         "irc": {
-            "color": "#8c564b",
+            "color": "#e377c2",
             "minute": [
                 84,
                 85,
@@ -45,7 +45,7 @@
             ]
         },
         "mail": {
-            "color": "#aec7e8",
+            "color": "#17becf",
             "minute": [
                 285,
                 287,
@@ -59,7 +59,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#c5b0d5",
             "minute": [
                 19,
                 45,
@@ -128,7 +128,7 @@
             ]
         },
         "social": {
-            "color": "#7f7f7f",
+            "color": "#f7b6d2",
             "minute": [
                 0,
                 3,
@@ -391,7 +391,7 @@
             ]
         },
         "term": {
-            "color": "#dbdb8d",
+            "color": "#1f77b4",
             "minute": [
                 429,
                 430,
