@@ -1,49 +1,49 @@
 {
     "piedata": [
         {
-            "color": "#98df8a",
+            "color": "#ff7f0e",
             "label": "code:matlab (1.24%)",
             "value": 1.24
         },
         {
-            "color": "#bcbd22",
+            "color": "#c7c7c7",
             "label": "communities (4.73%)",
             "value": 4.73
         },
         {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "label": "irc (1.24%)",
             "value": 1.24
         },
         {
-            "color": "#c49c94",
+            "color": "#98df8a",
             "label": "mail (6.47%)",
             "value": 6.47
         },
         {
-            "color": "#aec7e8",
+            "color": "#2ca02c",
             "label": "misc (8.21%)",
             "value": 8.210000000000008
         },
         {
-            "color": "#d62728",
+            "color": "#9467bd",
             "label": "read:rss (1.24%)",
             "value": 1.24
         },
         {
-            "color": "#c7c7c7",
+            "color": "#ff9896",
             "label": "social (72.14%)",
             "value": 72.14
         },
         {
-            "color": "#e377c2",
+            "color": "#c49c94",
             "label": "tv:local (4.73%)",
             "value": 4.73
         }
     ],
     "tagdata": {
         "code:matlab": {
-            "color": "#98df8a",
+            "color": "#ff7f0e",
             "minute": [
                 798,
                 799,
@@ -53,7 +53,7 @@
             ]
         },
         "communities": {
-            "color": "#bcbd22",
+            "color": "#c7c7c7",
             "minute": [
                 467,
                 468,
@@ -77,7 +77,7 @@
             ]
         },
         "irc": {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "minute": [
                 736,
                 737,
@@ -87,7 +87,7 @@
             ]
         },
         "mail": {
-            "color": "#c49c94",
+            "color": "#98df8a",
             "minute": [
                 860,
                 861,
@@ -118,19 +118,19 @@
             ]
         },
         "read:epub": {
-            "color": "#1f77b4",
+            "color": "#dbdb8d",
             "minute": [
                 705
             ]
         },
         "read:pdf": {
-            "color": "#ffbb78",
+            "color": "#8c564b",
             "minute": [
                 883
             ]
         },
         "read:rss": {
-            "color": "#d62728",
+            "color": "#9467bd",
             "minute": [
                 1410,
                 1411,
@@ -140,7 +140,7 @@
             ]
         },
         "social": {
-            "color": "#c7c7c7",
+            "color": "#ff9896",
             "minute": [
                 449,
                 450,
@@ -435,7 +435,7 @@
             ]
         },
         "tv:local": {
-            "color": "#e377c2",
+            "color": "#c49c94",
             "minute": [
                 866,
                 867,
@@ -459,7 +459,7 @@
             ]
         },
         "write": {
-            "color": "#7f7f7f",
+            "color": "#17becf",
             "minute": [
                 617,
                 618

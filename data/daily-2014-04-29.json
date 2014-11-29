@@ -1,24 +1,24 @@
 {
     "piedata": [
         {
-            "color": "#aec7e8",
+            "color": "#2ca02c",
             "label": "misc (28.03%)",
             "value": 28.03
         },
         {
-            "color": "#ffbb78",
+            "color": "#8c564b",
             "label": "read:pdf (64.49%)",
             "value": 64.49
         },
         {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "label": "term (7.48%)",
             "value": 7.48
         }
     ],
     "tagdata": {
         "read:pdf": {
-            "color": "#ffbb78",
+            "color": "#8c564b",
             "minute": [
                 566,
                 567,
@@ -92,7 +92,7 @@
             ]
         },
         "term": {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "minute": [
                 565,
                 575,

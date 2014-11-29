@@ -1,34 +1,34 @@
 {
     "piedata": [
         {
-            "color": "#bcbd22",
+            "color": "#c7c7c7",
             "label": "communities (5.62%)",
             "value": 4.9991104785625335
         },
         {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "label": "irc (2.07%)",
             "value": 1.8413093755559509
         },
         {
-            "color": "#c49c94",
+            "color": "#98df8a",
             "label": "mail (7.69%)",
             "value": 6.840419854118486
         },
         {
-            "color": "#ffbb78",
+            "color": "#8c564b",
             "label": "read:pdf (2.07%)",
             "value": 1.8413093755559509
         },
         {
-            "color": "#c7c7c7",
+            "color": "#ff9896",
             "label": "social (94.97%)",
             "value": 84.47785091620709
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#bcbd22",
+            "color": "#c7c7c7",
             "minute": [
                 155,
                 156,
@@ -52,7 +52,7 @@
             ]
         },
         "irc": {
-            "color": "#f7b6d2",
+            "color": "#ffbb78",
             "minute": [
                 100,
                 117,
@@ -64,7 +64,7 @@
             ]
         },
         "mail": {
-            "color": "#c49c94",
+            "color": "#98df8a",
             "minute": [
                 3,
                 5,
@@ -95,7 +95,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#ffbb78",
+            "color": "#8c564b",
             "minute": [
                 109,
                 120,
@@ -107,7 +107,7 @@
             ]
         },
         "social": {
-            "color": "#c7c7c7",
+            "color": "#ff9896",
             "minute": [
                 3,
                 4,
@@ -433,7 +433,7 @@
             ]
         },
         "term": {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "minute": [
                 1135
             ]
