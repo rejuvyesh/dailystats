@@ -1,44 +1,44 @@
 {
     "piedata": [
         {
-            "color": "#f7b6d2",
+            "color": "#8c564b",
             "label": "code:haskell (2.22%)",
             "value": 2.1760439129582436
         },
         {
-            "color": "#2ca02c",
+            "color": "#dbdb8d",
             "label": "communities (6.26%)",
             "value": 6.13605175455793
         },
         {
-            "color": "#e377c2",
+            "color": "#c49c94",
             "label": "irc (5.25%)",
             "value": 5.146049794158008
         },
         {
-            "color": "#9467bd",
+            "color": "#c5b0d5",
             "label": "mail (2.22%)",
             "value": 2.1760439129582436
         },
         {
-            "color": "#c7c7c7",
+            "color": "#17becf",
             "label": "read:pdf (15.56%)",
             "value": 15.251911389923546
         },
         {
-            "color": "#dbdb8d",
+            "color": "#aec7e8",
             "label": "social (54.55%)",
             "value": 53.46990786120368
         },
         {
-            "color": "#1f77b4",
+            "color": "#ff9896",
             "label": "term (15.96%)",
             "value": 15.643991374240345
         }
     ],
     "tagdata": {
         "code:haskell": {
-            "color": "#f7b6d2",
+            "color": "#8c564b",
             "minute": [
                 525,
                 574,
@@ -54,7 +54,7 @@
             ]
         },
         "communities": {
-            "color": "#2ca02c",
+            "color": "#dbdb8d",
             "minute": [
                 1028,
                 1029,
@@ -90,7 +90,7 @@
             ]
         },
         "irc": {
-            "color": "#e377c2",
+            "color": "#c49c94",
             "minute": [
                 581,
                 582,
@@ -121,7 +121,7 @@
             ]
         },
         "mail": {
-            "color": "#9467bd",
+            "color": "#c5b0d5",
             "minute": [
                 544,
                 1076,
@@ -137,7 +137,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#c7c7c7",
+            "color": "#17becf",
             "minute": [
                 629,
                 647,
@@ -219,7 +219,7 @@
             ]
         },
         "social": {
-            "color": "#dbdb8d",
+            "color": "#aec7e8",
             "minute": [
                 513,
                 514,
@@ -494,7 +494,7 @@
             ]
         },
         "term": {
-            "color": "#1f77b4",
+            "color": "#ff9896",
             "minute": [
                 508,
                 509,
@@ -578,7 +578,7 @@
             ]
         },
         "write": {
-            "color": "#17becf",
+            "color": "#c7c7c7",
             "minute": [
                 992
             ]
