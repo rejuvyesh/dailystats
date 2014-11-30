@@ -2,28 +2,33 @@
     "piedata": [
         {
             "color": "#1f77b4",
-            "label": "code:haskell (3.74%)",
-            "value": 3.74
+            "label": "code:haskell (2.88%)",
+            "value": 2.88
         },
         {
             "color": "#98df8a",
-            "label": "communities (14.95%)",
-            "value": 14.95
+            "label": "communities (11.51%)",
+            "value": 11.51
         },
         {
             "color": "#9467bd",
-            "label": "misc (61.68%)",
-            "value": 61.68
+            "label": "misc (69.06%)",
+            "value": 69.06
         },
         {
             "color": "#f7b6d2",
-            "label": "read:rss (5.61%)",
-            "value": 5.61
+            "label": "read:rss (4.32%)",
+            "value": 4.32
         },
         {
             "color": "#7f7f7f",
-            "label": "social (14.02%)",
-            "value": 14.02
+            "label": "social (10.79%)",
+            "value": 10.79
+        },
+        {
+            "color": "#17becf",
+            "label": "write (1.44%)",
+            "value": 1.44
         }
     ],
     "tagdata": {
@@ -103,7 +108,8 @@
         "write": {
             "color": "#17becf",
             "minute": [
-                666
+                666,
+                683
             ]
         }
     }
