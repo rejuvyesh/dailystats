@@ -7,17 +7,12 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (3.57%)",
-            "value": 3.569999999999993
+            "label": "misc (5.36%)",
+            "value": 5.359999999999999
         },
         {
             "color": "#e377c2",
             "label": "read:pdf (1.79%)",
-            "value": 1.79
-        },
-        {
-            "color": "#7f7f7f",
-            "label": "social (1.79%)",
             "value": 1.79
         },
         {
@@ -115,13 +110,6 @@
             "minute": [
                 1356,
                 1357
-            ]
-        },
-        "social": {
-            "color": "#7f7f7f",
-            "minute": [
-                996,
-                998
             ]
         },
         "term": {
