@@ -2,38 +2,38 @@
     "piedata": [
         {
             "color": "#98df8a",
-            "label": "communities (3.95%)",
-            "value": 3.95
+            "label": "communities (3.85%)",
+            "value": 3.85
         },
         {
             "color": "#ff9896",
-            "label": "mail (1.73%)",
-            "value": 1.73
+            "label": "mail (2.16%)",
+            "value": 2.16
         },
         {
             "color": "#9467bd",
-            "label": "misc (60.74%)",
-            "value": 60.74
+            "label": "misc (60.58%)",
+            "value": 60.58
         },
         {
             "color": "#e377c2",
-            "label": "read:pdf (6.17%)",
-            "value": 6.17
+            "label": "read:pdf (6.25%)",
+            "value": 6.25
         },
         {
             "color": "#f7b6d2",
-            "label": "read:rss (1.48%)",
-            "value": 1.48
+            "label": "read:rss (1.44%)",
+            "value": 1.44
         },
         {
             "color": "#7f7f7f",
-            "label": "social (6.42%)",
-            "value": 6.42
+            "label": "social (6.25%)",
+            "value": 6.25
         },
         {
             "color": "#17becf",
-            "label": "write (19.51%)",
-            "value": 19.51
+            "label": "write (19.47%)",
+            "value": 19.47
         }
     ],
     "tagdata": {
@@ -90,7 +90,9 @@
                 771,
                 772,
                 775,
-                983
+                983,
+                1030,
+                1031
             ]
         },
         "read:pdf": {
@@ -120,7 +122,8 @@
                 1003,
                 1015,
                 1016,
-                1020
+                1020,
+                1025
             ]
         },
         "read:rss": {
@@ -246,7 +249,9 @@
                 1014,
                 1017,
                 1018,
-                1019
+                1019,
+                1021,
+                1024
             ]
         }
     }
