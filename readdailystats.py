@@ -93,7 +93,7 @@ def dailyUsage(dailyfile, minutefile):
     "#bcbd22", "#dbdb8d",
     "#17becf", "#9edae5"
   ]
-  for i, t in enumerate(tags):
+  for i, t in enumerate(sorted(tags)):
     col[t] = category20[i % len(category20)]
 
   # Load data for every minute
