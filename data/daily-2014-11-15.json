@@ -1,27 +1,27 @@
 {
     "piedata": [
         {
-            "color": "#ff9896",
+            "color": "#ff7f0e",
             "label": "code:python (8.88%)",
             "value": 8.88
         },
         {
-            "color": "#7f7f7f",
+            "color": "#ff9896",
             "label": "mail (1.16%)",
             "value": 1.16
         },
         {
-            "color": "#dbdb8d",
+            "color": "#9467bd",
             "label": "misc (34.75%)",
             "value": 34.75
         },
         {
-            "color": "#c7c7c7",
+            "color": "#e377c2",
             "label": "read:pdf (4.25%)",
             "value": 4.25
         },
         {
-            "color": "#ffbb78",
+            "color": "#7f7f7f",
             "label": "social (34.36%)",
             "value": 34.36
         },
@@ -33,19 +33,19 @@
     ],
     "tagdata": {
         "code:haskell": {
-            "color": "#2ca02c",
+            "color": "#1f77b4",
             "minute": [
                 1114
             ]
         },
         "code:matlab": {
-            "color": "#17becf",
+            "color": "#aec7e8",
             "minute": [
                 1407
             ]
         },
         "code:python": {
-            "color": "#ff9896",
+            "color": "#ff7f0e",
             "minute": [
                 1134,
                 1135,
@@ -73,14 +73,14 @@
             ]
         },
         "communities": {
-            "color": "#9467bd",
+            "color": "#98df8a",
             "minute": [
                 1360,
                 1364
             ]
         },
         "mail": {
-            "color": "#7f7f7f",
+            "color": "#ff9896",
             "minute": [
                 1121,
                 1122,
@@ -88,7 +88,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#c7c7c7",
+            "color": "#e377c2",
             "minute": [
                 1103,
                 1105,
@@ -104,7 +104,7 @@
             ]
         },
         "social": {
-            "color": "#ffbb78",
+            "color": "#7f7f7f",
             "minute": [
                 1107,
                 1110,
