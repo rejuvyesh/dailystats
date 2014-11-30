@@ -6,34 +6,34 @@
             "value": 3.5232106528574065
         },
         {
-            "color": "#c49c94",
+            "color": "#bcbd22",
             "label": "irc (6.76%)",
             "value": 6.251155909006842
         },
         {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "label": "mail (10.05%)",
             "value": 9.29350841501757
         },
         {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "label": "read:pdf (31.37%)",
             "value": 29.008692435731454
         },
         {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "label": "social (42.11%)",
             "value": 38.94026262252635
         },
         {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "label": "term (14.04%)",
             "value": 12.983169964860364
         }
     ],
     "tagdata": {
         "code:haskell": {
-            "color": "#8c564b",
+            "color": "#9edae5",
             "minute": [
                 1219
             ]
@@ -66,7 +66,7 @@
             ]
         },
         "irc": {
-            "color": "#c49c94",
+            "color": "#bcbd22",
             "minute": [
                 589,
                 590,
@@ -110,7 +110,7 @@
             ]
         },
         "mail": {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "minute": [
                 588,
                 591,
@@ -173,7 +173,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "minute": [
                 311,
                 313,
@@ -359,7 +359,7 @@
             ]
         },
         "social": {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "minute": [
                 312,
                 586,
@@ -607,7 +607,7 @@
             ]
         },
         "term": {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "minute": [
                 297,
                 304,

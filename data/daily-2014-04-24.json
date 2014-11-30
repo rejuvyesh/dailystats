@@ -6,27 +6,27 @@
             "value": 2.6414010910134937
         },
         {
-            "color": "#c49c94",
+            "color": "#bcbd22",
             "label": "irc (11.23%)",
             "value": 10.747439946406354
         },
         {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "label": "mail (3.97%)",
             "value": 3.7994066417839027
         },
         {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "label": "read:pdf (19.86%)",
             "value": 19.006603502727533
         },
         {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "label": "social (63.04%)",
             "value": 60.33113216575748
         },
         {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "label": "term (3.63%)",
             "value": 3.4740166523112257
         }
@@ -54,7 +54,7 @@
             ]
         },
         "irc": {
-            "color": "#c49c94",
+            "color": "#bcbd22",
             "minute": [
                 0,
                 1,
@@ -124,7 +124,7 @@
             ]
         },
         "mail": {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "minute": [
                 10,
                 569,
@@ -152,13 +152,13 @@
             ]
         },
         "read:mobi": {
-            "color": "#2ca02c",
+            "color": "#9467bd",
             "minute": [
                 1228
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "minute": [
                 7,
                 12,
@@ -278,7 +278,7 @@
             ]
         },
         "social": {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "minute": [
                 478,
                 479,
@@ -648,7 +648,7 @@
             ]
         },
         "term": {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "minute": [
                 476,
                 496,

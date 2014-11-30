@@ -1,54 +1,54 @@
 {
     "piedata": [
         {
-            "color": "#bcbd22",
-            "label": "code:web (12.98%)",
-            "value": 12.98
+            "color": "#17becf",
+            "label": "code:web (12.93%)",
+            "value": 12.93
         },
         {
             "color": "#dbdb8d",
-            "label": "communities (2.19%)",
-            "value": 2.19
+            "label": "communities (2.18%)",
+            "value": 2.18
         },
         {
-            "color": "#c49c94",
-            "label": "irc (1.37%)",
-            "value": 1.37
+            "color": "#bcbd22",
+            "label": "irc (1.36%)",
+            "value": 1.36
         },
         {
-            "color": "#c5b0d5",
-            "label": "mail (4.10%)",
-            "value": 4.1
+            "color": "#ff7f0e",
+            "label": "mail (4.08%)",
+            "value": 4.08
+        },
+        {
+            "color": "#d62728",
+            "label": "misc (8.15%)",
+            "value": 8.150000000000006
+        },
+        {
+            "color": "#1f77b4",
+            "label": "read:pdf (3.27%)",
+            "value": 3.27
         },
         {
             "color": "#7f7f7f",
-            "label": "misc (8.18%)",
-            "value": 8.180000000000007
-        },
-        {
-            "color": "#17becf",
-            "label": "read:pdf (2.87%)",
-            "value": 2.87
+            "label": "read:rss (3.13%)",
+            "value": 3.13
         },
         {
             "color": "#98df8a",
-            "label": "read:rss (3.14%)",
-            "value": 3.14
+            "label": "social (54.29%)",
+            "value": 54.29
         },
         {
-            "color": "#aec7e8",
-            "label": "social (54.51%)",
-            "value": 54.51
-        },
-        {
-            "color": "#c7c7c7",
-            "label": "write (10.66%)",
-            "value": 10.66
+            "color": "#ff9896",
+            "label": "write (10.61%)",
+            "value": 10.61
         }
     ],
     "tagdata": {
         "code:python": {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "minute": [
                 160,
                 872,
@@ -57,7 +57,7 @@
             ]
         },
         "code:web": {
-            "color": "#bcbd22",
+            "color": "#17becf",
             "minute": [
                 0,
                 1,
@@ -178,7 +178,7 @@
             ]
         },
         "irc": {
-            "color": "#c49c94",
+            "color": "#bcbd22",
             "minute": [
                 151,
                 217,
@@ -193,7 +193,7 @@
             ]
         },
         "mail": {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "minute": [
                 148,
                 159,
@@ -228,7 +228,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "minute": [
                 667,
                 737,
@@ -250,11 +250,14 @@
                 1228,
                 1243,
                 1244,
-                1259
+                1259,
+                1260,
+                1261,
+                1262
             ]
         },
         "read:rss": {
-            "color": "#98df8a",
+            "color": "#7f7f7f",
             "minute": [
                 206,
                 596,
@@ -282,7 +285,7 @@
             ]
         },
         "social": {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "minute": [
                 15,
                 22,
@@ -686,7 +689,7 @@
             ]
         },
         "tv:local": {
-            "color": "#f7b6d2",
+            "color": "#8c564b",
             "minute": [
                 1230,
                 1238,
@@ -697,7 +700,7 @@
             ]
         },
         "write": {
-            "color": "#c7c7c7",
+            "color": "#ff9896",
             "minute": [
                 944,
                 945,

@@ -6,22 +6,22 @@
             "value": 6.062052505966587
         },
         {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "label": "mail (3.17%)",
             "value": 3.026252983293556
         },
         {
-            "color": "#98df8a",
+            "color": "#7f7f7f",
             "label": "read:rss (3.17%)",
             "value": 3.026252983293556
         },
         {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "label": "social (88.89%)",
             "value": 84.85918854415274
         },
         {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "label": "term (3.17%)",
             "value": 3.026252983293556
         }
@@ -37,21 +37,21 @@
             ]
         },
         "mail": {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "minute": [
                 1283,
                 1293
             ]
         },
         "read:rss": {
-            "color": "#98df8a",
+            "color": "#7f7f7f",
             "minute": [
                 1328,
                 1329
             ]
         },
         "social": {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "minute": [
                 1284,
                 1285,
@@ -112,7 +112,7 @@
             ]
         },
         "term": {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "minute": [
                 1282,
                 1388

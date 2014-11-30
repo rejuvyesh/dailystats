@@ -1,39 +1,39 @@
 {
     "piedata": [
         {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "label": "code:python (28.48%)",
             "value": 26.626776364996257
         },
         {
-            "color": "#c49c94",
+            "color": "#bcbd22",
             "label": "irc (2.65%)",
             "value": 2.477561705310396
         },
         {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "label": "mail (4.97%)",
             "value": 4.646596858638743
         },
         {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "label": "read:pdf (7.95%)",
             "value": 7.432685115931188
         },
         {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "label": "social (60.26%)",
             "value": 56.338818249813
         },
         {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "label": "term (2.65%)",
             "value": 2.477561705310396
         }
     ],
     "tagdata": {
         "code:python": {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "minute": [
                 42,
                 43,
@@ -124,7 +124,7 @@
             ]
         },
         "irc": {
-            "color": "#c49c94",
+            "color": "#bcbd22",
             "minute": [
                 25,
                 26,
@@ -137,7 +137,7 @@
             ]
         },
         "mail": {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "minute": [
                 20,
                 63,
@@ -157,7 +157,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "minute": [
                 114,
                 118,
@@ -186,7 +186,7 @@
             ]
         },
         "social": {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "minute": [
                 19,
                 20,
@@ -373,7 +373,7 @@
             ]
         },
         "term": {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "minute": [
                 1069,
                 1071,

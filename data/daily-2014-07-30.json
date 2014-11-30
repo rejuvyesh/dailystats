@@ -6,34 +6,34 @@
             "value": 3.1162268388545766
         },
         {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "label": "mail (34.31%)",
             "value": 32.10743028261277
         },
         {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "label": "read:pdf (3.14%)",
             "value": 2.9384241063073184
         },
         {
-            "color": "#98df8a",
+            "color": "#7f7f7f",
             "label": "read:rss (5.88%)",
             "value": 5.502526670409883
         },
         {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "label": "social (55.10%)",
             "value": 51.562792438704854
         },
         {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "label": "term (5.10%)",
             "value": 4.772599663110612
         }
     ],
     "tagdata": {
         "code:python": {
-            "color": "#ff7f0e",
+            "color": "#f7b6d2",
             "minute": [
                 1087,
                 1088,
@@ -42,7 +42,7 @@
             ]
         },
         "code:web": {
-            "color": "#bcbd22",
+            "color": "#17becf",
             "minute": [
                 1334
             ]
@@ -70,14 +70,14 @@
             ]
         },
         "irc": {
-            "color": "#c49c94",
+            "color": "#bcbd22",
             "minute": [
                 1282,
                 1283
             ]
         },
         "mail": {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "minute": [
                 409,
                 410,
@@ -257,7 +257,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "minute": [
                 821,
                 822,
@@ -278,7 +278,7 @@
             ]
         },
         "read:rss": {
-            "color": "#98df8a",
+            "color": "#7f7f7f",
             "minute": [
                 845,
                 846,
@@ -313,7 +313,7 @@
             ]
         },
         "social": {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "minute": [
                 402,
                 403,
@@ -599,7 +599,7 @@
             ]
         },
         "term": {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "minute": [
                 994,
                 1013,

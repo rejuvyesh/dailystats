@@ -6,17 +6,17 @@
             "value": 2.3721063160903118
         },
         {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "label": "mail (2.90%)",
             "value": 2.7626941030770698
         },
         {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "label": "read:pdf (10.37%)",
             "value": 9.879013051348004
         },
         {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "label": "social (89.21%)",
             "value": 84.98618652948461
         }
@@ -34,7 +34,7 @@
             ]
         },
         "mail": {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "minute": [
                 489,
                 548,
@@ -46,7 +46,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "minute": [
                 8,
                 11,
@@ -76,7 +76,7 @@
             ]
         },
         "social": {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "minute": [
                 9,
                 10,
@@ -296,7 +296,7 @@
             ]
         },
         "term": {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "minute": [
                 1173
             ]

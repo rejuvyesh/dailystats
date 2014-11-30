@@ -6,22 +6,22 @@
             "value": 2.9480443666082894
         },
         {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "label": "mail (4.04%)",
             "value": 3.930725822144386
         },
         {
-            "color": "#2ca02c",
+            "color": "#9467bd",
             "label": "read:mobi (1.52%)",
             "value": 1.4788869429850164
         },
         {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "label": "social (75.25%)",
             "value": 73.21463319712007
         },
         {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "label": "term (18.94%)",
             "value": 18.42770967114225
         }
@@ -45,7 +45,7 @@
             ]
         },
         "mail": {
-            "color": "#c5b0d5",
+            "color": "#ff7f0e",
             "minute": [
                 65,
                 66,
@@ -66,7 +66,7 @@
             ]
         },
         "read:epub": {
-            "color": "#ffbb78",
+            "color": "#c49c94",
             "minute": [
                 126,
                 198,
@@ -74,7 +74,7 @@
             ]
         },
         "read:mobi": {
-            "color": "#2ca02c",
+            "color": "#9467bd",
             "minute": [
                 129,
                 140,
@@ -85,7 +85,7 @@
             ]
         },
         "read:pdf": {
-            "color": "#17becf",
+            "color": "#1f77b4",
             "minute": [
                 123,
                 222,
@@ -93,7 +93,7 @@
             ]
         },
         "social": {
-            "color": "#aec7e8",
+            "color": "#98df8a",
             "minute": [
                 63,
                 64,
@@ -396,7 +396,7 @@
             ]
         },
         "term": {
-            "color": "#ff9896",
+            "color": "#e377c2",
             "minute": [
                 69,
                 78,
