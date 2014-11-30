@@ -2,33 +2,43 @@
     "piedata": [
         {
             "color": "#1f77b4",
-            "label": "code:haskell (2.88%)",
-            "value": 2.88
+            "label": "code:haskell (2.23%)",
+            "value": 2.23
         },
         {
             "color": "#98df8a",
-            "label": "communities (11.51%)",
-            "value": 11.51
+            "label": "communities (8.94%)",
+            "value": 8.94
+        },
+        {
+            "color": "#ff9896",
+            "label": "mail (3.35%)",
+            "value": 3.35
         },
         {
             "color": "#9467bd",
-            "label": "misc (69.06%)",
-            "value": 69.06
+            "label": "misc (67.61%)",
+            "value": 67.61
+        },
+        {
+            "color": "#e377c2",
+            "label": "read:pdf (2.23%)",
+            "value": 2.23
         },
         {
             "color": "#f7b6d2",
-            "label": "read:rss (4.32%)",
-            "value": 4.32
+            "label": "read:rss (3.35%)",
+            "value": 3.35
         },
         {
             "color": "#7f7f7f",
-            "label": "social (10.79%)",
-            "value": 10.79
+            "label": "social (11.17%)",
+            "value": 11.17
         },
         {
             "color": "#17becf",
-            "label": "write (1.44%)",
-            "value": 1.44
+            "label": "write (1.12%)",
+            "value": 1.12
         }
     ],
     "tagdata": {
@@ -68,10 +78,24 @@
                 663
             ]
         },
+        "mail": {
+            "color": "#ff9896",
+            "minute": [
+                764,
+                767,
+                770,
+                771,
+                772,
+                775
+            ]
+        },
         "read:pdf": {
             "color": "#e377c2",
             "minute": [
-                539
+                539,
+                732,
+                733,
+                756
             ]
         },
         "read:rss": {
@@ -102,7 +126,12 @@
                 652,
                 653,
                 654,
-                655
+                655,
+                723,
+                724,
+                731,
+                762,
+                763
             ]
         },
         "write": {
