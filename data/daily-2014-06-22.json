@@ -1,34 +1,34 @@
 {
     "piedata": [
         {
-            "color": "#dbdb8d",
+            "color": "#9467bd",
             "label": "communities (5.88%)",
             "value": 4.792566631347299
         },
         {
-            "color": "#bcbd22",
+            "color": "#1f77b4",
             "label": "irc (3.36%)",
             "value": 2.738609503627028
         },
         {
-            "color": "#ff7f0e",
+            "color": "#7f7f7f",
             "label": "mail (2.52%)",
             "value": 2.053957127720271
         },
         {
-            "color": "#7f7f7f",
+            "color": "#e377c2",
             "label": "read:rss (15.13%)",
             "value": 12.331893389844325
         },
         {
-            "color": "#98df8a",
+            "color": "#ffbb78",
             "label": "social (95.80%)",
             "value": 78.08297334746109
         }
     ],
     "tagdata": {
         "communities": {
-            "color": "#dbdb8d",
+            "color": "#9467bd",
             "minute": [
                 1282,
                 1283,
@@ -40,7 +40,7 @@
             ]
         },
         "irc": {
-            "color": "#bcbd22",
+            "color": "#1f77b4",
             "minute": [
                 1403,
                 1405,
@@ -49,7 +49,7 @@
             ]
         },
         "mail": {
-            "color": "#ff7f0e",
+            "color": "#7f7f7f",
             "minute": [
                 1266,
                 1267,
@@ -57,7 +57,7 @@
             ]
         },
         "read:rss": {
-            "color": "#7f7f7f",
+            "color": "#e377c2",
             "minute": [
                 1294,
                 1296,
@@ -80,7 +80,7 @@
             ]
         },
         "social": {
-            "color": "#98df8a",
+            "color": "#ffbb78",
             "minute": [
                 1262,
                 1263,
@@ -199,7 +199,7 @@
             ]
         },
         "term": {
-            "color": "#e377c2",
+            "color": "#c5b0d5",
             "minute": [
                 1261
             ]

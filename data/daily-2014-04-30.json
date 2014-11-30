@@ -1,29 +1,29 @@
 {
     "piedata": [
         {
-            "color": "#ff7f0e",
+            "color": "#7f7f7f",
             "label": "mail (89.47%)",
             "value": 89.47
         },
         {
-            "color": "#d62728",
+            "color": "#dbdb8d",
             "label": "misc (0.00%)",
             "value": 0.0
         },
         {
-            "color": "#1f77b4",
+            "color": "#c7c7c7",
             "label": "read:pdf (1.32%)",
             "value": 1.32
         },
         {
-            "color": "#e377c2",
+            "color": "#c5b0d5",
             "label": "term (9.21%)",
             "value": 9.21
         }
     ],
     "tagdata": {
         "mail": {
-            "color": "#ff7f0e",
+            "color": "#7f7f7f",
             "minute": [
                 1350,
                 1351,
@@ -96,13 +96,13 @@
             ]
         },
         "read:pdf": {
-            "color": "#1f77b4",
+            "color": "#c7c7c7",
             "minute": [
                 1421
             ]
         },
         "term": {
-            "color": "#e377c2",
+            "color": "#c5b0d5",
             "minute": [
                 1342,
                 1343,
