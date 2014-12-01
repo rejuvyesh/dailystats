@@ -2,8 +2,8 @@
     "piedata": [
         {
             "color": "#1f77b4",
-            "label": "code:haskell (2.12%)",
-            "value": 2.12
+            "label": "code:haskell (2.68%)",
+            "value": 2.68
         },
         {
             "color": "#aec7e8",
@@ -22,8 +22,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (58.48%)",
-            "value": 58.480000000000004
+            "label": "misc (57.92%)",
+            "value": 57.92
         },
         {
             "color": "#e377c2",
@@ -50,6 +50,10 @@
         "code:haskell": {
             "color": "#1f77b4",
             "minute": [
+                739,
+                747,
+                926,
+                931,
                 996,
                 997,
                 998,

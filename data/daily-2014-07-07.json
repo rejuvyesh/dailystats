@@ -22,8 +22,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (52.42%)",
-            "value": 52.42
+            "label": "misc (51.27%)",
+            "value": 51.27
         },
         {
             "color": "#e377c2",
@@ -44,6 +44,11 @@
             "color": "#c7c7c7",
             "label": "term (7.16%)",
             "value": 7.16
+        },
+        {
+            "color": "#9edae5",
+            "label": "write (1.15%)",
+            "value": 1.15
         }
     ],
     "tagdata": {
@@ -302,7 +307,11 @@
         "write": {
             "color": "#9edae5",
             "minute": [
-                141
+                141,
+                142,
+                143,
+                147,
+                148
             ]
         }
     }

@@ -53,6 +53,12 @@
                 1434
             ]
         },
+        "code:web": {
+            "color": "#2ca02c",
+            "minute": [
+                151
+            ]
+        },
         "communities": {
             "color": "#98df8a",
             "minute": [

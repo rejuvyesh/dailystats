@@ -45,7 +45,8 @@
         "code:haskell": {
             "color": "#1f77b4",
             "minute": [
-                1269
+                1269,
+                1328
             ]
         },
         "code:matlab": {

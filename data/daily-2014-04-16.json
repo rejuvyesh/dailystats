@@ -37,6 +37,12 @@
         }
     ],
     "tagdata": {
+        "code:haskell": {
+            "color": "#1f77b4",
+            "minute": [
+                1298
+            ]
+        },
         "communities": {
             "color": "#98df8a",
             "minute": [

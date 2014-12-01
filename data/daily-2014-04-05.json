@@ -42,6 +42,19 @@
         }
     ],
     "tagdata": {
+        "code:haskell": {
+            "color": "#1f77b4",
+            "minute": [
+                1294,
+                1295,
+                1299,
+                1307,
+                1309,
+                1335,
+                1352,
+                1368
+            ]
+        },
         "code:ruby": {
             "color": "#ffbb78",
             "minute": [

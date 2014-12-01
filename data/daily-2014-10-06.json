@@ -42,6 +42,12 @@
         }
     ],
     "tagdata": {
+        "code:web": {
+            "color": "#2ca02c",
+            "minute": [
+                1424
+            ]
+        },
         "communities": {
             "color": "#98df8a",
             "minute": [

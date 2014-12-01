@@ -7,13 +7,13 @@
         },
         {
             "color": "#ff7f0e",
-            "label": "code:python (9.13%)",
-            "value": 9.13
+            "label": "code:python (9.48%)",
+            "value": 9.48
         },
         {
             "color": "#2ca02c",
-            "label": "code:web (1.17%)",
-            "value": 1.17
+            "label": "code:web (1.41%)",
+            "value": 1.41
         },
         {
             "color": "#ff9896",
@@ -22,8 +22,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (51.05%)",
-            "value": 51.05
+            "label": "misc (50.46%)",
+            "value": 50.46
         },
         {
             "color": "#e377c2",
@@ -71,6 +71,8 @@
         "code:python": {
             "color": "#ff7f0e",
             "minute": [
+                153,
+                155,
                 168,
                 171,
                 172,
@@ -137,6 +139,7 @@
                 352,
                 353,
                 361,
+                368,
                 374,
                 375,
                 379,
@@ -154,6 +157,8 @@
         "code:web": {
             "color": "#2ca02c",
             "minute": [
+                170,
+                179,
                 327,
                 329,
                 330,

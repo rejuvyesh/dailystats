@@ -1,6 +1,11 @@
 {
     "piedata": [
         {
+            "color": "#2ca02c",
+            "label": "code:web (2.60%)",
+            "value": 2.6
+        },
+        {
             "color": "#98df8a",
             "label": "communities (2.03%)",
             "value": 2.03
@@ -12,8 +17,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (21.27%)",
-            "value": 21.269999999999996
+            "label": "misc (18.67%)",
+            "value": 18.67
         },
         {
             "color": "#e377c2",
@@ -41,6 +46,29 @@
             "color": "#ffbb78",
             "minute": [
                 567
+            ]
+        },
+        "code:web": {
+            "color": "#2ca02c",
+            "minute": [
+                566,
+                569,
+                570,
+                571,
+                572,
+                573,
+                574,
+                577,
+                578,
+                630,
+                631,
+                632,
+                633,
+                634,
+                635,
+                636,
+                637,
+                644
             ]
         },
         "communities": {

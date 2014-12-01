@@ -60,7 +60,11 @@
         "code:web": {
             "color": "#2ca02c",
             "minute": [
-                577
+                577,
+                976,
+                978,
+                982,
+                983
             ]
         },
         "communities": {

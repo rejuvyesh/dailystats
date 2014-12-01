@@ -89,6 +89,16 @@
                 1420
             ]
         },
+        "code:web": {
+            "color": "#2ca02c",
+            "minute": [
+                1408,
+                1409,
+                1410,
+                1411,
+                1413
+            ]
+        },
         "communities": {
             "color": "#98df8a",
             "minute": [

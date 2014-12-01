@@ -1,6 +1,11 @@
 {
     "piedata": [
         {
+            "color": "#1f77b4",
+            "label": "code:haskell (1.78%)",
+            "value": 1.78
+        },
+        {
             "color": "#aec7e8",
             "label": "code:matlab (1.11%)",
             "value": 1.11
@@ -22,8 +27,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (37.55%)",
-            "value": 37.55
+            "label": "misc (35.77%)",
+            "value": 35.769999999999996
         },
         {
             "color": "#e377c2",
@@ -57,6 +62,19 @@
         }
     ],
     "tagdata": {
+        "code:haskell": {
+            "color": "#1f77b4",
+            "minute": [
+                1260,
+                1261,
+                1265,
+                1266,
+                1268,
+                1269,
+                1270,
+                1271
+            ]
+        },
         "code:matlab": {
             "color": "#aec7e8",
             "minute": [

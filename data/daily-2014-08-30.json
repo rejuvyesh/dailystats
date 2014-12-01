@@ -55,7 +55,9 @@
         "code:web": {
             "color": "#2ca02c",
             "minute": [
-                1378
+                1378,
+                1388,
+                1395
             ]
         },
         "communities": {

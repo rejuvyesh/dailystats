@@ -45,7 +45,9 @@
         "code:haskell": {
             "color": "#1f77b4",
             "minute": [
-                1093
+                1093,
+                1242,
+                1243
             ]
         },
         "communities": {
