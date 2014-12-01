@@ -52,16 +52,9 @@
 
       function visualizeMinutes(st, filter) {
         console.log('<Minutes>');
-        d = st[filter];
+
         var div = d3.select("#barcode").append("div");
-
         var filters_div = div.append("div").attr("class", "fsdiv");
-        var filter_div = filters_div.append("div").attr("class", "fdiv");
-        var col = d['color'];
-        var minute = d['minute'];
-
-        filter_div.append("p").attr("class", "tt").attr("style", "color:"+col).text(filter);
-
         var W = $(window).width() - 40;
 
         var svg = div.append("svg")
@@ -72,16 +65,29 @@
                         .domain([1, 1440])
                         .range([0, W]);
 
-        var g = svg.selectAll("e")
-                   .data(minute)
-                   .enter().append("g");
-        g.append("rect")
-         .attr("x", function(d) { return x(d); })
-         .attr("width", W/1440)
-         .attr("y", 0)
-         .attr("height", 50)
-         .attr("fill", col);
+        // For every tag in display_group
+        for(var q=0;q<filter.length;q++) {
+          var filter_div = filters_div.append("div").attr("class", "fdiv");
+          console.log("f:"+filter[q]);
+          var dt = st[filter[q]];
+          if(dt == null) continue;
+          console.log(dt);
+          var col = dt['color'];
+          console.log("col:"+col);
+          var minute = dt['minute'];
 
+          filter_div.append("p").attr("class", "tt").attr("style", "color:"+col).text(filter[q]);
+
+          var g = svg.selectAll("e")
+                     .data(minute)
+                     .enter().append("g");
+          g.append("rect")
+           .attr("x", function(d) { return x(d); })
+           .attr("width", W/1440)
+           .attr("y", 0)
+           .attr("height", 50)
+           .attr("fill", col);
+        }
         var t = 0;
         while(t < 1440) {
           svg.append("text")
