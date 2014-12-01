@@ -58,16 +58,17 @@ h1 {
 #wrap {
   text-align: center;
 }
-#indexlink {
+#backlink {
   position: absolute;
   font-size: 2rem;
   top: 25px;
-  right: 100px;
+  left: 100px;
   font-weight: normal;
   font-family: 'Lato', sans-serif;
 }
-#indexlink a {
+#backlink a {
   color: #FFF;
+  text-decoration: none;
 }
 
 h2 {
