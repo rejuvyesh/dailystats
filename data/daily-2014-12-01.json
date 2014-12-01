@@ -2,38 +2,38 @@
     "piedata": [
         {
             "color": "#2ca02c",
-            "label": "code:web (15.60%)",
-            "value": 15.6
+            "label": "code:web (13.66%)",
+            "value": 13.66
         },
         {
             "color": "#ff9896",
-            "label": "mail (6.13%)",
-            "value": 6.13
+            "label": "mail (5.37%)",
+            "value": 5.37
         },
         {
             "color": "#9467bd",
-            "label": "misc (40.38%)",
-            "value": 40.38
+            "label": "misc (43.16%)",
+            "value": 43.160000000000004
         },
         {
             "color": "#e377c2",
-            "label": "read:pdf (12.26%)",
-            "value": 12.26
+            "label": "read:pdf (11.71%)",
+            "value": 11.71
         },
         {
             "color": "#f7b6d2",
-            "label": "read:rss (3.62%)",
-            "value": 3.62
+            "label": "read:rss (5.37%)",
+            "value": 5.37
         },
         {
             "color": "#7f7f7f",
-            "label": "social (6.69%)",
-            "value": 6.69
+            "label": "social (7.32%)",
+            "value": 7.32
         },
         {
             "color": "#17becf",
-            "label": "write (15.32%)",
-            "value": 15.32
+            "label": "write (13.41%)",
+            "value": 13.41
         }
     ],
     "tagdata": {
@@ -171,7 +171,11 @@
                 815,
                 817,
                 820,
-                821
+                821,
+                966,
+                986,
+                987,
+                1016
             ]
         },
         "read:rss": {
@@ -189,7 +193,16 @@
                 622,
                 623,
                 624,
-                625
+                625,
+                988,
+                989,
+                995,
+                997,
+                998,
+                1005,
+                1006,
+                1009,
+                1011
             ]
         },
         "social": {
@@ -218,7 +231,13 @@
                 824,
                 828,
                 880,
-                956
+                956,
+                972,
+                973,
+                974,
+                975,
+                983,
+                984
             ]
         },
         "write": {
