@@ -2,38 +2,38 @@
     "piedata": [
         {
             "color": "#2ca02c",
-            "label": "code:web (1.42%)",
-            "value": 1.42
+            "label": "code:web (1.48%)",
+            "value": 1.48
         },
         {
             "color": "#ff9896",
-            "label": "mail (5.21%)",
-            "value": 5.21
+            "label": "mail (5.91%)",
+            "value": 5.91
         },
         {
             "color": "#9467bd",
-            "label": "misc (55.93%)",
-            "value": 55.93
+            "label": "misc (58.65%)",
+            "value": 58.65
         },
         {
             "color": "#e377c2",
-            "label": "read:pdf (11.61%)",
-            "value": 11.61
+            "label": "read:pdf (10.55%)",
+            "value": 10.55
         },
         {
             "color": "#f7b6d2",
-            "label": "read:rss (5.21%)",
-            "value": 5.21
+            "label": "read:rss (4.64%)",
+            "value": 4.64
         },
         {
             "color": "#7f7f7f",
-            "label": "social (7.35%)",
-            "value": 7.35
+            "label": "social (6.96%)",
+            "value": 6.96
         },
         {
             "color": "#9edae5",
-            "label": "write (13.27%)",
-            "value": 13.27
+            "label": "write (11.81%)",
+            "value": 11.81
         }
     ],
     "tagdata": {
@@ -45,7 +45,14 @@
                 898,
                 899,
                 900,
-                902
+                902,
+                1113
+            ]
+        },
+        "irc": {
+            "color": "#d62728",
+            "minute": [
+                1085
             ]
         },
         "mail": {
@@ -72,7 +79,13 @@
                 759,
                 760,
                 761,
-                762
+                762,
+                1092,
+                1093,
+                1094,
+                1095,
+                1096,
+                1127
             ]
         },
         "read:pdf": {
@@ -126,7 +139,8 @@
                 986,
                 987,
                 1016,
-                1070
+                1070,
+                1089
             ]
         },
         "read:rss": {
@@ -189,13 +203,16 @@
                 975,
                 983,
                 984,
-                1071
+                1071,
+                1086,
+                1090
             ]
         },
         "tv:local": {
             "color": "#dbdb8d",
             "minute": [
-                1073
+                1073,
+                1097
             ]
         },
         "write": {
