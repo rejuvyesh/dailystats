@@ -31,23 +31,17 @@
             "value": 10.86
         },
         {
-            "color": "#bcbd22",
+            "color": "#dbdb8d",
             "label": "tv:local (11.70%)",
             "value": 11.7
         },
         {
-            "color": "#dbdb8d",
+            "color": "#17becf",
             "label": "tv:web (1.95%)",
             "value": 1.95
         }
     ],
     "tagdata": {
-        "code:web": {
-            "color": "#2ca02c",
-            "minute": [
-                1424
-            ]
-        },
         "communities": {
             "color": "#98df8a",
             "minute": [
@@ -202,7 +196,7 @@
             ]
         },
         "tv:local": {
-            "color": "#bcbd22",
+            "color": "#dbdb8d",
             "minute": [
                 1278,
                 1279,
@@ -249,7 +243,7 @@
             ]
         },
         "tv:web": {
-            "color": "#dbdb8d",
+            "color": "#17becf",
             "minute": [
                 734,
                 735,

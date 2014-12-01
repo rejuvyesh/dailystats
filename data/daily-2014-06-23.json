@@ -17,8 +17,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (58.12%)",
-            "value": 58.12
+            "label": "misc (57.10%)",
+            "value": 57.099999999999994
         },
         {
             "color": "#e377c2",
@@ -39,6 +39,11 @@
             "color": "#c7c7c7",
             "label": "term (4.06%)",
             "value": 4.06
+        },
+        {
+            "color": "#dbdb8d",
+            "label": "tv:local (1.02%)",
+            "value": 1.02
         }
     ],
     "tagdata": {
@@ -252,6 +257,15 @@
                 1437,
                 1438,
                 1439
+            ]
+        },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                123,
+                1255,
+                1256,
+                1265
             ]
         }
     }

@@ -385,8 +385,17 @@
                 1284
             ]
         },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                1398,
+                1429,
+                1430,
+                1431
+            ]
+        },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 494,
                 495

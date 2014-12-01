@@ -260,8 +260,14 @@
                 1252
             ]
         },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                1171
+            ]
+        },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 1232
             ]

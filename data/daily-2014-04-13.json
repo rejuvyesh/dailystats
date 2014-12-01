@@ -1,11 +1,6 @@
 {
     "piedata": [
         {
-            "color": "#1f77b4",
-            "label": "code:haskell (2.84%)",
-            "value": 2.84
-        },
-        {
             "color": "#d62728",
             "label": "irc (2.13%)",
             "value": 2.13
@@ -17,8 +12,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (50.52%)",
-            "value": 50.52
+            "label": "misc (53.36%)",
+            "value": 53.36
         },
         {
             "color": "#e377c2",
@@ -36,7 +31,7 @@
             "value": 30.5
         },
         {
-            "color": "#17becf",
+            "color": "#9edae5",
             "label": "write (1.06%)",
             "value": 1.06
         }
@@ -46,21 +41,9 @@
             "color": "#1f77b4",
             "minute": [
                 112,
-                581,
-                606,
-                607,
-                608,
-                609,
-                614,
-                618,
                 720,
                 890,
-                897,
-                908,
-                940,
-                976,
-                997,
-                998
+                897
             ]
         },
         "communities": {
@@ -351,8 +334,15 @@
                 1108
             ]
         },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                58,
+                79
+            ]
+        },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 803,
                 805,

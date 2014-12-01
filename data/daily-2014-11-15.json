@@ -2,8 +2,8 @@
     "piedata": [
         {
             "color": "#ff7f0e",
-            "label": "code:python (8.88%)",
-            "value": 8.88
+            "label": "code:python (5.41%)",
+            "value": 5.41
         },
         {
             "color": "#ff9896",
@@ -12,8 +12,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (59.07%)",
-            "value": 59.07
+            "label": "misc (62.15%)",
+            "value": 62.150000000000006
         },
         {
             "color": "#e377c2",
@@ -26,9 +26,9 @@
             "value": 10.04
         },
         {
-            "color": "#bcbd22",
-            "label": "tv:local (16.60%)",
-            "value": 16.6
+            "color": "#dbdb8d",
+            "label": "tv:local (16.99%)",
+            "value": 16.99
         }
     ],
     "tagdata": {
@@ -55,21 +55,12 @@
                 1142,
                 1143,
                 1144,
-                1153,
-                1155,
                 1156,
                 1157,
                 1158,
                 1159,
-                1171,
-                1172,
-                1174,
                 1175,
-                1218,
-                1219,
-                1232,
-                1237,
-                1238
+                1232
             ]
         },
         "communities": {
@@ -135,8 +126,9 @@
             ]
         },
         "tv:local": {
-            "color": "#bcbd22",
+            "color": "#dbdb8d",
             "minute": [
+                1269,
                 1274,
                 1275,
                 1276,

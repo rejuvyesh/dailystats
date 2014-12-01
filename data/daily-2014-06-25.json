@@ -298,8 +298,17 @@
                 1430
             ]
         },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                70,
+                71,
+                72,
+                99
+            ]
+        },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 202,
                 203,

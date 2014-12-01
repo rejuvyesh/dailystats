@@ -293,8 +293,16 @@
                 1177
             ]
         },
-        "tv:web": {
+        "tv:local": {
             "color": "#dbdb8d",
+            "minute": [
+                377,
+                378,
+                379
+            ]
+        },
+        "tv:web": {
+            "color": "#17becf",
             "minute": [
                 1327,
                 1335,
@@ -302,7 +310,7 @@
             ]
         },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 117
             ]

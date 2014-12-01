@@ -31,7 +31,7 @@
             "value": 7.57
         },
         {
-            "color": "#dbdb8d",
+            "color": "#17becf",
             "label": "tv:web (1.16%)",
             "value": 1.16
         }
@@ -265,16 +265,19 @@
             ]
         },
         "tv:local": {
-            "color": "#bcbd22",
+            "color": "#dbdb8d",
             "minute": [
+                549,
+                550,
                 694,
                 695,
                 696,
-                697
+                697,
+                1390
             ]
         },
         "tv:web": {
-            "color": "#dbdb8d",
+            "color": "#17becf",
             "minute": [
                 874,
                 876,

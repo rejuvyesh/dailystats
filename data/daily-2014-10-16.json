@@ -36,7 +36,7 @@
             "value": 11.28
         },
         {
-            "color": "#bcbd22",
+            "color": "#dbdb8d",
             "label": "tv:local (9.34%)",
             "value": 9.34
         }
@@ -319,7 +319,7 @@
             ]
         },
         "tv:local": {
-            "color": "#bcbd22",
+            "color": "#dbdb8d",
             "minute": [
                 1291,
                 1292,

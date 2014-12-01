@@ -41,12 +41,12 @@
             "value": 6.64
         },
         {
-            "color": "#bcbd22",
+            "color": "#dbdb8d",
             "label": "tv:local (7.90%)",
             "value": 7.9
         },
         {
-            "color": "#17becf",
+            "color": "#9edae5",
             "label": "write (8.21%)",
             "value": 8.21
         }
@@ -381,7 +381,7 @@
             ]
         },
         "tv:local": {
-            "color": "#bcbd22",
+            "color": "#dbdb8d",
             "minute": [
                 887,
                 888,
@@ -436,7 +436,7 @@
             ]
         },
         "tv:web": {
-            "color": "#dbdb8d",
+            "color": "#17becf",
             "minute": [
                 647,
                 650,
@@ -447,7 +447,7 @@
             ]
         },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 622,
                 624,

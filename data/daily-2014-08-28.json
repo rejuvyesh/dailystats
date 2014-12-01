@@ -41,7 +41,7 @@
             "value": 14.5
         },
         {
-            "color": "#17becf",
+            "color": "#9edae5",
             "label": "write (8.66%)",
             "value": 8.66
         }
@@ -60,11 +60,7 @@
         "code:web": {
             "color": "#2ca02c",
             "minute": [
-                577,
-                976,
-                978,
-                982,
-                983
+                577
             ]
         },
         "communities": {
@@ -360,7 +356,7 @@
             ]
         },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 0,
                 1,

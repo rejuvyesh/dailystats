@@ -7,8 +7,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (82.22%)",
-            "value": 82.22
+            "label": "misc (81.02%)",
+            "value": 81.02
         },
         {
             "color": "#e377c2",
@@ -24,6 +24,11 @@
             "color": "#c7c7c7",
             "label": "term (1.68%)",
             "value": 1.68
+        },
+        {
+            "color": "#dbdb8d",
+            "label": "tv:local (1.20%)",
+            "value": 1.2
         }
     ],
     "tagdata": {
@@ -127,6 +132,16 @@
                 451,
                 452,
                 1132
+            ]
+        },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                221,
+                222,
+                223,
+                224,
+                225
             ]
         }
     }

@@ -12,8 +12,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (16.28%)",
-            "value": 16.28
+            "label": "misc (13.95%)",
+            "value": 13.950000000000003
         },
         {
             "color": "#e377c2",
@@ -31,7 +31,12 @@
             "value": 5.81
         },
         {
-            "color": "#17becf",
+            "color": "#dbdb8d",
+            "label": "tv:local (2.33%)",
+            "value": 2.33
+        },
+        {
+            "color": "#9edae5",
             "label": "write (2.33%)",
             "value": 2.33
         }
@@ -132,8 +137,15 @@
                 59
             ]
         },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                145,
+                146
+            ]
+        },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 50,
                 54

@@ -17,8 +17,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (71.79%)",
-            "value": 71.78999999999999
+            "label": "misc (68.31%)",
+            "value": 68.31
         },
         {
             "color": "#8c564b",
@@ -34,9 +34,20 @@
             "color": "#c7c7c7",
             "label": "term (6.23%)",
             "value": 6.23
+        },
+        {
+            "color": "#dbdb8d",
+            "label": "tv:local (3.48%)",
+            "value": 3.48
         }
     ],
     "tagdata": {
+        "code:matlab": {
+            "color": "#aec7e8",
+            "minute": [
+                75
+            ]
+        },
         "communities": {
             "color": "#98df8a",
             "minute": [
@@ -235,6 +246,30 @@
                 1181,
                 1183,
                 1239
+            ]
+        },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                302,
+                565,
+                566,
+                567,
+                569,
+                570,
+                571,
+                572,
+                573,
+                574,
+                575,
+                576,
+                577,
+                578,
+                579,
+                580,
+                581,
+                582,
+                583
             ]
         }
     }

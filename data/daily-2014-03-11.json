@@ -7,8 +7,8 @@
         },
         {
             "color": "#2ca02c",
-            "label": "code:web (2.45%)",
-            "value": 2.45
+            "label": "code:web (2.18%)",
+            "value": 2.18
         },
         {
             "color": "#d62728",
@@ -22,8 +22,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (47.97%)",
-            "value": 47.96999999999999
+            "label": "misc (46.06%)",
+            "value": 46.059999999999995
         },
         {
             "color": "#e377c2",
@@ -41,7 +41,12 @@
             "value": 11.44
         },
         {
-            "color": "#17becf",
+            "color": "#dbdb8d",
+            "label": "tv:local (2.18%)",
+            "value": 2.18
+        },
+        {
+            "color": "#9edae5",
             "label": "write (3.54%)",
             "value": 3.54
         }
@@ -70,7 +75,6 @@
         "code:web": {
             "color": "#2ca02c",
             "minute": [
-                20,
                 855,
                 856,
                 857,
@@ -267,8 +271,21 @@
                 1169
             ]
         },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                1203,
+                1206,
+                1207,
+                1209,
+                1210,
+                1215,
+                1218,
+                1220
+            ]
+        },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 792,
                 828,

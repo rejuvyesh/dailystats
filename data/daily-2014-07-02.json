@@ -41,7 +41,7 @@
             "value": 7.21
         },
         {
-            "color": "#17becf",
+            "color": "#9edae5",
             "label": "write (6.67%)",
             "value": 6.67
         }
@@ -385,14 +385,20 @@
                 1425
             ]
         },
-        "tv:web": {
+        "tv:local": {
             "color": "#dbdb8d",
+            "minute": [
+                521
+            ]
+        },
+        "tv:web": {
+            "color": "#17becf",
             "minute": [
                 170
             ]
         },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 106,
                 108,

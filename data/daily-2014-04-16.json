@@ -37,12 +37,6 @@
         }
     ],
     "tagdata": {
-        "code:haskell": {
-            "color": "#1f77b4",
-            "minute": [
-                1298
-            ]
-        },
         "communities": {
             "color": "#98df8a",
             "minute": [
@@ -261,8 +255,16 @@
                 1438
             ]
         },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                1410,
+                1411,
+                1412
+            ]
+        },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 738,
                 862,

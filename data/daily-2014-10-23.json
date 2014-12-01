@@ -278,8 +278,17 @@
                 1438
             ]
         },
-        "tv:web": {
+        "tv:local": {
             "color": "#dbdb8d",
+            "minute": [
+                582,
+                583,
+                584,
+                1316
+            ]
+        },
+        "tv:web": {
+            "color": "#17becf",
             "minute": [
                 790,
                 791

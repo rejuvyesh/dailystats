@@ -22,8 +22,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (67.17%)",
-            "value": 67.17
+            "label": "misc (65.18%)",
+            "value": 65.18
         },
         {
             "color": "#f7b6d2",
@@ -36,9 +36,9 @@
             "value": 13.18
         },
         {
-            "color": "#bcbd22",
-            "label": "tv:local (4.73%)",
-            "value": 4.73
+            "color": "#dbdb8d",
+            "label": "tv:local (6.72%)",
+            "value": 6.72
         }
     ],
     "tagdata": {
@@ -198,8 +198,15 @@
             ]
         },
         "tv:local": {
-            "color": "#bcbd22",
+            "color": "#dbdb8d",
             "minute": [
+                658,
+                677,
+                678,
+                682,
+                683,
+                689,
+                744,
                 866,
                 867,
                 869,
@@ -210,6 +217,7 @@
                 893,
                 894,
                 910,
+                966,
                 1391,
                 1400,
                 1401,
@@ -222,7 +230,7 @@
             ]
         },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 617,
                 618

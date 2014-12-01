@@ -180,6 +180,12 @@
             "minute": [
                 1135
             ]
+        },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                1163
+            ]
         }
     }
 }

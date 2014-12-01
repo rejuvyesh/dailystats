@@ -2,8 +2,8 @@
     "piedata": [
         {
             "color": "#aec7e8",
-            "label": "code:matlab (2.30%)",
-            "value": 2.3
+            "label": "code:matlab (2.66%)",
+            "value": 2.66
         },
         {
             "color": "#98df8a",
@@ -22,8 +22,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (54.48%)",
-            "value": 54.480000000000004
+            "label": "misc (54.12%)",
+            "value": 54.12
         },
         {
             "color": "#e377c2",
@@ -41,7 +41,7 @@
             "value": 11.5
         },
         {
-            "color": "#17becf",
+            "color": "#9edae5",
             "label": "write (5.57%)",
             "value": 5.57
         }
@@ -68,7 +68,10 @@
                 1145,
                 1147,
                 1148,
-                1260
+                1260,
+                1334,
+                1335,
+                1336
             ]
         },
         "code:python": {
@@ -427,8 +430,15 @@
                 1424
             ]
         },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                53,
+                1420
+            ]
+        },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 1024,
                 1026,

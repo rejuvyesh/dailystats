@@ -7,8 +7,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (41.85%)",
-            "value": 41.85
+            "label": "misc (36.89%)",
+            "value": 36.89
         },
         {
             "color": "#e377c2",
@@ -24,6 +24,11 @@
             "color": "#c7c7c7",
             "label": "term (21.63%)",
             "value": 21.63
+        },
+        {
+            "color": "#dbdb8d",
+            "label": "tv:local (4.96%)",
+            "value": 4.96
         }
     ],
     "tagdata": {
@@ -217,8 +222,27 @@
                 1405
             ]
         },
+        "tv:local": {
+            "color": "#dbdb8d",
+            "minute": [
+                1361,
+                1362,
+                1363,
+                1364,
+                1365,
+                1366,
+                1367,
+                1368,
+                1375,
+                1376,
+                1377,
+                1378,
+                1379,
+                1383
+            ]
+        },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 1142,
                 1143

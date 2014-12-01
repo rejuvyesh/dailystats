@@ -41,7 +41,7 @@
             "value": 12.7
         },
         {
-            "color": "#17becf",
+            "color": "#9edae5",
             "label": "write (3.17%)",
             "value": 3.17
         }
@@ -112,7 +112,7 @@
             ]
         },
         "write": {
-            "color": "#17becf",
+            "color": "#9edae5",
             "minute": [
                 19,
                 20
