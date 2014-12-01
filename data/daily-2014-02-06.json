@@ -22,8 +22,8 @@
         },
         {
             "color": "#9467bd",
-            "label": "misc (35.83%)",
-            "value": 35.83
+            "label": "misc (35.54%)",
+            "value": 35.53999999999999
         },
         {
             "color": "#c5b0d5",
@@ -47,8 +47,8 @@
         },
         {
             "color": "#17becf",
-            "label": "write (1.87%)",
-            "value": 1.87
+            "label": "write (2.16%)",
+            "value": 2.16
         }
     ],
     "tagdata": {
@@ -533,6 +533,8 @@
         "write": {
             "color": "#17becf",
             "minute": [
+                884,
+                885,
                 886,
                 888,
                 893,
