@@ -1,42 +1,65 @@
 {
     "piedata": [
         {
+            "color": "#ff7f0e",
+            "label": "code:python (2.20%)",
+            "value": 2.2
+        },
+        {
             "color": "#2ca02c",
-            "label": "code:web (15.50%)",
-            "value": 15.5
+            "label": "code:web (14.38%)",
+            "value": 14.38
         },
         {
             "color": "#ff9896",
-            "label": "mail (7.75%)",
-            "value": 7.75
+            "label": "mail (8.80%)",
+            "value": 8.8
         },
         {
             "color": "#9467bd",
-            "label": "misc (46.49%)",
-            "value": 46.489999999999995
+            "label": "misc (46.53%)",
+            "value": 46.53
         },
         {
             "color": "#e377c2",
-            "label": "read:pdf (9.23%)",
-            "value": 9.23
+            "label": "read:pdf (8.46%)",
+            "value": 8.46
         },
         {
             "color": "#f7b6d2",
-            "label": "read:rss (4.06%)",
-            "value": 4.06
+            "label": "read:rss (3.72%)",
+            "value": 3.72
         },
         {
             "color": "#7f7f7f",
-            "label": "social (6.64%)",
-            "value": 6.64
+            "label": "social (6.43%)",
+            "value": 6.43
         },
         {
             "color": "#9edae5",
-            "label": "write (10.33%)",
-            "value": 10.33
+            "label": "write (9.48%)",
+            "value": 9.48
         }
     ],
     "tagdata": {
+        "code:python": {
+            "color": "#ff7f0e",
+            "minute": [
+                1238,
+                1239,
+                1240,
+                1241,
+                1242,
+                1245,
+                1246,
+                1247,
+                1248,
+                1249,
+                1251,
+                1252,
+                1253
+            ]
+        },
         "code:web": {
             "color": "#2ca02c",
             "minute": [
@@ -123,7 +146,8 @@
                 1152,
                 1155,
                 1156,
-                1157
+                1157,
+                1217
             ]
         },
         "irc": {
@@ -178,7 +202,17 @@
                 1196,
                 1197,
                 1198,
-                1199
+                1199,
+                1200,
+                1201,
+                1218,
+                1219,
+                1220,
+                1234,
+                1235,
+                1255,
+                1258,
+                1259
             ]
         },
         "read:pdf": {
@@ -301,7 +335,9 @@
                 1090,
                 1167,
                 1175,
-                1181
+                1181,
+                1243,
+                1244
             ]
         },
         "tv:local": {
