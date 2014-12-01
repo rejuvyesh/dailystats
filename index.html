@@ -6,6 +6,7 @@
     <title>Daily Usage</title>
     <link rel="shortcut icon" type="image/x-icon" href="./favicon.ico" />
     <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="icon-style.css" rel="stylesheet" type="text/css">
     <script src="./libs/underscore.js"></script>
     <script src="./libs/d3.js"></script>
     <script type="text/javascript" src="./libs/jquery.min.js"></script>
@@ -34,7 +35,7 @@
       function writeTotalTime(tot) {
         t = tot.split(":");
         console.log(t)
-          $("#totaltime").text("Total Time: "+ t[0] + "hr "+ t[1]+ "min "+ t[2]+ "s")
+          $("#totaltime").append("<span class=\"icon-clock\" style=\"font-size:2rem;color:#26A65B\" aria-hidden=\"true\"></span> " + t[0] + "hr "+ t[1]+ "min "+ t[2]+ "s" + "<span style=\"color:#888\"> logged in.</span>")
       }
 
       function writeCarousel(daylog) {
