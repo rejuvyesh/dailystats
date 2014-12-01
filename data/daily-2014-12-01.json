@@ -1,0 +1,56 @@
+{
+    "piedata": [
+        {
+            "color": "#ff9896",
+            "label": "mail (9.68%)",
+            "value": 9.68
+        },
+        {
+            "color": "#9467bd",
+            "label": "misc (54.83%)",
+            "value": 54.830000000000005
+        },
+        {
+            "color": "#e377c2",
+            "label": "read:pdf (3.23%)",
+            "value": 3.23
+        },
+        {
+            "color": "#7f7f7f",
+            "label": "social (32.26%)",
+            "value": 32.26
+        }
+    ],
+    "tagdata": {
+        "mail": {
+            "color": "#ff9896",
+            "minute": [
+                54,
+                533,
+                540
+            ]
+        },
+        "read:pdf": {
+            "color": "#e377c2",
+            "minute": [
+                52
+            ]
+        },
+        "social": {
+            "color": "#7f7f7f",
+            "minute": [
+                4,
+                5,
+                53,
+                528,
+                529,
+                530,
+                531,
+                532,
+                536,
+                537,
+                542
+            ]
+        }
+    }
+}
