@@ -2,33 +2,33 @@
     "piedata": [
         {
             "color": "#ff9896",
-            "label": "mail (7.49%)",
-            "value": 7.49
+            "label": "mail (10.63%)",
+            "value": 10.63
         },
         {
             "color": "#9467bd",
-            "label": "misc (34.76%)",
-            "value": 34.75999999999999
+            "label": "misc (34.29%)",
+            "value": 34.290000000000006
         },
         {
             "color": "#e377c2",
-            "label": "read:pdf (18.18%)",
-            "value": 18.18
+            "label": "read:pdf (18.36%)",
+            "value": 18.36
         },
         {
             "color": "#f7b6d2",
-            "label": "read:rss (6.95%)",
-            "value": 6.95
+            "label": "read:rss (6.28%)",
+            "value": 6.28
         },
         {
             "color": "#7f7f7f",
-            "label": "social (9.63%)",
-            "value": 9.63
+            "label": "social (8.70%)",
+            "value": 8.7
         },
         {
             "color": "#17becf",
-            "label": "write (22.99%)",
-            "value": 22.99
+            "label": "write (21.74%)",
+            "value": 21.74
         }
     ],
     "tagdata": {
@@ -48,7 +48,15 @@
                 736,
                 737,
                 741,
-                742
+                742,
+                755,
+                756,
+                757,
+                758,
+                759,
+                760,
+                761,
+                762
             ]
         },
         "read:pdf": {
@@ -87,7 +95,11 @@
                 729,
                 730,
                 735,
-                738
+                738,
+                750,
+                751,
+                752,
+                766
             ]
         },
         "read:rss": {
@@ -176,7 +188,9 @@
                 725,
                 728,
                 733,
-                734
+                734,
+                753,
+                754
             ]
         }
     }
