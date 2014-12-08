@@ -1,0 +1,1 @@
+{"piedata": [{"color": "#ff9896", "label": "irc (14.29%)", "value": 14.29}, {"color": "#7f7f7f", "label": "social (28.57%)", "value": 28.57}, {"color": "#dbdb8d", "label": "tv-web (57.14%)", "value": 57.14}], "tagdata": {"irc": {"color": "#ff9896", "minute": [49]}, "social": {"color": "#7f7f7f", "minute": [49, 50]}, "tv-web": {"color": "#dbdb8d", "minute": [1, 2, 3]}}}
