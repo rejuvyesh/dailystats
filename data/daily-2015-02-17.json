@@ -1,0 +1,1 @@
+{"piedata": [{"color": "#1f77b4", "label": "browsing (50.00%)", "value": 50.0}, {"color": "#e377c2", "label": "read-pdf (50.00%)", "value": 50.0}], "tagdata": {"browsing": {"color": "#1f77b4", "minute": [0]}, "read-pdf": {"color": "#e377c2", "minute": [1]}}}
