@@ -1,0 +1,1 @@
+{"piedata": [{"color": "#1f77b4", "label": "browsing (50.00%)", "value": 50.0}, {"color": "#bcbd22", "label": "tv-web (50.00%)", "value": 50.0}], "tagdata": {"browsing": {"color": "#1f77b4", "minute": [0]}, "tv-web": {"color": "#bcbd22", "minute": [1, 2]}}}
